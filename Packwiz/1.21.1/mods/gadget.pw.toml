@@ -1,0 +1,13 @@
+filename = 'gadget-0.2.4+1.21.jar'
+name = 'gadget'
+side = 'client'
+
+[download]
+hash = '85caf58f88a28cba520355b7fa28697818caa54542cfa4b7f0b4f476ee3fbc006bf599fd97e81e4abfe8c9124d3e778a05d1a2a92f12b9a08420653643f282fe'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UoGtUh98/versions/SAo88rbs/gadget-0.2.4%2B1.21.jar'
+
+[update.modrinth]
+mod-id = 'UoGtUh98'
+version = 'SAo88rbs'

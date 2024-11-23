@@ -1,0 +1,13 @@
+filename = 'organizable-play-screens-1.2.4+1.21.jar'
+name = 'Folders!'
+side = 'client'
+
+[download]
+hash = '25cc16f36261d89d587c8426fcec60837a9da98729b744fc15699d4a85794acc27c6e1aa7b04903d4b7100af46849a74c357e2ca53ff5f238c2d9b798433da9a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/zKrZtg3n/versions/TeIOzRfZ/organizable-play-screens-1.2.4%2B1.21.jar'
+
+[update.modrinth]
+mod-id = 'zKrZtg3n'
+version = 'TeIOzRfZ'

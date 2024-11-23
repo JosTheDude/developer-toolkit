@@ -1,0 +1,13 @@
+filename = 'Debugify-1.21.1+1.0.jar'
+name = 'Debugify'
+side = 'both'
+
+[download]
+hash = '079e7bd774abf7e25a916b5d4bb8f08d0176a72881497be80bb48ca89a0c1317f9c347c46911c452ea5f71fe2514d7780b5b8e339a61b07c5c4fc7b5cecdb41d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QwxR6Gcd/versions/dO7QNiof/Debugify-1.21.1%2B1.0.jar'
+
+[update.modrinth]
+mod-id = 'QwxR6Gcd'
+version = 'dO7QNiof'

@@ -1,0 +1,13 @@
+{
+  "backButton_x": 8,
+  "backButton_y": 8,
+  "moveEntryBackButton_x": 36,
+  "moveEntryBackButton_y": 8,
+  "newFolderButton_x": -56,
+  "newFolderButton_y": 8,
+  "optionsButton_x": -28,
+  "optionsButton_y": 8,
+  "moveEntryIntoButton_x": -30,
+  "moveEntryIntoButton_y": 6,
+  "buttonType": false
+}

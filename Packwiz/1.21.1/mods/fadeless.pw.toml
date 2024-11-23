@@ -1,0 +1,13 @@
+filename = 'fadeless-2.0.1.jar'
+name = 'Fadeless'
+side = 'both'
+
+[download]
+hash = '54195048220314563458e4941bfbf9b926b7c467a5190701507e3004ce1e5b158c3c7c4282694c96dc7a724b0871be15d9baac06fe41adefe6c7eea05c2a74e3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ncKjyGm3/versions/fOYd9ihS/fadeless-2.0.1.jar'
+
+[update.modrinth]
+mod-id = 'ncKjyGm3'
+version = 'fOYd9ihS'

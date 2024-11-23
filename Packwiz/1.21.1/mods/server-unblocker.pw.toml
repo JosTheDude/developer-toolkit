@@ -1,0 +1,13 @@
+filename = 'server-unblocker-1.0.3.jar'
+name = 'Server Unblocker'
+side = 'both'
+
+[download]
+hash = '28077ad880541bb154f55e177ffecf31b171a0d9f7315f0d442164a41754931e2b2cb3300d6850fc603cb509fd6dc65a950cc5318c117f4fe8aefcee1d1ae6d0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lsAdNsPC/versions/tcJCKwa9/server-unblocker-1.0.3.jar'
+
+[update.modrinth]
+mod-id = 'lsAdNsPC'
+version = 'tcJCKwa9'

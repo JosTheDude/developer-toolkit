@@ -1,0 +1,13 @@
+filename = 'iseelava-fabric-1.21.1-1.0.2.jar'
+name = 'I See Lava'
+side = 'both'
+
+[download]
+hash = '4c7dc770095ef62779dea4dc0cd31c5c2fbf8baf81d3e3cb3bf3ffe4facc70876e7f0272497de86e16899935b00d6a974c7261722edf1c5b9494119c6dfa2afb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/TcVddnvI/versions/l8Xeuf8Y/iseelava-fabric-1.21.1-1.0.2.jar'
+
+[update.modrinth]
+mod-id = 'TcVddnvI'
+version = 'l8Xeuf8Y'

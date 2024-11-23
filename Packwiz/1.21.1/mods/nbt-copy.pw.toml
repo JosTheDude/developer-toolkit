@@ -1,0 +1,13 @@
+filename = 'NBTcopy-FABRIC-1.20.1-1.0.3.jar'
+name = 'NBT Copy'
+side = 'both'
+
+[download]
+hash = '65a7ee31573bf26e12764a9f4d7858c4dd5db5867495d1195801acf212f9f5860980e247a8eee4b6f623b2e3b10e932649bf00207675006655394f31dc61c209'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XIIGRXeq/versions/o8Jvr5xI/NBTcopy-FABRIC-1.20.1-1.0.3.jar'
+
+[update.modrinth]
+mod-id = 'XIIGRXeq'
+version = 'o8Jvr5xI'

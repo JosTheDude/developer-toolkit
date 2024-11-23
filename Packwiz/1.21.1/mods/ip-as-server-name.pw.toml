@@ -1,0 +1,13 @@
+filename = 'IPAsServerName-1.0.3.jar'
+name = 'IP as Server Name'
+side = 'client'
+
+[download]
+hash = '159f05bb9662c6b9d3ff30fdedff6566b514c33077710c89d02aa407a73a7435701b63ddfddc76426066c85324b859de5332154bba650af6a84dd9e708319f8b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rCxpexeJ/versions/frRbvpj8/IPAsServerName-1.0.3.jar'
+
+[update.modrinth]
+mod-id = 'rCxpexeJ'
+version = 'frRbvpj8'

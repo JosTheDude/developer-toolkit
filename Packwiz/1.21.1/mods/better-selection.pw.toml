@@ -1,0 +1,13 @@
+filename = 'better-selection-1.6.3.jar'
+name = 'Better Selection'
+side = 'client'
+
+[download]
+hash = '1b215ab3db61092da7b68b0be4910ba5de336a38f1fd5d7dbc37c56480310f10c0046833557aea1f121ab21e1c64ea40a2fc74918da349bc57a1fa1529b78a43'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xIpcAYJL/versions/BIrdD2MS/better-selection-1.6.3.jar'
+
+[update.modrinth]
+mod-id = 'xIpcAYJL'
+version = 'BIrdD2MS'

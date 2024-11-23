@@ -1,0 +1,13 @@
+filename = 'info-display-1.4+1.21.jar'
+name = 'Simple Info Display'
+side = 'client'
+
+[download]
+hash = '32fd06669f7a2581ba94f1ba5a44879871ab7183f006959c04afcdf9db06d078f76afec2359e1aa794fa0ae70d5c6da7e995f92b79009e0631b8de84f1d44fa6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5Nh83t8E/versions/WKGR4xnq/info-display-1.4%2B1.21.jar'
+
+[update.modrinth]
+mod-id = '5Nh83t8E'
+version = 'WKGR4xnq'

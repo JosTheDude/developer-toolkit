@@ -1,0 +1,13 @@
+filename = 'componentviewer-fabric-1.1.2+1.21.3.jar'
+name = 'Component Viewer'
+side = 'client'
+
+[download]
+hash = '3bd2edb2f9a0a75cc457f09ba7f4e74c6f419af2728c3227478fb8f95e406132ae9602c98dd9f1956b863da28762f4f11cde5e9518b8112bc80934513693b153'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/P9vIqP8R/versions/BaZC3qiH/componentviewer-fabric-1.1.2%2B1.21.3.jar'
+
+[update.modrinth]
+mod-id = 'P9vIqP8R'
+version = 'BaZC3qiH'

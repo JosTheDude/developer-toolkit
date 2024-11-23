@@ -1,0 +1,13 @@
+filename = 'iris-fabric-1.8.0-beta.8+mc1.21.1.jar'
+name = 'Iris'
+side = 'both'
+
+[download]
+hash = 'd606334478327a5ebc838de572ae63626967dbb225b3f70ac446e90c52c683a848052599d5d57162a333bde597a938a12d50413c408f329254fd1bd53923d548'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YL57xq9U/versions/NqWJ1KIA/iris-fabric-1.8.0-beta.8%2Bmc1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'YL57xq9U'
+version = 'NqWJ1KIA'

@@ -1,0 +1,13 @@
+filename = 'essential_1-3-5-1_fabric_1-21-1.jar'
+name = 'essential-container'
+side = 'both'
+
+[download]
+hash = 'cd3acc27133db5fe289f3d06e5308db6fbad12e6f89b902db08589e6756ac12db308c86257e73f0ba586ed7376eb97bea9767d7c37f102ba64d21f88755a50b7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/k2ZPuTBm/versions/V4RxRByn/essential_1-3-5-1_fabric_1-21-1.jar'
+
+[update.modrinth]
+mod-id = 'k2ZPuTBm'
+version = 'V4RxRByn'

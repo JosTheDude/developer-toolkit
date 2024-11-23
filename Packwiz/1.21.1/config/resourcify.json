@@ -1,0 +1,9 @@
+{
+  "defaultService": "Modrinth",
+  "fullResThumbnail": false,
+  "adsEnabled": true,
+  "resourcePacksEnabled": true,
+  "dataPacksEnabled": true,
+  "shaderPacksEnabled": true,
+  "worldsEnabled": true
+}

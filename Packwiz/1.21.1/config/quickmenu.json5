@@ -1,0 +1,10 @@
+{
+	"menuWidth": 180,
+	"menuHeight": 114,
+	"buttonsPerRow": 5,
+	"closeOnKeyReleased": false,
+	"hideEditIcon": false,
+	"closeOnAction": true,
+	"showActionsInTooltip": true,
+	"displayRunText": "KEYBIND_ONLY"
+}

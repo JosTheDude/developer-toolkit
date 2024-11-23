@@ -1,0 +1,13 @@
+filename = 'autoreconnectrf-fabric-1.0.0+1.21.jar'
+name = 'AutoReconnect-Reforged'
+side = 'both'
+
+[download]
+hash = '3b8b287bcb48ea199d35fa5dc52e6c75a1041defc65b94cb62dcfca0dedfcf382da920918a924ea4eb885544c7df786f1539453409c4a5cda1458dedeea56d2b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PRy8Khga/versions/NVW8VeB9/autoreconnectrf-fabric-1.0.0%2B1.21.jar'
+
+[update.modrinth]
+mod-id = 'PRy8Khga'
+version = 'NVW8VeB9'

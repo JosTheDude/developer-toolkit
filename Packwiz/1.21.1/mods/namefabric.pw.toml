@@ -1,0 +1,13 @@
+filename = 'namefabric-1.0.4+1.19+.jar'
+name = 'NameFabric'
+side = 'client'
+
+[download]
+hash = '49215a4769413cc1ae258db5e39c2841d28005e1cb4e1a61ba1aa90b1af80356f0ece73b277b79a2c5affeaf195fe6ff72b55a85f54732a4529c00ae6fe32705'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Kt9bUp9L/versions/Xvs7oBUI/namefabric-1.0.4%2B1.19%2B.jar'
+
+[update.modrinth]
+mod-id = 'Kt9bUp9L'
+version = 'Xvs7oBUI'

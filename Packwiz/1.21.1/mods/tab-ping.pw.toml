@@ -1,0 +1,13 @@
+filename = 'pingtabmod-0.2.2-B-1.21.1.jar'
+name = 'PingTabMod'
+side = 'both'
+
+[download]
+hash = 'b94a925ef7f224f4e25cf912b5c39bd93caba457a1694346791ef33538794403de2321a4cbde9c28faf83b6aef494ca9b13984136622013e788a0eb6b47eb7f8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2Galpqy2/versions/s3ECMj6p/pingtabmod-0.2.2-B-1.21.1.jar'
+
+[update.modrinth]
+mod-id = '2Galpqy2'
+version = 's3ECMj6p'

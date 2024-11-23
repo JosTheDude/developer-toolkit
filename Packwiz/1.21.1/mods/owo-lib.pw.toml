@@ -1,0 +1,13 @@
+filename = 'owo-lib-0.12.15+1.21.jar'
+name = 'oωo'
+side = 'both'
+
+[download]
+hash = 'faa86df062ec4fa58b653455deb1307a778e4307392f51a29c5a87de78da7173bb6f77a5ed239306226f2bf972aa9221fbd946a2c07232ecfa09f798ae381924'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ccKDOlHs/versions/vCCHsvEa/owo-lib-0.12.15%2B1.21.jar'
+
+[update.modrinth]
+mod-id = 'ccKDOlHs'
+version = 'vCCHsvEa'
