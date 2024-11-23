@@ -3,7 +3,7 @@
 	"time": 80,
 	"tintColor": -14606047,
 	"tintStrength": 0.3,
-	"enableScreenshotBlur": false,
+	"enableScreenshotBlur": true,
 	"screenshotBlurStrength": 1.0,
 	"screenshotBlurQuality": 5.0,
 	"playSoundEffect": false,
