@@ -250,7 +250,7 @@ hash = "01f5dde69666a8bd0888c91a9a40fa88436c2fb8c337d7ac2c07af821b250602"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "e71dc978cead8cbee5f1c8fcda31f3a88c983ec1f5a442ac3675ecd09a7fb30a"
+hash = "e8b616cb25b52b49e0c8a1cdab3bc60c766af7403c0fe0528b6a78e520e9e870"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -871,11 +871,6 @@ hash = "44cde3fee45095bb4b1914800eca409a5ff346e82efddf0b153397df1fc8f708"
 metafile = true
 
 [[files]]
-file = "mods/rrls.pw.toml"
-hash = "1d53f2a9d074e91ba8aa4c0e74cd54c6a4ac866483235d409b75d901f104c0b0"
-metafile = true
-
-[[files]]
 file = "mods/server-unblocker.pw.toml"
 hash = "c2506724991b7d8d77bc00f7212ab9cd57811a9cc54d02b9e9a2a80766e3c660"
 metafile = true
@@ -923,11 +918,6 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "bc90a26312237df0dd193f5488892c2951eb2d5e8e5bbdb105269c12b35d2931"
-metafile = true
-
-[[files]]
-file = "mods/tnt-timer.pw.toml"
-hash = "63d008a602dd8ae38670d869f8bb120557c1707645fd6d0053c3f9930d48d42e"
 metafile = true
 
 [[files]]
