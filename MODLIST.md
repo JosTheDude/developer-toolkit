@@ -1,6 +1,6 @@
 # Modlist for Developer Toolkit (11/23/2024)
 This is the list of all mods and their associated authors and version included within the modpack.
-
+```
 mods:
 -   mod-id: adventure-platform-fabric
     name: adventure-platform-fabric
@@ -568,3 +568,4 @@ mods:
     name: Zoomify
     version: 2.14.2+1.21.1
     authors: isXander
+```
