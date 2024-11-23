@@ -12,7 +12,7 @@
 	"doSandParticles": true,
 	"doShrubParticles": true,
 	"renderVanillaWeather": false,
-	"doExperimentalFog": true,
+	"doExperimentalFog": false,
 	"alwaysRaining": false,
 	"color": {
 		"rainRed": 0.5,
