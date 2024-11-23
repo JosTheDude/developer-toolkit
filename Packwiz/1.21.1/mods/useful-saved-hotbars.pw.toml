@@ -1,0 +1,13 @@
+name = "Useful Saved Hotbars"
+filename = "useful-saved-hotbars-0.2.0+mc1.21.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aI9dPE6g/versions/4n3NXJjV/useful-saved-hotbars-0.2.0%2Bmc1.21.0.jar"
+hash-format = "sha512"
+hash = "2d28202ec8c4d1e9f84e1175e862619987fe3baa258759ee7ef9f235e05b0818133e1ad8a0da5a26f69cbd0b9db28367b7cf6b8a72e1aead4357613e974b3f7c"
+
+[update]
+[update.modrinth]
+mod-id = "aI9dPE6g"
+version = "4n3NXJjV"

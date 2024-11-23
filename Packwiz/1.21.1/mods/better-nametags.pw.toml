@@ -1,0 +1,13 @@
+name = "Better Nametags"
+filename = "better-name-tags-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qGUCdI0w/versions/9kAjFhkH/better-name-tags-1.0.0.jar"
+hash-format = "sha512"
+hash = "dc382a67827be41a9dbc6560f115a8ff985457c60dd0ab3008e7139644fd8e8521ac243bb60ed230f90322fcf74eb2ee98e8d4150f82e0b8f1dcceea22ec2afb"
+
+[update]
+[update.modrinth]
+mod-id = "qGUCdI0w"
+version = "9kAjFhkH"

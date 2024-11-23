@@ -1,0 +1,13 @@
+name = "Reconnect Mod: Reloaded"
+filename = "reconnect-mod-reloaded-1.1-1.21+.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PjzgKfEE/versions/nU0bTlVR/reconnect-mod-reloaded-1.1-1.21%2B.jar"
+hash-format = "sha512"
+hash = "08cd1b42d7de32d1b594c7473ccb7a2654cbe70bd8b7a6acf018aae78537c8863a7f1623955ae18b4fc9c7c4b2a03249948eeca48e2856615cd92b5f11f29cdd"
+
+[update]
+[update.modrinth]
+mod-id = "PjzgKfEE"
+version = "nU0bTlVR"

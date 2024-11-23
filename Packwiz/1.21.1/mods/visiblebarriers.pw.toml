@@ -1,0 +1,13 @@
+name = "Visible Barriers"
+filename = "visiblebarriers-1.21-2.0.16.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ajdfGxGU/versions/kwzhLqkI/visiblebarriers-1.21-2.0.16.jar"
+hash-format = "sha512"
+hash = "f6d2ae8da3f8b96be3a0f17f2efd6f838a1baa153ae9fa9163bd14f7f1016b0c0b2445af1282528734095642c9fac1c576f36a4549000da04b646182f9276f57"
+
+[update]
+[update.modrinth]
+mod-id = "ajdfGxGU"
+version = "kwzhLqkI"

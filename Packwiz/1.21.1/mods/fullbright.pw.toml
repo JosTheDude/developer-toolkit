@@ -1,0 +1,13 @@
+name = "Fullbright"
+filename = "fullbright-2.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VyxkIxCd/versions/IxqhyaDR/fullbright-2.0.1.jar"
+hash-format = "sha512"
+hash = "ff8eedb313f5731bd4b1d13e3e997b38fd0a1f42567f2a5d61abf54bed1db755ddba9c93e71d180cd1e40fcab8b9ca9a880c3371f6dc1135e75646d03b0c5641"
+
+[update]
+[update.modrinth]
+mod-id = "VyxkIxCd"
+version = "IxqhyaDR"

@@ -1,0 +1,13 @@
+name = "Mods Command"
+filename = "mods-command-mc1.21-1.1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PExmWQV8/versions/CSPwc34g/mods-command-mc1.21-1.1.7.jar"
+hash-format = "sha512"
+hash = "3549e36dccbbe71171bc35c93f53c00743a4647435377f7348a37deb15442d44a57378acbc8563fea3d7924fa02f218fe89102db8a11b36af173711af41510f0"
+
+[update]
+[update.modrinth]
+mod-id = "PExmWQV8"
+version = "CSPwc34g"

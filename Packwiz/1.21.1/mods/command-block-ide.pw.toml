@@ -1,0 +1,13 @@
+name = "Command Block IDE"
+filename = "command-block-ide-0.4.10.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IDOSfa6c/versions/s5qQVu44/command-block-ide-0.4.10.jar"
+hash-format = "sha512"
+hash = "1b966bd606e86f1826928d1eedce176a966ca76b1bd7bd20a1655486c00fae2cdf6250b11a3e912b3b60c5ca180d4dea42a6e5f80bd765ecef8181c513ea2c5a"
+
+[update]
+[update.modrinth]
+mod-id = "IDOSfa6c"
+version = "s5qQVu44"

@@ -1,0 +1,13 @@
+name = "Blur+"
+filename = "blur-fabric-5.0.0+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NK39zBp2/versions/DKZ1ckZS/blur-fabric-5.0.0%2B1.21.jar"
+hash-format = "sha512"
+hash = "200e7d55c4dee0e66a73781525278c2ecb5f0b8ab28fc041c53765ddd6dbd432ae58d79df53017ac7daa2aea662cc501e54746ecc07fd13f3a7c579b19dc364a"
+
+[update]
+[update.modrinth]
+mod-id = "NK39zBp2"
+version = "DKZ1ckZS"
