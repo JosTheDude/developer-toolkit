@@ -631,6 +631,11 @@ hash = "5a70d93af8250da10e57a2f1550713f410ee486635523ba03ce82f36140ce74c"
 metafile = true
 
 [[files]]
+file = "mods/exploitation-timer.pw.toml"
+hash = "8370f4402de70fd6e8860864fcff53466cf6c471b2a206a9d8d0c823f9eeadc7"
+metafile = true
+
+[[files]]
 file = "mods/extended-world-selection.pw.toml"
 hash = "a197e5bda74db9a3aed53e00b7bc864465f8953cb876616117365e7bd3e6befb"
 metafile = true
