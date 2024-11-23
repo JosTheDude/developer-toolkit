@@ -1,13 +1,13 @@
-filename = 'essential_1-3-5-1_fabric_1-21-1.jar'
-name = 'essential-container'
-side = 'both'
+name = "essential-container"
+filename = "essential_1-3-5-3_fabric_1-21-1.jar"
+side = "both"
 
 [download]
-hash = 'cd3acc27133db5fe289f3d06e5308db6fbad12e6f89b902db08589e6756ac12db308c86257e73f0ba586ed7376eb97bea9767d7c37f102ba64d21f88755a50b7'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/k2ZPuTBm/versions/V4RxRByn/essential_1-3-5-1_fabric_1-21-1.jar'
+url = "https://cdn.modrinth.com/data/k2ZPuTBm/versions/9LqYZE6i/essential_1-3-5-3_fabric_1-21-1.jar"
+hash-format = "sha512"
+hash = "5dbc7a96e8ab36d52b4cc781f7e67a5efe3fc0b455cef8dfec2b7ebb14f23f1a77cdc378ffc8bf304b26cd3356e0b8c40e339cc9582354c4e9be155ec5148870"
 
+[update]
 [update.modrinth]
-mod-id = 'k2ZPuTBm'
-version = 'V4RxRByn'
+mod-id = "k2ZPuTBm"
+version = "9LqYZE6i"

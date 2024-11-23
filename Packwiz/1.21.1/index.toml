@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "5a70d93af8250da10e57a2f1550713f410ee486635523ba03ce82f36140ce74c"
+hash = "517df1c8879ea256a91d6ddc83eaf4dece05bd63a77c63f233ceb5fee3c93e8d"
 metafile = true
 
 [[files]]
@@ -948,11 +948,6 @@ metafile = true
 [[files]]
 file = "mods/server-unblocker.pw.toml"
 hash = "c2506724991b7d8d77bc00f7212ab9cd57811a9cc54d02b9e9a2a80766e3c660"
-metafile = true
-
-[[files]]
-file = "mods/serverpingerfixer.pw.toml"
-hash = "480117bbfe84aa4d902cd1f45053ed4df0738f12daf163d83436e5a1ac2804e2"
 metafile = true
 
 [[files]]
