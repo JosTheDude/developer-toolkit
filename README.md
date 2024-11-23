@@ -12,4 +12,6 @@ This modpack is primarily built for **plugin** and **server** developers in mind
 This modpack is based off of [Fabulously Optimized](https://download.fo), an extremely popular modpack for base gameplay optimization.
 
 Disclaimers
-- This modpack may result in punishment on certain networks if not configured properly. It contains **UI Utils** (Dupe Searching Mod), **Freecam**, **ViaFabricPlus** (Can cause packet issues),  and **Freelook**
+- This modpack may result in punishment on certain networks if not configured properly. It contains **Freecam**, **ViaFabricPlus** (Can cause packet issues on some networks),  and **Freelook**
+
+- This modpack does not include mods such as **UI Utils** as to not violate Modrinth's rules
