@@ -1213,6 +1213,10 @@ file = "crosshair_config.ccmcfg"
 hash = "3ec8211998dac5eb1ff7f81519dcb887a5dde78aa127378e98745383a6f35de8"
 
 [[files]]
+file = "exports.sh"
+hash = "4ae98c6f5656a8ec5ef90fc8b36e0c2ab3a150950e5d4be75ae9fc0ec748d2eb"
+
+[[files]]
 file = "icon.png"
 hash = "0e041932e5e53cbe02f8295f71ea7292d5548356e478d924274520e2b0d7ee38"
 
@@ -1229,6 +1233,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+hash = "7627410d9fb01f5bfb031bca29d2e2ab6fc10c7599e7a317cf60e0795105c9da"
 metafile = true
 
 [[files]]
@@ -1369,11 +1378,6 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "695cc8d4e907c3f1b0c45012b6d65f97d5229c6e496087602cd1111fa65d1624"
-metafile = true
-
-[[files]]
-file = "mods/essential.pw.toml"
-hash = "517df1c8879ea256a91d6ddc83eaf4dece05bd63a77c63f233ceb5fee3c93e8d"
 metafile = true
 
 [[files]]
@@ -1773,7 +1777,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "a1aba412ef3d45a420367eb22b6712657471f6627f954ef7f042f1887ec01ca6"
+hash = "d24e3265dc5d2d275d0decda483081108d00b65f1180bcda7f75ba08caca7eaa"
 
 [[files]]
 file = "optionsLC.txt"
