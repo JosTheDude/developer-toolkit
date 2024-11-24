@@ -1,5 +1,5 @@
 {
-	"menuButtonEnabled": true,
+	"menuButtonEnabled": false,
 	"rightClickDump": true,
 	"dropChunkData": false,
 	"dumpSafety": "ON_EXIT",

@@ -246,7 +246,7 @@ hash = "61a225e91c1a48c979b26241fc75d4c5a4ae8e4733c730dfe6502fa45c404109"
 
 [[files]]
 file = "config/gadget.json5"
-hash = "03ce75ec3afb60495689c40339492ce786ec3048758536a8653098cb52dc64ae"
+hash = "2c7ee884f7ae4ea5740ffe8fe5779df670aaa12658b3d3e3506d5de0e165b579"
 
 [[files]]
 file = "config/held-item-info.json"
