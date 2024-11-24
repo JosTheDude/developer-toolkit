@@ -37,6 +37,10 @@ file = "config/appleskin.json5"
 hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
 
 [[files]]
+file = "config/authme.json5"
+hash = "40f17efbb638823ae70d32d29e4f82f0a645dd72ad9cc3e557276094f6b04952"
+
+[[files]]
 file = "config/autoreconnectrf.json"
 hash = "30916b9bf147f4c70078276a71cb4136b1ec2a913beffb982f44c965102b32c2"
 
