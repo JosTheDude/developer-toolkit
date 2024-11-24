@@ -10,6 +10,8 @@ This modpack is primarily built for **plugin** and **server** developers in mind
 - "I literally cannot live without this"
 - Among other experiences, depending on use-case and usage.
 
+Built to work **out of the box** with everything most settings pre-configured. Feel free to modify as needed. See the mod list for full list of functionality, alongside feature list below.
+
 This modpack is based off of [Fabulously Optimized](https://download.fo), an extremely popular modpack for base gameplay optimization.
 
 ## List of Features
@@ -35,7 +37,7 @@ This modpack is based off of [Fabulously Optimized](https://download.fo), an ext
 - Better Nametags (Customize and make nametags however you want them!)
 - Better Statistics (Advanced Statistics Menu)
 - Enhanced Mount HUD
-- Rebind _everything_, from narrator to F3 menu
+- Rebind _everything_, from narrator to the F3 menu
 - Searchable Controls Menu
 - Improved Sounds (Fully Redone in-game sounds)
 - And so much more... view the mod menu in-game for a full list
