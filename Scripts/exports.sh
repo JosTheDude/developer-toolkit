@@ -5,7 +5,7 @@
 # Usage: Run this script inside the Packwiz folder to export all versions in the folder
 
 EXPORTS_DIR="$(pwd)/exports"
-VERSION="1.0.0"
+VERSION="1.0.1"
 
 # In case directory does not exist
 mkdir -p "$EXPORTS_DIR" || { echo "Failed to create $EXPORTS_DIR"; exit 1; }
