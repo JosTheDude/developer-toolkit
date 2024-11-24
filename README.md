@@ -35,7 +35,8 @@ This modpack is based off of [Fabulously Optimized](https://download.fo), an ext
 - Better Nametags (Customize and make nametags however you want them!)
 - Better Statistics (Advanced Statistics Menu)
 - Enhanced Mount HUD
-- Rebind the Narrator Key (or disable it)
+- Rebind _everything_, from narrator to F3 menu
+- Searchable Controls Menu
 - Improved Sounds (Fully Redone in-game sounds)
 - And so much more... view the mod menu in-game for a full list
 
