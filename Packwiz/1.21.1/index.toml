@@ -1327,6 +1327,11 @@ hash = "aabb597d160e991510a42faf589084226a7c174d6d18d113d40f011043f79de2"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "1365610f945f34d5d9ca8987ff8dc9a6d0754d49f5b7a78ca507a1e74bcb0ce2"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "31c3b68b9b18785d98925346e3f4de90813054c4afe2ecf9d0a2dcf82604c062"
 metafile = true
@@ -1642,11 +1647,6 @@ hash = "da44aa105e3bd9ef47db05df4b6eb1b8680fd246e79d23f704057f354a387224"
 metafile = true
 
 [[files]]
-file = "mods/rebind-narrator.pw.toml"
-hash = "c555db7b1dba22551211ab95e99d2f9e748ee879899967d60d72a30c55713d2a"
-metafile = true
-
-[[files]]
 file = "mods/reconnect-mod-reloaded.pw.toml"
 hash = "925342f6e631ea8a860804bb90fadc6562235b1bfeaec4e5d64c2b505afbd179"
 metafile = true
@@ -1659,6 +1659,11 @@ metafile = true
 [[files]]
 file = "mods/resourcify.pw.toml"
 hash = "69b0045cda21697af714c4546c43d1643e38efaac029bcb3d6bf954870a5a886"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
 metafile = true
 
 [[files]]
@@ -1729,6 +1734,11 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "bc90a26312237df0dd193f5488892c2951eb2d5e8e5bbdb105269c12b35d2931"
+metafile = true
+
+[[files]]
+file = "mods/thorough-keybindings.pw.toml"
+hash = "b05107625f29dd724eed324109a2ef85f4550e8d52359280bc810cb91fbd4984"
 metafile = true
 
 [[files]]

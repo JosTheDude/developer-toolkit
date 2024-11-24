@@ -1,0 +1,13 @@
+name = "Thorough Keybindings"
+filename = "thorough-keybindings-2.1.0+fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/X7gTlDx5/versions/sSZ7mOhB/thorough-keybindings-2.1.0%2Bfabric.jar"
+hash-format = "sha512"
+hash = "29293468e96df37ce40d037a8c6c8d9506e5398e8da96838db4b5699a666ecd9d2abbac05b13ccdb050d3a846eef1fc5c502865d1c9f47aa3ff9ec2c5da0cabe"
+
+[update]
+[update.modrinth]
+mod-id = "X7gTlDx5"
+version = "sSZ7mOhB"
