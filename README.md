@@ -1,7 +1,6 @@
 # Developer's Toolkit
 A developer focused modpack with a collection of useful utilities and game optimizations.
-
-View on [Modrinth](https://modrinth.com/project/dev-toolkit) 
+![[github](https://github.com/JosTheDude/developer-toolkit/)](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg)
 
 This modpack is primarily built for **plugin** and **server** developers in mind. It contains a large variety of server-development utilities that are combined to become a cause the following reactions:
 - "Oh, was that not just vanilla? My modpack does that for me!"
@@ -40,3 +39,5 @@ This modpack is based off of [Fabulously Optimized](https://download.fo), an ext
 
 ## Disclaimers
 - This modpack may result in punishment on certain networks if not configured properly. It contains **Freecam**, **ViaFabricPlus** (Can cause packet issues on some networks),  and **Freelook**
+
+- All [Fabulously Optimized Disclaimers](https://wiki.download.fo/disclaimers) apply to this modpack
