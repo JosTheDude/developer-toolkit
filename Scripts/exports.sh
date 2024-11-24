@@ -24,7 +24,8 @@ for dir in */ ; do
         cd "$dir_name" || { echo "Failed to enter directory $dir_name"; continue; }
 
         # CurseForge Export
-        packwiz curseforge export -o "$EXPORTS_DIR/${dir_name}/Dev-Toolkit-${dir_name}-${version}.zip"
+	# Disabled as No Curseforge Version Present
+        #packwiz curseforge export -o "$EXPORTS_DIR/${dir_name}/Dev-Toolkit-${dir_name}-${version}.zip"
         
         # Modrinth Export
         packwiz modrinth export -o "$EXPORTS_DIR/${dir_name}/Dev-Toolkit-${dir_name}-${version}.mrpack"
