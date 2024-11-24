@@ -10,7 +10,7 @@ This modpack is primarily built for **plugin** and **server** developers in mind
 - "I literally cannot live without this"
 - Among other experiences, depending on use-case and usage.
 
-Built to work **out of the box** with everything most settings pre-configured. Feel free to modify as needed. See the mod list for full list of functionality, alongside feature list below.
+Built to work **out of the box** with most settings pre-configured. Feel free to modify as needed. See the mod list for full list of functionality, alongside feature list below.
 
 This modpack is based off of [Fabulously Optimized](https://download.fo), an extremely popular modpack for base gameplay optimization.
 
