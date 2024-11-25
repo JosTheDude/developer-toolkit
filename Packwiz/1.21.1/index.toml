@@ -1798,20 +1798,12 @@ file = "optionsof.txt"
 hash = "16d3dc9674337fc0e95cae3651596e7bba82f3047076af57ee9cce022686d5e9"
 
 [[files]]
-file = "resourcepacks/Chat Reporting Helper.zip"
-hash = "6cb9ed3c6bd3e7d029d34eae5d2a08c6b931f54d71246c6df73fdb33b9b14fd6"
-
-[[files]]
 file = "resourcepacks/Default-Dark-Mode-1.20.2+-2024.6.0.zip"
 hash = "a7ea01c7cdab66656bce670092af0716d01a53715e1adee4c57828aa045e8c5a"
 
 [[files]]
 file = "resourcepacks/Fast Better Grass.zip"
 hash = "8e5dde02d4de318a5799c00d5eb8376f3342ffb09bc592515aa87c612b82eb26"
-
-[[files]]
-file = "resourcepacks/Mod Menu Helper.zip"
-hash = "7260474907cacc4d6280d22acc61eadff0df46ed3b721b321c5c26b697fa6d4a"
 
 [[files]]
 file = "resourcepacks/SodiumTranslations.zip"
