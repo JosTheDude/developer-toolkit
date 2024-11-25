@@ -94,7 +94,7 @@ hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
 
 [[files]]
 file = "config/chatplus/chatplus-v2.1.0.json"
-hash = "37c84d184e866476e26d379af3dcaa5d54821e4f059750c85752ff0b253aac73"
+hash = "0fbcf9d342aea6e178de2ecee5363156ba1748ba9f1d605f8fce65da57661c50"
 
 [[files]]
 file = "config/chesttracker.json5"
