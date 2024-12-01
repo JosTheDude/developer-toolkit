@@ -1521,6 +1521,11 @@ hash = "3db22db76ae9d5ca55d1d7a536e09b5d581e03ee519493b875432025c48a5aae"
 metafile = true
 
 [[files]]
+file = "mods/macos-input-fixes.pw.toml"
+hash = "8b6513249fa5416326726f67c4312e44df08576d5710a7d7a08ecae3a782c35c"
+metafile = true
+
+[[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "c1654b6c6d35cd02a245e9caf490bbbd17566dcf615029e9980e1198dc3eac7a"
 metafile = true
