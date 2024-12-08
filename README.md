@@ -42,6 +42,9 @@ This modpack is based off of [Fabulously Optimized](https://download.fo), an ext
 - Improved Sounds (Fully Redone in-game sounds)
 - And so much more... view the mod menu in-game for a full list
 
+## Contribution & Mod Suggestions
+Thank you for considering suggesting mods or contributing! Take a look at the [Contribution Guidelines](https://github.com/JosTheDude/developer-toolkit/blob/main/CONTRIBUTING.md) for additional information.
+
 ## Disclaimers
 - This modpack may result in punishment on certain networks if not configured properly. It contains **Freecam**, **ViaFabricPlus** (Can cause packet issues on some networks),  and **Freelook**
 
