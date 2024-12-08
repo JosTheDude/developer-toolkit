@@ -51,5 +51,5 @@ Thank you for considering suggesting mods or contributing! Take a look at the [C
 > * [**ViaFabricPlus**](https://modrinth.com/mod/viafabricplus), can cause packet issues on some networks
 > * **Freecam**, considered a cheat, client-side only
 > * **Freelook**, considered a cheat on certain networks
-
+- Community Involvement within this Pack's Communities is bound by the project's [Code of Conduct](https://github.com/JosTheDude/developer-toolkit/blob/main/CODE_OF_CONDUCT.md)
 - All [Fabulously Optimized Disclaimers](https://wiki.download.fo/disclaimers) apply to this modpack
