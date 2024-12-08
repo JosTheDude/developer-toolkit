@@ -1246,6 +1246,11 @@ hash = "078d372f0ab042ef3339763e1b7f17331b4ae5eb62331736e8e30b0e63a36253"
 metafile = true
 
 [[files]]
+file = "mods/axiom.pw.toml"
+hash = "7a5f1830a01e3b80f8401a4ba9a3dcd54a0b70d0d049a35a3f655c63489eab5a"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "025ce95e52fae5b52f3d93a11a2186b6d58bc292dc9655b3f47e7d0d1de9479d"
 metafile = true
@@ -1288,6 +1293,11 @@ metafile = true
 [[files]]
 file = "mods/chat-plus.pw.toml"
 hash = "1c00b8e05ce02479c1dfb23f23866e4fdc2eec7fd84b149e16b64aacae4ba115"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "8d3bd79b5dcb781507857f857b2a0c78cd31ea489f19444ab63cf429d2a64d03"
 metafile = true
 
 [[files]]
@@ -1436,6 +1446,11 @@ hash = "1d5d646694858902522bc1ae88b04d1370efa3ab1831e46a78a5de5abb517505"
 metafile = true
 
 [[files]]
+file = "mods/flashback.pw.toml"
+hash = "2785e16473083e205a40da712def3813e1be5bdc4a0e0b6292b9d8b97a67aa66"
+metafile = true
+
+[[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
 hash = "a252f158c26b88bbe4d246d6ddb73ce9852f248b79544ecb833d5ab217eb0b0c"
 metafile = true
@@ -1528,6 +1543,11 @@ metafile = true
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "c1654b6c6d35cd02a245e9caf490bbbd17566dcf615029e9980e1198dc3eac7a"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "ac18f08584260cf3a3dc69068513b0ae6b0a3b8b7be9a4c0c4e02b22d77e9635"
 metafile = true
 
 [[files]]
@@ -1676,6 +1696,11 @@ hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
 metafile = true
 
 [[files]]
+file = "mods/server-pack-unlocker.pw.toml"
+hash = "5c4d91b12d98ab2114129d24500254c0d6e6df3bab66af21367d09a4cfbdf9e5"
+metafile = true
+
+[[files]]
 file = "mods/server-unblocker.pw.toml"
 hash = "c2506724991b7d8d77bc00f7212ab9cd57811a9cc54d02b9e9a2a80766e3c660"
 metafile = true
@@ -1753,6 +1778,11 @@ metafile = true
 [[files]]
 file = "mods/tooltip-scroll.pw.toml"
 hash = "261364c94cf2c6484658bab1c4710d30561d4c511fbc75e0b77f12daab851d6d"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "7879ac25052ab6064dc7df77777c37198cbb26a8e2382e05ff74e4a2ef2d7eb8"
 metafile = true
 
 [[files]]
