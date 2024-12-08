@@ -46,6 +46,10 @@ This modpack is based off of [Fabulously Optimized](https://download.fo), an ext
 Thank you for considering suggesting mods or contributing! Take a look at the [Contribution Guidelines](https://github.com/JosTheDude/developer-toolkit/blob/main/CONTRIBUTING.md) for additional information.
 
 ## Disclaimers
-- This modpack may result in punishment on certain networks if not configured properly. It contains **Freecam**, **ViaFabricPlus** (Can cause packet issues on some networks),  and **Freelook**
+- This modpack may result in punishment on certain networks if not configured properly. It contains the following high-risk mods:
+> [https://modrinth.com/mod/tweakeroo](**Tweakaroo**), extremely punishable & considered a cheat with certain settings
+> [https://modrinth.com/mod/viafabricplus](**ViaFabricPlus**), can cause packet issues on some networks
+> **Freecam**, considered a cheat, client-side only
+> **Freelook**, considered a cheat on certain networks
 
 - All [Fabulously Optimized Disclaimers](https://wiki.download.fo/disclaimers) apply to this modpack
