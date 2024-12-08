@@ -1,0 +1,13 @@
+name = "Chunky"
+filename = "Chunky-1.4.16.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fALzjamp/versions/dPliWter/Chunky-1.4.16.jar"
+hash-format = "sha512"
+hash = "7e862f4db563bbb5cfa8bc0c260c9a97b7662f28d0f8405355c33d7b4100ce05378b39ed37c5d75d2919a40c244a3011bb4ba63f9d53f10d50b11b32656ea395"
+
+[update]
+[update.modrinth]
+mod-id = "fALzjamp"
+version = "dPliWter"
