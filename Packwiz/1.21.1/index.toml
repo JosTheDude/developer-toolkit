@@ -1277,12 +1277,17 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "2f5cb4e4fe6976138d5975a40ff212834a828cb77e58f868acf0b236ba5afa93"
+hash = "7d1815ec4f2098c4de8b01494373d84da8a5104accd5ae028a2a020595646082"
 metafile = true
 
 [[files]]
 file = "mods/blur-plus.pw.toml"
 hash = "9e9df33223d6e21e8ccad4788ca89fc1fa7c4354d47e0d5f9e9fc64fc4a89289"
+metafile = true
+
+[[files]]
+file = "mods/camera-utils.pw.toml"
+hash = "fa22fce9dfc61e51f245dfa492246813220a151ba621eca245916553aaf0cb5e"
 metafile = true
 
 [[files]]
@@ -1293,6 +1298,11 @@ metafile = true
 [[files]]
 file = "mods/chat-plus.pw.toml"
 hash = "1c00b8e05ce02479c1dfb23f23866e4fdc2eec7fd84b149e16b64aacae4ba115"
+metafile = true
+
+[[files]]
+file = "mods/chunk-debug.pw.toml"
+hash = "0b3081d3146ec530c3884f0d44f2577ed9df9bc600a57c89d4825bb1aa0c3d26"
 metafile = true
 
 [[files]]
@@ -1328,6 +1338,11 @@ metafile = true
 [[files]]
 file = "mods/command-block-ide.pw.toml"
 hash = "8685efa4cb6ebddd19267cbd8b72ba5a5c7a48f12c3a1920a128cbe0bfe58c22"
+metafile = true
+
+[[files]]
+file = "mods/commandkeys.pw.toml"
+hash = "6998d829cbde90d0303cd0a3fc9b7d403786affbae978664b67446980582e509"
 metafile = true
 
 [[files]]
@@ -1436,6 +1451,11 @@ hash = "1e24d0364f2200aeca56a57375ca2bafbb454ffaa95a69a1382ff25a2d0fb7ad"
 metafile = true
 
 [[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "41504449b69a32068d2db598dfbc8d3690690e16a3a6d5cc1af256fbead1f653"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "3ace19d3a2a762266dcbca67ec2c84c923a3108c45c8d7ca5cb468187f2330fb"
 metafile = true
@@ -1462,12 +1482,12 @@ metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "e6abaf6651fb78a65ca5275091519a865db0e8cd915ebe1a19a2e585faf46879"
+hash = "5e9d62079afe0977d4de40ea28e961dd99802c49cc7927a419ce17889185c7e8"
 metafile = true
 
 [[files]]
 file = "mods/freelook.pw.toml"
-hash = "be380760720d6763c6982e434b98c69fc21d7b16917a34639b1abd845520effb"
+hash = "9d760e970394bfd8d2b5f7586b3b712cedfbedca2b73c31b430544f69f740e1f"
 metafile = true
 
 [[files]]

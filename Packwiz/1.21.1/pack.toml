@@ -1,12 +1,12 @@
 name = "Developer's Toolkit"
 author = "JosTheDude"
-version = "1.0.2"
+version = "1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4cd3c4afe157a23dfb24f041b87d01bf282fba9ea871e82456150fef8c6e3da3"
+hash = "f5c7759c24390453ff4ab4e66b81331c27dcaebd9ac0a37867ca5aca7170b55b"
 
 [versions]
 fabric = "0.16.9"

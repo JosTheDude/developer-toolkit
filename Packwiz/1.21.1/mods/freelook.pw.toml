@@ -1,13 +1,13 @@
 name = "Freelook"
-filename = "freelook-1.2.2.jar"
+filename = "freelook-1.2.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/g4pR0Fmy/versions/6qqXiKkG/freelook-1.2.2.jar"
+url = "https://cdn.modrinth.com/data/g4pR0Fmy/versions/ptt6wi97/freelook-1.2.5.jar"
 hash-format = "sha512"
-hash = "aa203a882f4ec62ae7e6e0121e54c358cf0486336beef1eabb4b0cc6c3f3c77b19ec0765ef4720c625a24227a9be90813b6fa676f748025f15159f52565d6b1c"
+hash = "e18c5cfdae06aa81289e69576b381c080bc7fa826d0d9517d5483e11a2a9629bbc51374746493e8e6cf8a4c0a0d657e1341905a0e26ae4ef622a5d60cc48422a"
 
 [update]
 [update.modrinth]
 mod-id = "g4pR0Fmy"
-version = "6qqXiKkG"
+version = "ptt6wi97"
