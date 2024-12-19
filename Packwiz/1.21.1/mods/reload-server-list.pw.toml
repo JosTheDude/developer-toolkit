@@ -1,0 +1,13 @@
+name = "Reload Server List"
+filename = "ctrl-r-1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ce4AF7M3/versions/zOtqAnZU/ctrl-r-1.1.jar"
+hash-format = "sha512"
+hash = "b5e584584fa230b14aef3a9ed16ff438c3c66d4da0491dc2b33d477bce946d0d91b028464665c7a025a060a2265328217fa3c39537e613518270731611c748d3"
+
+[update]
+[update.modrinth]
+mod-id = "ce4AF7M3"
+version = "zOtqAnZU"

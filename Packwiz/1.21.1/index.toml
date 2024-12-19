@@ -1706,6 +1706,11 @@ hash = "44cde3fee45095bb4b1914800eca409a5ff346e82efddf0b153397df1fc8f708"
 metafile = true
 
 [[files]]
+file = "mods/reload-server-list.pw.toml"
+hash = "c72b691705a0ceba9f12b5fe3ba9971fa31287805102eefa4a9b3e5b50e4e792"
+metafile = true
+
+[[files]]
 file = "mods/resourcify.pw.toml"
 hash = "69b0045cda21697af714c4546c43d1643e38efaac029bcb3d6bf954870a5a886"
 metafile = true
