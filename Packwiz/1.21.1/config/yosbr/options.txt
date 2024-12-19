@@ -18,6 +18,8 @@ skipMultiplayerWarning:true
 simulationDistance:12
 telemetryOptInExtra:false
 tutorialStep:none
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_key.loadToolbarActivator:key.keyboard.unknown
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_axiom.keybind.context:key.keyboard.unknown
