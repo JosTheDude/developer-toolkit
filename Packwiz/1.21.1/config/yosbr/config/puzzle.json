@@ -1,1 +1,28 @@
-{"disabledIntegrations":["citresewn","continuity","entity_texture_features","iris","lambdynlights","entity_model_features"],"enablePuzzleButton":false,"debugMessages":false,"checkUpdates":false,"showPuzzleInfo":false}
+{
+  "disabledIntegrations": [
+    "cem",
+    "citresewn",
+    "continuity",
+    "cullleaves",
+    "entity_texture_features",
+    "iris",
+    "lambdabettergrass",
+    "lambdynlights",
+    "dynamicfps",
+    "borderlessmining",
+    "colormatic",
+    "entity_model_features"
+  ],
+  "enablePuzzleButton": false,
+  "resourcepackSplashScreen": true,
+  "unlimitedRotations": true,
+  "biggerModels": true,
+  "debugMessages": false,
+  "hasCustomSplashScreen": true,
+  "backgroundColor": -14671840,
+  "progressBarColor": -11645362,
+  "progressBarBackgroundColor": -14671840,
+  "progressFrameColor": -11645362,
+  "disableBlend": false,
+  "customBlendFunction": []
+}

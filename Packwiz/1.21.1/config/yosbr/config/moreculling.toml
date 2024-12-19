@@ -13,10 +13,8 @@ itemFrame3FaceCullingRange = 4.0
 leavesCullingMode = "CHECK"
 leavesCullingAmount = 2
 includeMangroveRoots = true
-powderSnowCulling = true
 endGatewayCulling = true
 beaconBeamCulling = true
-entityModelCulling = false
 useOnModdedBlocksByDefault = true
 
 [modCompatibility]
