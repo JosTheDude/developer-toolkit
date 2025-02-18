@@ -1,0 +1,13 @@
+name = "CookieJar"
+filename = "cookiejar-0.1.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BR5k61jo/versions/5sGrQiPT/cookiejar-0.1.4.jar"
+hash-format = "sha512"
+hash = "c73f4f6a65a14507b8ce7c5621ee67ee2ad1b30dfe2e0dcff9d5b4ebb0d58ae08c492836b081ece3f4f60cd1dbf935704a84ab42f5f20a5d9ca8c44390cd1896"
+
+[update]
+[update.modrinth]
+mod-id = "BR5k61jo"
+version = "5sGrQiPT"

@@ -2274,7 +2274,7 @@ hash = "d836bff121dbcdda0259d458499f820aacb43bb1443d38d1ab0c0f9e3d4043f3"
 
 [[files]]
 file = "config/yosbr/config/symbol-chat.json"
-hash = "25beb302d9ab92c4d767bc4b363114b23ae01b84c3b5c47666b807eca4573189"
+hash = "a8ff79478d5f377c9ecfc95e9ac7845f1f4f163f6e3df75c0f3a94487ebecd7c"
 
 [[files]]
 file = "config/yosbr/config/tiptapshow.toml"
@@ -2576,6 +2576,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "de832adc24dec43211b851b086b0b69c9ff45803a5d3b97b9989d0d8f942f6de"
+metafile = true
+
+[[files]]
+file = "mods/cookiejar.pw.toml"
+hash = "734007f80caa33db7adefb672404e870d085d61c76854c1792a9bda2fd73cda9"
 metafile = true
 
 [[files]]
@@ -3006,6 +3011,11 @@ metafile = true
 [[files]]
 file = "mods/visiblebarriers.pw.toml"
 hash = "092e2eb32e5eba120f44f6e77f5950100178a3174723a8db210af3f9a3c23b4b"
+metafile = true
+
+[[files]]
+file = "mods/worldtools.pw.toml"
+hash = "40ad63c30f4bbe796f8453a4584b452b97f72a442e37e8bdf2818df1168bdf16"
 metafile = true
 
 [[files]]

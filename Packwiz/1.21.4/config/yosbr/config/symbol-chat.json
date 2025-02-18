@@ -12,7 +12,7 @@
   "max_symbol_suggestions": 5,
   "symbol_tooltip_mode": "DELAYED",
   "hud_position": "RIGHT",
-  "symbol_button_position": "BOTTOM_RIGHT",
+  "symbol_button_position": "TOP_RIGHT",
   "keep_panel_open": false,
   "chat_suggestion_regex": "^(/(msg|tell|w|say|me|teammsg|tm) |[^/]).*",
   "custom_symbols": "",
