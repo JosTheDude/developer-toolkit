@@ -1,0 +1,16 @@
+filename = 'persistentinventorysearch-1.21.4-1.5.jar'
+name = 'Persistent Inventory Search'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4dce0b195f66f7b359470c4f5091950394ede08fe409ed7859075174716377f78c09afa26a58d77d690f0c3cfebc369e36cf0437e027ab641187d72f429c7ae8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KYSUUp57/versions/wHUTNacB/persistentinventorysearch-1.21.4-1.5.jar'
+
+[update.modrinth]
+mod-id = 'KYSUUp57'
+version = 'wHUTNacB'

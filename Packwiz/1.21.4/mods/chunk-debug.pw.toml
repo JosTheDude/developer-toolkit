@@ -1,0 +1,16 @@
+filename = 'ChunkDebug-2.2.2+1.21.4.jar'
+name = 'ChunkDebug'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7c517c931f1666d5e4914fc184ee3a1315c9f8143ef8a1a5d13132d57405b8c423b33f6ed04b3eb0e77dfc1aebdc022855d5c5aadd9cf223c78820c85bdebbe1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/zQxjhDPq/versions/Hy2fTGOD/ChunkDebug-2.2.2%2B1.21.4.jar'
+
+[update.modrinth]
+mod-id = 'zQxjhDPq'
+version = 'Hy2fTGOD'

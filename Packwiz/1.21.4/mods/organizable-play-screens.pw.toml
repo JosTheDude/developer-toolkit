@@ -1,0 +1,16 @@
+filename = 'organizable-play-screens-1.2.6+1.21.4.jar'
+name = 'Folders!'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5948ec738a1cc12254669f17eef02177b75da13aa4e96c95204b290078eb385c8e51ace24a77c6a5ba63ccd224c9d82e110c1f7e23d67286a3eb81dc4583746f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/zKrZtg3n/versions/fyJb1Dxd/organizable-play-screens-1.2.6%2B1.21.4.jar'
+
+[update.modrinth]
+mod-id = 'zKrZtg3n'
+version = 'fyJb1Dxd'

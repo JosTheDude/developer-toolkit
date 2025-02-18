@@ -1,0 +1,171 @@
+{
+  "blockPicker": {
+    "range": 100.0,
+    "useInteractionRange": false,
+    "creativeRange": 100.0,
+    "useCreativeInteractionRange": false,
+    "pickBlocks": true,
+    "pickEntities": true,
+    "pickFluids": false,
+    "pickLight": true,
+    "overrideLitematica": true,
+    "blockStateTagBlacklist": "waterlogged",
+    "blockEntityTagBlacklist": "",
+    "entityTagBlacklist": "UUID, Pos, TileX, TileY, TileZ, Facing, facing, Rotation, Leash"
+  },
+  "idPicker": {
+    "range": 100.0,
+    "useInteractionRange": false,
+    "pickBlocks": true,
+    "pickEntities": true,
+    "pickFluids": false,
+    "addNamespace": false,
+    "addProperties": true,
+    "copyToClipboard": true,
+    "enableHotbarPicker": true,
+    "convertItemToBlock": true,
+    "enableTagPicker": true,
+    "enablePrettyTags": true,
+    "blockStateTagBlacklist": "",
+    "blockEntityTagBlacklist": "",
+    "entityTagBlacklist": ""
+  },
+  "toolPicker": {
+    "range": 100.0,
+    "useInteractionRange": false,
+    "durabilityThreshold": 20,
+    "pickFluids": false,
+    "tools": {
+      "preferSilkTouch": true,
+      "preferEfficiency": false,
+      "preferSwordForBamboo": true,
+      "enchantTools": true,
+      "allowIncompatibleEnchantments": false,
+      "addToOpUtilities": true,
+      "pickaxe": {
+        "item": "minecraft:netherite_pickaxe",
+        "unbreaking": 3,
+        "efficiency": 5,
+        "fortune": 3,
+        "silk_touch": true,
+        "mending": true
+      },
+      "axe": {
+        "item": "minecraft:netherite_axe",
+        "unbreaking": 3,
+        "efficiency": 5,
+        "fortune": 3,
+        "silk_touch": true,
+        "sharpness": 5,
+        "bane_of_arthropods": 5,
+        "smite": 5,
+        "mending": true
+      },
+      "shovel": {
+        "item": "minecraft:netherite_shovel",
+        "unbreaking": 3,
+        "efficiency": 5,
+        "fortune": 3,
+        "silk_touch": true,
+        "mending": true
+      },
+      "hoe": {
+        "item": "minecraft:netherite_hoe",
+        "unbreaking": 3,
+        "efficiency": 5,
+        "fortune": 3,
+        "silk_touch": true,
+        "mending": true
+      },
+      "shears": {
+        "item": "minecraft:shears",
+        "unbreaking": 3,
+        "efficiency": 5,
+        "mending": true
+      },
+      "brush": {
+        "item": "minecraft:brush",
+        "unbreaking": 3,
+        "mending": true
+      },
+      "fishingRod": {
+        "item": "minecraft:fishing_rod",
+        "unbreaking": 3,
+        "lure": 3,
+        "luck_of_the_sea": 3,
+        "mending": true
+      }
+    },
+    "weapons": {
+      "preferredForBow": "creeper, ghast, phantom, skeleton",
+      "preferredForTrident": "elder_guardian, guardian",
+      "enchantWeapons": true,
+      "allowIncompatibleEnchantments": false,
+      "addToOpUtilities": true,
+      "sword": {
+        "item": "minecraft:netherite_sword",
+        "unbreaking": 3,
+        "sharpness": 5,
+        "sweeping_edge": 3,
+        "looting": 3,
+        "knockback": 2,
+        "fire_aspect": 2,
+        "bane_of_arthropods": 5,
+        "smite": 5,
+        "mending": true
+      },
+      "bow": {
+        "item": "minecraft:bow",
+        "unbreaking": 3,
+        "power": 5,
+        "punch": 2,
+        "flame": true,
+        "infinity": true,
+        "mending": true
+      },
+      "crossbow": {
+        "item": "minecraft:crossbow",
+        "unbreaking": 3,
+        "quick_charge": 3,
+        "piercing": 4,
+        "multishot": true,
+        "mending": true
+      },
+      "trident": {
+        "item": "minecraft:trident",
+        "unbreaking": 3,
+        "impaling": 5,
+        "riptide": 3,
+        "loyalty": 3,
+        "channeling": true,
+        "mending": true
+      },
+      "mace": {
+        "item": "minecraft:mace",
+        "unbreaking": 3,
+        "density": 5,
+        "breach": 4,
+        "wind_burst": 3,
+        "fire_aspect": 2,
+        "bane_of_arthropods": 5,
+        "smite": 5,
+        "mending": true
+      }
+    }
+  },
+  "inventory": {
+    "searchThroughContainers": true,
+    "stayInSameSlot": false,
+    "lockedSlots": {
+      "slot1": false,
+      "slot2": false,
+      "slot3": false,
+      "slot4": false,
+      "slot5": false,
+      "slot6": false,
+      "slot7": false,
+      "slot8": false,
+      "slot9": false
+    }
+  }
+}

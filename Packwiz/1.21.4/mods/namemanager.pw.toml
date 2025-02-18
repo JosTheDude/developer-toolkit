@@ -1,0 +1,16 @@
+filename = 'NameManager-1.0-SNAPSHOT.jar'
+name = 'NameManager'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '557b0c2f77b2b0df46705c81238a4bb92058c2086dee9d1b9777cd6ef7d141f1702c31210ab6df9f455bb0a72ec232d8d28d2c986b748a2c3875c93773862f3f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tkDe1Ia6/versions/ltp8CrnE/NameManager-1.0-SNAPSHOT.jar'
+
+[update.modrinth]
+mod-id = 'tkDe1Ia6'
+version = 'ltp8CrnE'

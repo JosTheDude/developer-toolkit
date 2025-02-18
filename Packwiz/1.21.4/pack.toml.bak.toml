@@ -1,0 +1,13 @@
+name = "Developer's Toolkit"
+author = "JosTheDude"
+version = "1.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "25078b376de1dea577cdefb49b4686c9a871be4143f5f06bb875add42c5daca1"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.21.4"

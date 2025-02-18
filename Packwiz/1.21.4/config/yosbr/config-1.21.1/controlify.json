@@ -1,0 +1,22 @@
+{
+  "current_controller": null,
+  "controllers": {},
+  "global": {
+    "virtual_mouse_screens": [
+      "net.minecraft.class_465"
+    ],
+    "keyboardMovement": false,
+    "keyboard_movement_whitelist": [],
+    "out_of_focus_input": false,
+    "load_vibration_natives": true,
+    "custom_vibration_natives_path": "",
+    "vibration_onboarded": true,
+    "reach_around": "OFF",
+    "allow_server_rumble": true,
+    "ui_sounds": false,
+    "notify_low_battery": true,
+    "quiet_mode": false,
+    "ingame_button_guide_scale": 1.0,
+    "seen_servers": []
+  }
+}

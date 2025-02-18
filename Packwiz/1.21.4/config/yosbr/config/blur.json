@@ -1,0 +1,21 @@
+{
+  "configVersion": 2,
+  "blurContainers": true,
+  "fadeTimeMillis": 300,
+  "fadeOutTimeMillis": 300,
+  "animationCurve": "FLAT",
+  "useGradient": true,
+  "gradientStart": "#000000",
+  "gradientStartAlpha": 75,
+  "gradientEnd": "#000000",
+  "gradientEndAlpha": 75,
+  "gradientRotation": 0,
+  "rainbowMode": false,
+  "excludedScreens": [
+    "net.irisshaders.iris.gui.screen.ShaderPackScreen"
+  ],
+  "forceEnabledScreens": [
+    "dev.emi.emi.screen.RecipeScreen"
+  ],
+  "forceDisabledScreens": []
+}

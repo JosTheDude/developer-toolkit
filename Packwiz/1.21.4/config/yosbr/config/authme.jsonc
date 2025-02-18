@@ -1,0 +1,29 @@
+{
+    // The version of the config file. Do not change this unless you know what you are doing.
+    "rconfig:version": 0,
+    "authButton": {
+        // Type: Integer
+        "x": 763,
+        // Type: Integer
+        "y": 8,
+        "draggable": false
+    },
+    "methods": {
+        "microsoft": {
+            // Valid Values: DEFAULT, SELECT_ACCOUNT, LOGIN, NONE, CONSENT
+            "prompt": "DEFAULT",
+            // Type: Integer
+            "port": 25585,
+            "clientId": "e16699bb-2aa8-46da-b5e3-45cbcce29091",
+            "authorizeUrl": "https://login.microsoftonline.com/consumers/oauth2/v2.0/authorize",
+            "tokenUrl": "https://login.microsoftonline.com/consumers/oauth2/v2.0/token",
+            "xboxAuthUrl": "https://user.auth.xboxlive.com/user/authenticate",
+            "xboxXstsUrl": "https://xsts.auth.xboxlive.com/xsts/authorize",
+            "mcAuthUrl": "https://api.minecraftservices.com/authentication/login_with_xbox",
+            "mcProfileUrl": "https://api.minecraftservices.com/minecraft/profile"
+        },
+        "offline": {
+            "lastUsername": ""
+        }
+    }
+}

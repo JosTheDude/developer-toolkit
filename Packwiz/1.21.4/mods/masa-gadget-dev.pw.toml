@@ -1,0 +1,16 @@
+filename = 'MasaGadget-mc1.21.4-fabric-4.0.388-development.jar'
+name = 'Masa Gadget Dev'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = '92735ba478b555fd548262c9ee86e5876ecdd3c1e003756eb136246de100442a9ec744075cdd86da07d4d4c5271e1633c85191f33bfdaed21ba7fc2ace3141ef'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qGUUhBWE/versions/gemKSSDL/MasaGadget-mc1.21.4-fabric-4.0.388-development.jar'
+
+[update.modrinth]
+mod-id = 'qGUUhBWE'
+version = 'gemKSSDL'

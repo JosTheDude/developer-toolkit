@@ -1,0 +1,16 @@
+filename = 'authme-fabric-9.0.1+1.21.4.jar'
+name = 'Auth Me'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '49d634d26dcfa02da947f6bf2f87a6220c0d232fc4d640a3ab371ddca91e04a8b491ec289412bc27222bfc0dc82ceab2f00a8c6d42edc40c526402cab8507f3c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yjgIrBjZ/versions/DfEuMvQ6/authme-fabric-9.0.1%2B1.21.4.jar'
+
+[update.modrinth]
+mod-id = 'yjgIrBjZ'
+version = 'DfEuMvQ6'

@@ -1,0 +1,20 @@
+{
+  "clipboard": {
+    "copy": "component_value",
+    "formatting": "sync",
+    "include_count": false,
+    "indentation": -1,
+    "prepend_slash": true,
+    "success_notification": true
+  },
+  "tooltip": {
+    "advanced_tooltips": false,
+    "colored_formatting": true,
+    "component_values": true,
+    "components": "all",
+    "display": "hold",
+    "formatting": "snbt",
+    "indentation": 4,
+    "purpose": "components"
+  }
+}

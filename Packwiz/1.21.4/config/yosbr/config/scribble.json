@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "copy_formatting_codes": true,
+  "center_book_gui": true,
+  "show_action_buttons": "WHEN_EDITING",
+  "edit_history_size": 32
+}

@@ -321,6 +321,10 @@ file = "config/yosbr/config/mods-command.conf"
 hash = "2edde6c47965afca9959f0fd2ee188d4ff96756cba5bbed37e9e21d055350108"
 
 [[files]]
+file = "config/yosbr/config/moonrise 2.yml"
+hash = "2d64482d18add3db2577375ee53ec407c22430f6854a66c447c83a30c8976b0c"
+
+[[files]]
 file = "config/yosbr/config/moonrise.yml"
 hash = "2d64482d18add3db2577375ee53ec407c22430f6854a66c447c83a30c8976b0c"
 
@@ -377,8 +381,16 @@ file = "config/yosbr/config/puzzle.json"
 hash = "13fa58cfd06ebc8c0a9d488a6e85dd12175cd01849853e9a20a4ef8c532fda34"
 
 [[files]]
+file = "config/yosbr/config/quickmenu 2.json5"
+hash = "4c6737d3664a0698830e8df11dc4d078abea4ad323fa16f4ff0a51ae542041bd"
+
+[[files]]
 file = "config/yosbr/config/quickmenu.json5"
 hash = "4c6737d3664a0698830e8df11dc4d078abea4ad323fa16f4ff0a51ae542041bd"
+
+[[files]]
+file = "config/yosbr/config/quickmenu_data 2.json"
+hash = "b19dc5b04471d13d902beb98564bd8a57bda29ceac364391d06c983601b7b2d6"
 
 [[files]]
 file = "config/yosbr/config/quickmenu_data.json"
@@ -401,8 +413,16 @@ file = "config/yosbr/config/seamless_loading_screen.json"
 hash = "f8d6d024251f246a5482e9454ef91b38da41a95e7a395768b11058a7a7da6330"
 
 [[files]]
+file = "config/yosbr/config/server_unblocker 2.json"
+hash = "49b0e35dca8ddeb446329bf7f56fc8585f9061cb59e3242250f2750520342c55"
+
+[[files]]
 file = "config/yosbr/config/server_unblocker.json"
 hash = "49b0e35dca8ddeb446329bf7f56fc8585f9061cb59e3242250f2750520342c55"
+
+[[files]]
+file = "config/yosbr/config/show-durability 2.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/yosbr/config/show-durability.json"
@@ -433,12 +453,20 @@ file = "config/yosbr/config/sodium-fingerprint.json"
 hash = "81ce99e746b66b5c44370e08946c9bd3c305edb66ac3d0cb4972be0927b00ede"
 
 [[files]]
+file = "config/yosbr/config/sodium-mixins 2.properties"
+hash = "8939df3a10627cf3b9a3cc0e2824337923e9a26d11e60f5a1f7c0cfbd171a574"
+
+[[files]]
 file = "config/yosbr/config/sodium-mixins.properties"
 hash = "8939df3a10627cf3b9a3cc0e2824337923e9a26d11e60f5a1f7c0cfbd171a574"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "c71c2e3a94a8f7e6901e4edc23ce893b34c59b2c621fa75debded1fd416a5044"
+
+[[files]]
+file = "config/yosbr/config/sounds/chat 2.json"
+hash = "3e0445be6dcccea5f834db60c61141f659d8cc657e47633e027af7b2ccc18217"
 
 [[files]]
 file = "config/yosbr/config/sounds/chat.json"
@@ -929,16 +957,32 @@ file = "config/yosbr/config/sounds/dynamic_sounds/pack.mcmeta"
 hash = "4df9f17bbc0bbd049aa37865e2a2e8493345c57068daa82072ce55abb4f7f52c"
 
 [[files]]
+file = "config/yosbr/config/sounds/event 2.json"
+hash = "6245d6fd01be9aac33c2c7967fb795b8542a21526623ffc19a85596b3a6e1d1f"
+
+[[files]]
 file = "config/yosbr/config/sounds/event.json"
 hash = "6245d6fd01be9aac33c2c7967fb795b8542a21526623ffc19a85596b3a6e1d1f"
+
+[[files]]
+file = "config/yosbr/config/sounds/mod_utils 2.json"
+hash = "ad4c5fe9811db5595602b39957453cf553ca0ccf0c084db6393caa2f2fa05132"
 
 [[files]]
 file = "config/yosbr/config/sounds/mod_utils.json"
 hash = "ad4c5fe9811db5595602b39957453cf553ca0ccf0c084db6393caa2f2fa05132"
 
 [[files]]
+file = "config/yosbr/config/sounds/ui 2.json"
+hash = "c1e4b5acb70c1d170c22ba4eeb7746e1f2665f77b83de9ed2febf4d332c56725"
+
+[[files]]
 file = "config/yosbr/config/sounds/ui.json"
 hash = "c1e4b5acb70c1d170c22ba4eeb7746e1f2665f77b83de9ed2febf4d332c56725"
+
+[[files]]
+file = "config/yosbr/config/sounds/world 2.json"
+hash = "370cb0d795cd5143f878dbaa489ba2ec7cbd14228cafa07d4a86a27a2e08f923"
 
 [[files]]
 file = "config/yosbr/config/sounds/world.json"
@@ -961,8 +1005,16 @@ file = "config/yosbr/config/status-effect-bars.json"
 hash = "9d6b9cee844e073d40de18fdfb268c267978a3cb0e64f1d1f17f79e6bf688a70"
 
 [[files]]
+file = "config/yosbr/config/suggestion-tweaker 2.json5"
+hash = "d836bff121dbcdda0259d458499f820aacb43bb1443d38d1ab0c0f9e3d4043f3"
+
+[[files]]
 file = "config/yosbr/config/suggestion-tweaker.json5"
 hash = "d836bff121dbcdda0259d458499f820aacb43bb1443d38d1ab0c0f9e3d4043f3"
+
+[[files]]
+file = "config/yosbr/config/symbol-chat 2.json"
+hash = "394b692c52cda8a7af558f55535a0aff7bde04bb55a14ba141379c819235d8a0"
 
 [[files]]
 file = "config/yosbr/config/symbol-chat.json"
@@ -977,20 +1029,40 @@ file = "config/yosbr/config/tooltipscroll.json"
 hash = "9fa989537b6d1a5e5b0f499b45a17d4c3e509333e4c775d88d0ff7d36c2e0c34"
 
 [[files]]
+file = "config/yosbr/config/viafabricplus/accounts 2.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
 file = "config/yosbr/config/viafabricplus/accounts.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/yosbr/config/viafabricplus/settings 2.json"
+hash = "a6e5ba8f5454f53e728286d7712050824ee03605943d43414e7f539a34781911"
 
 [[files]]
 file = "config/yosbr/config/viafabricplus/settings.json"
 hash = "a6e5ba8f5454f53e728286d7712050824ee03605943d43414e7f539a34781911"
 
 [[files]]
+file = "config/yosbr/config/viafabricplus/viaaprilfools 2.yml"
+hash = "44c3afa2f8138aae145e5ab9554cc75be3a7cbf19afee31ce233fc9eb4e08993"
+
+[[files]]
 file = "config/yosbr/config/viafabricplus/viaaprilfools.yml"
 hash = "44c3afa2f8138aae145e5ab9554cc75be3a7cbf19afee31ce233fc9eb4e08993"
 
 [[files]]
+file = "config/yosbr/config/viafabricplus/viabackwards 2.yml"
+hash = "61ad6266ee051f5d2cd8fa523d464fff4d85add173a079a0054ab4e987dc9e81"
+
+[[files]]
 file = "config/yosbr/config/viafabricplus/viabackwards.yml"
 hash = "61ad6266ee051f5d2cd8fa523d464fff4d85add173a079a0054ab4e987dc9e81"
+
+[[files]]
+file = "config/yosbr/config/viafabricplus/viabedrock 2.yml"
+hash = "a65346a97415ad5a6260b64a8882d9f4aff6375830ee423e9380d2dcd7114ecc"
 
 [[files]]
 file = "config/yosbr/config/viafabricplus/viabedrock.yml"
@@ -1037,40 +1109,80 @@ file = "config/yosbr/config/viafabricplus/viabedrock/blob_cache/index.bdbi"
 hash = "75aa85525f796be89ab09fd64378b7d21a3cb487c999b2dfe6fb232b7cab2dd3"
 
 [[files]]
+file = "config/yosbr/config/viafabricplus/vialegacy 2.yml"
+hash = "93457a4d731ecf9fcbdd2fa592ae2156ad88e649e39a647714c091852e365aca"
+
+[[files]]
 file = "config/yosbr/config/viafabricplus/vialegacy.yml"
 hash = "93457a4d731ecf9fcbdd2fa592ae2156ad88e649e39a647714c091852e365aca"
+
+[[files]]
+file = "config/yosbr/config/viafabricplus/viaversion 2.yml"
+hash = "8390f402c55031c61e12f9083ccba2e5e9850930d8c0878b2076377d4f71854f"
 
 [[files]]
 file = "config/yosbr/config/viafabricplus/viaversion.yml"
 hash = "8390f402c55031c61e12f9083ccba2e5e9850930d8c0878b2076377d4f71854f"
 
 [[files]]
+file = "config/yosbr/config/visiblebarriers 2.json"
+hash = "6ff0ecea2b03f0bbb503cbadf7a2f94b8ae70b8b72a70900fc5336457b92db07"
+
+[[files]]
 file = "config/yosbr/config/visiblebarriers.json"
 hash = "6ff0ecea2b03f0bbb503cbadf7a2f94b8ae70b8b72a70900fc5336457b92db07"
+
+[[files]]
+file = "config/yosbr/config/voicechat/translations 2.properties"
+hash = "8aaf62e64c9d449660c4ad8ff0bed8e4a1c24d7b0bda5adda4aa1c19fa4ec45c"
 
 [[files]]
 file = "config/yosbr/config/voicechat/translations.properties"
 hash = "8aaf62e64c9d449660c4ad8ff0bed8e4a1c24d7b0bda5adda4aa1c19fa4ec45c"
 
 [[files]]
+file = "config/yosbr/config/voicechat/username-cache 2.json"
+hash = "3a6676c36e6810ca3c11164c1abd55182946a6b3fedc089eddcff87e94038263"
+
+[[files]]
 file = "config/yosbr/config/voicechat/username-cache.json"
 hash = "3a6676c36e6810ca3c11164c1abd55182946a6b3fedc089eddcff87e94038263"
+
+[[files]]
+file = "config/yosbr/config/voicechat/voicechat-client 2.properties"
+hash = "dcfb79df1a847ae633929eb6e236a7deb551ce9567dbbf77f4bd7e80227c33d3"
 
 [[files]]
 file = "config/yosbr/config/voicechat/voicechat-client.properties"
 hash = "dcfb79df1a847ae633929eb6e236a7deb551ce9567dbbf77f4bd7e80227c33d3"
 
 [[files]]
+file = "config/yosbr/config/voicechat/voicechat-server 2.properties"
+hash = "c6d062e36bd6fcd94626d3030df6f8a36231805a7b57ece61034317b1be57c1b"
+
+[[files]]
 file = "config/yosbr/config/voicechat/voicechat-server.properties"
 hash = "c6d062e36bd6fcd94626d3030df6f8a36231805a7b57ece61034317b1be57c1b"
+
+[[files]]
+file = "config/yosbr/config/voicechat/voicechat-volumes 2.properties"
+hash = "f1a5b28ef177141a54c59b17f66afaf2a3a16b813bb2667afde6aa673b45004c"
 
 [[files]]
 file = "config/yosbr/config/voicechat/voicechat-volumes.properties"
 hash = "f1a5b28ef177141a54c59b17f66afaf2a3a16b813bb2667afde6aa673b45004c"
 
 [[files]]
+file = "config/yosbr/config/waila/blacklist 2.json5"
+hash = "582f7e30fd40975d418c3a5ae553b753712a2bbbbd3d76d4534262430e0d131e"
+
+[[files]]
 file = "config/yosbr/config/waila/blacklist.json5"
 hash = "582f7e30fd40975d418c3a5ae553b753712a2bbbbd3d76d4534262430e0d131e"
+
+[[files]]
+file = "config/yosbr/config/waila/debug 2.json5"
+hash = "e54d2423726125dd300297ea935fbfd82cf7c374fbd4ee2d85b7ba140e3ba97a"
 
 [[files]]
 file = "config/yosbr/config/waila/debug.json5"
@@ -1093,28 +1205,56 @@ file = "config/yosbr/config/waila/extra/progress_blacklist.json5"
 hash = "b8f09c52b1a975dc1f0ba65c7f4b6757dfc1bc784b87e0530046adaacbadcec4"
 
 [[files]]
+file = "config/yosbr/config/waila/plugin_toggle 2.json5"
+hash = "d16b4c781e245c7f851349184634922ce65c92f69c106990d8f8453b5e8c21c1"
+
+[[files]]
 file = "config/yosbr/config/waila/plugin_toggle.json5"
 hash = "d16b4c781e245c7f851349184634922ce65c92f69c106990d8f8453b5e8c21c1"
+
+[[files]]
+file = "config/yosbr/config/waila/waila 2.json5"
+hash = "ac1d4c12619741b5e987f6800d87b1d4561f0851010b4816c46908244e558c3f"
 
 [[files]]
 file = "config/yosbr/config/waila/waila.json5"
 hash = "ac1d4c12619741b5e987f6800d87b1d4561f0851010b4816c46908244e558c3f"
 
 [[files]]
+file = "config/yosbr/config/waila/waila_plugins 2.json5"
+hash = "6cc7f721b5464ceddbc35a98958880aa0b359fcbc84eb1da04c3c290219999f7"
+
+[[files]]
 file = "config/yosbr/config/waila/waila_plugins.json5"
 hash = "6cc7f721b5464ceddbc35a98958880aa0b359fcbc84eb1da04c3c290219999f7"
+
+[[files]]
+file = "config/yosbr/config/whereisit 2.json5"
+hash = "9851d2b53c7bda494f65b65a6c563c45d6dbee335a7ec9dd6071f66c36f583d4"
 
 [[files]]
 file = "config/yosbr/config/whereisit.json5"
 hash = "9851d2b53c7bda494f65b65a6c563c45d6dbee335a7ec9dd6071f66c36f583d4"
 
 [[files]]
+file = "config/yosbr/config/yacl 2.json5"
+hash = "eb9772826e24df9bbb9c5954eea6ba70213aa0adaa90ce7d471149a58588c0c5"
+
+[[files]]
 file = "config/yosbr/config/yacl.json5"
 hash = "eb9772826e24df9bbb9c5954eea6ba70213aa0adaa90ce7d471149a58588c0c5"
 
 [[files]]
+file = "config/yosbr/config/zoomify 2.json"
+hash = "60a78fe1b271ce9b53e295235eb5a7cdb3a8692ca583fdaa7f5bc09f9049e2f4"
+
+[[files]]
 file = "config/yosbr/config/zoomify.json"
 hash = "60a78fe1b271ce9b53e295235eb5a7cdb3a8692ca583fdaa7f5bc09f9049e2f4"
+
+[[files]]
+file = "config/yosbr/crosshair_config 2.ccmcfg"
+hash = "3ec8211998dac5eb1ff7f81519dcb887a5dde78aa127378e98745383a6f35de8"
 
 [[files]]
 file = "config/yosbr/crosshair_config.ccmcfg"
@@ -1125,8 +1265,16 @@ file = "config/yosbr/options.txt"
 hash = "cce77de4a88075213bb573714503ff6bcd421974c43b67e818dc1a436244c139"
 
 [[files]]
+file = "config/yosbr/optionsLC 2.txt"
+hash = "3c09b0d201578e880de7497d6c4c307ccab4c4be0f37be7b13ebca772484bea7"
+
+[[files]]
 file = "config/yosbr/optionsLC.txt"
 hash = "3c09b0d201578e880de7497d6c4c307ccab4c4be0f37be7b13ebca772484bea7"
+
+[[files]]
+file = "config/yosbr/optionsof 2.txt"
+hash = "16d3dc9674337fc0e95cae3651596e7bba82f3047076af57ee9cce022686d5e9"
 
 [[files]]
 file = "config/yosbr/optionsof.txt"
@@ -1202,6 +1350,10 @@ hash = "9e9df33223d6e21e8ccad4788ca89fc1fa7c4354d47e0d5f9e9fc64fc4a89289"
 metafile = true
 
 [[files]]
+file = "mods/camera-utils.pw 2.toml"
+hash = "fa22fce9dfc61e51f245dfa492246813220a151ba621eca245916553aaf0cb5e"
+
+[[files]]
 file = "mods/camera-utils.pw.toml"
 hash = "fa22fce9dfc61e51f245dfa492246813220a151ba621eca245916553aaf0cb5e"
 metafile = true
@@ -1215,6 +1367,10 @@ metafile = true
 file = "mods/chat-plus.pw.toml"
 hash = "1c00b8e05ce02479c1dfb23f23866e4fdc2eec7fd84b149e16b64aacae4ba115"
 metafile = true
+
+[[files]]
+file = "mods/chunk-debug.pw 2.toml"
+hash = "0b3081d3146ec530c3884f0d44f2577ed9df9bc600a57c89d4825bb1aa0c3d26"
 
 [[files]]
 file = "mods/chunk-debug.pw.toml"
@@ -1255,6 +1411,10 @@ metafile = true
 file = "mods/command-block-ide.pw.toml"
 hash = "8685efa4cb6ebddd19267cbd8b72ba5a5c7a48f12c3a1920a128cbe0bfe58c22"
 metafile = true
+
+[[files]]
+file = "mods/commandkeys.pw 2.toml"
+hash = "6998d829cbde90d0303cd0a3fc9b7d403786affbae978664b67446980582e509"
 
 [[files]]
 file = "mods/commandkeys.pw.toml"
@@ -1365,6 +1525,10 @@ metafile = true
 file = "mods/fadeless.pw.toml"
 hash = "1e24d0364f2200aeca56a57375ca2bafbb454ffaa95a69a1382ff25a2d0fb7ad"
 metafile = true
+
+[[files]]
+file = "mods/fast-ip-ping.pw 2.toml"
+hash = "41504449b69a32068d2db598dfbc8d3690690e16a3a6d5cc1af256fbead1f653"
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
@@ -1615,6 +1779,10 @@ metafile = true
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "44cde3fee45095bb4b1914800eca409a5ff346e82efddf0b153397df1fc8f708"
 metafile = true
+
+[[files]]
+file = "mods/reload-server-list.pw 2.toml"
+hash = "c72b691705a0ceba9f12b5fe3ba9971fa31287805102eefa4a9b3e5b50e4e792"
 
 [[files]]
 file = "mods/reload-server-list.pw.toml"

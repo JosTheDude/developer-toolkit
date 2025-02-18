@@ -1,0 +1,16 @@
+filename = 'HeldItemTooltips-v21.4.0-1.21.4-Fabric.jar'
+name = 'Held Item Tooltips'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4a79bd3aa8af037d3a9558b00fca524162e1786e0b56e14f66130124df8f6e5ef05489543b4b3767b90536b48a6421e15acefb593ee4400540c3903e5824bd55'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3wWtgZGB/versions/6MXtRjG0/HeldItemTooltips-v21.4.0-1.21.4-Fabric.jar'
+
+[update.modrinth]
+mod-id = '3wWtgZGB'
+version = '6MXtRjG0'

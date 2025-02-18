@@ -1,0 +1,53 @@
+filename = 'yosbr-0.1.2.jar'
+name = 'Your Options Shall Be Respected (YOSBR)'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.14',
+    '1.14.1',
+    '1.14.2',
+    '1.14.3',
+    '1.14.4',
+    '1.15',
+    '1.15.1',
+    '1.15.2',
+    '1.16',
+    '1.16.1',
+    '1.16.2',
+    '1.16.3',
+    '1.16.4',
+    '1.16.5',
+    '1.17',
+    '1.17.1',
+    '1.18',
+    '1.18.1',
+    '1.18.2',
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4'
+]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '254f2225f6446523aa8c8274e83b31e27f3b2afc8fe4f490fb1b169dd518e10c7993acda5db0ab597474ddf9d69506b5e794242fada1e2f89ed7bf9d412a8f78'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WwbubTsV/versions/KMOzdYko/yosbr-0.1.2.jar'
+
+[update.modrinth]
+mod-id = 'WwbubTsV'
+version = 'KMOzdYko'

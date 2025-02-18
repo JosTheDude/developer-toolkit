@@ -1,0 +1,16 @@
+filename = 'server-scanner-1.1.jar'
+name = 'Server Scanner'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '27c37a712a395b214b32cadcf08f5ed29b2daaca3369942617bed39a27e2cd7ede334206632837ae6ac8b87a343110431b1535a531e3c1f9244482222abdb159'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SZVncwhd/versions/aj6AGG0x/server-scanner-1.1.jar'
+
+[update.modrinth]
+mod-id = 'SZVncwhd'
+version = 'aj6AGG0x'

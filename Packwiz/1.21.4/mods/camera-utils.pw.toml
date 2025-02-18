@@ -1,0 +1,16 @@
+filename = 'camerautils-fabric-1.21.4-1.0.16.jar'
+name = 'Camera Utils'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '8cf626ea092b629b67a2dd1b1fff931faba5a7afd6b6bb1e7999a7a01c244f500bebce48a47f31a12e5442860aac2896ee03bde4516dd139b6a8ae7a673fdcb0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rrwQMaWQ/versions/GWXCwN5R/camerautils-fabric-1.21.4-1.0.16.jar'
+
+[update.modrinth]
+mod-id = 'rrwQMaWQ'
+version = 'GWXCwN5R'

@@ -1,0 +1,16 @@
+filename = 'freecam-fabric-1.3.2+mc1.21.4.jar'
+name = 'Freecam'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4bed46db9db7814211760c1521a3917f72c6281cbf195e0fe74ece71dd0293eb11285eeeb06945cabf734c299d51182db2ade11e5314819275a342be91b657da'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XeEZ3fK2/versions/2NxXpmvb/freecam-fabric-1.3.2%2Bmc1.21.4.jar'
+
+[update.modrinth]
+mod-id = 'XeEZ3fK2'
+version = '2NxXpmvb'

@@ -1,0 +1,117 @@
+toggleEffectsStatus = true
+colorMode = "Effect"
+toggleMovementStatus = false
+toggleEquipmentStatus = true
+
+[uiConfig]
+toggleSimpleHUDEnhanced = true
+textColor = 16777215
+textBackground = false
+textScale = 100
+textAlignment = "Right"
+
+[statusElements]
+Xcords = 100
+Ycords = 0
+toggleLightLevel = false
+togglePlayerName = false
+togglePing = true
+toggleTPS = true
+toggleServerName = false
+toggleServerAddress = false
+
+[statusElements.coordinates]
+toggleCoordinates = true
+toggleDirection = true
+toggleOffset = true
+toggleNetherCoordinateConversion = false
+toggleChunkCoordinates = false
+toggleSubChunkCoordinates = false
+
+[statusElements.fps]
+toggleFPS = true
+toggleColourFPS = false
+
+[statusElements.playerSpeed]
+togglePlayerSpeed = false
+togglePlayerVerticalSpeed = false
+
+[statusElements.Biome]
+toggleBiome = true
+toggleBiomeLabel = false
+
+[statusElements.gameTime]
+toggleGameTime = false
+toggleGameTime24Hour = false
+toggleGameDayCounter = false
+
+[statusElements.systemTime]
+toggleSystemTime = false
+textScale = 100
+textBackground = false
+toggleSystemTime24Hour = false
+
+[statusElements.counters]
+toggleEntityCount = false
+toggleParticleCount = false
+
+[statusElements.counters.chunkCount]
+toggleChunkCount = false
+toggleTotal = true
+toggleLoaded = true
+
+[effectsStatus]
+backgroundColor = -2147483648
+beneficialForegroundColor = -2130706433
+harmfulForegroundColor = -2130706433
+neutralForegroundColor = -2130706433
+
+[movementStatus]
+toggleMovementStatus = false
+textScale = 100
+movementStatusLocationX = 0
+movementStatusLocationY = 90
+
+[movementStatus.movementTypes]
+toggleSprintStatus = true
+toggleSneakStatus = true
+toggleFlyingStatus = true
+toggleSwimmingStatus = true
+
+[paperDoll]
+togglePaperDoll = false
+textScale = 100
+paperDollLocationX = 100
+paperDollLocationY = 0
+
+[equipmentStatus]
+showCount = true
+showNonTools = true
+textScale = 100
+equipmentOrientation = "Vertical"
+equipmentAlignment = "Auto"
+equipmentStatusLocationX = 100
+equipmentStatusLocationY = 100
+
+[equipmentStatus.Durability]
+showDurability = true
+showTotalCount = false
+showDurabilityAsPercentage = false
+showColour = true
+showDurabilityAsBar = true
+
+[equipmentStatus.Durability.slots]
+Head = true
+Body = true
+Legs = true
+Boots = true
+OffHand = true
+MainHand = true
+
+[equipmentStatus.slots]
+Head = true
+Body = true
+Legs = true
+Boots = true
+OffHand = true
+MainHand = true

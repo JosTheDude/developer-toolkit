@@ -1,0 +1,10 @@
+{
+  "show_stages": true,
+  "show_tickets": true,
+  "show_minimap": true,
+  "chunk_retention": 0,
+  "minimap_corner": "top_left",
+  "minimap_offset_x": 0.0,
+  "minimap_offset_y": 0.0,
+  "minimap_size": 100
+}

@@ -1,0 +1,28 @@
+#
+# Calculate 1.7.10 OnGround field dynamically. Requires a bit of extra caching
+dynamic-onground: true
+#
+# Ignores serverbound plugin channel messages of 1.8+ clients with channel names longer than 16 characters
+# CraftBukkit had this limit hardcoded until 1.8
+ignore-long-1_8-channel-names: true
+#
+# Load <= 1.7.2 player skull skins
+legacy-skull-loading: true
+#
+# Load <= 1.6.4 skins. (Adds max 500ms delay to player spawn packets)
+legacy-skin-loading: true
+#
+# Emulate sounds for <= 1.2.5
+sound-emulation: true
+#
+# Calculate <= 1.1 biomes. Requires a lot of extra calculations
+old-biomes: true
+#
+# Enables sprinting for versions below beta 1.8. !THIS CAN CAUSE ISSUES WITH ANTI-CHEAT PLUGINS!
+enable-b1_7_3-sprinting: false
+#
+# Classic chunk loading range
+classic-chunk-range: 10
+#
+# Enable fly on regular (non CPE) classic servers
+enable-classic-fly: false

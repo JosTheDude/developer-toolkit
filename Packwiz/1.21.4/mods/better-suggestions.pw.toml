@@ -1,0 +1,16 @@
+filename = 'better-suggestions-1.21.4-1.2.9.jar'
+name = 'Better Suggestions'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '705e332ee5ded66a7e12ce71c970640d9bab92228689918235b4aa58aa1bad7f98f71b5eca5ba3686e17c07f0cd2aa15c9ba76a286395c1fac199265be6dbf44'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HfZKWsjM/versions/sm65nN9c/better-suggestions-1.21.4-1.2.9.jar'
+
+[update.modrinth]
+mod-id = 'HfZKWsjM'
+version = 'sm65nN9c'

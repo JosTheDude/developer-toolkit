@@ -1,0 +1,14 @@
+{
+  "enabled": false,
+  "save_enabled_state": false,
+  "scale_x": 3.0,
+  "scale_y": 3.0,
+  "min_distance": -1000.0,
+  "max_distance": 1000.0,
+  "fixed": false,
+  "fixed_yaw": 0.0,
+  "fixed_pitch": 0.0,
+  "fixed_rotate_speed_y": 3.0,
+  "fixed_rotate_speed_x": 3.0,
+  "auto_third_person": true
+}

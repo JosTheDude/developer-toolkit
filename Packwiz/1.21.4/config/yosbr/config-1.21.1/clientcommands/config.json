@@ -1,0 +1,10 @@
+{
+  "maxChorusItemThrows": 2048,
+  "toolBreakWarning": false,
+  "maxEnchantItemThrows": 16384,
+  "commandExecutionLimit": 65536,
+  "maximumPacketFieldDepth": 10,
+  "acceptC2CPackets": false,
+  "itemThrowsPerTick": 1.0,
+  "packetDumpMethod": "REFLECTION"
+}

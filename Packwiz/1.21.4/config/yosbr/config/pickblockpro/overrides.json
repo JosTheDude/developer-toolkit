@@ -1,0 +1,15 @@
+{
+    "Block to ItemStack": {
+        "minecraft:fire": "minecraft:flint_and_steel",
+        "minecraft:soul_fire": "minecraft:flint_and_steel",
+        "minecraft:frosted_ice": "minecraft:ice"
+    },
+    "Entity to ItemStack": {
+        "minecraft:tnt": "minecraft:tnt",
+        "minecraft:fireball": "minecraft:fire_charge",
+        "minecraft:wither": "minecraft:wither_spawn_egg",
+        "minecraft:ender_dragon": "minecraft:ender_dragon_spawn_egg",
+        "minecraft:giant": "minecraft:zombie_spawn_egg[entity_data={id:giant,CustomName:''},custom_name='{\"text\":\"Giant Spawn Egg\",\"color\":\"light_purple\",\"italic\":false}']",
+        "minecraft:illusioner": "minecraft:evoker_spawn_egg[entity_data={id:illusioner,CustomName:''},custom_name='{\"text\":\"Illusioner Spawn Egg\",\"color\":\"light_purple\",\"italic\":false}']"
+    }
+}

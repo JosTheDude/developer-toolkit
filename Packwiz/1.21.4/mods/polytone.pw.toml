@@ -1,0 +1,16 @@
+filename = 'polytone-1.21.4-3.2.11-fabric.jar'
+name = 'Polytone'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e98bbac80884e90b23bf839c97389326d855090a160dad8d9e86da90b309c129c676bd7a63213deb10d1f55217890c5477e519d760b8b9ea4ee3624d67880818'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3qAYkBMB/versions/7u31aMgO/polytone-1.21.4-3.2.11-fabric.jar'
+
+[update.modrinth]
+mod-id = '3qAYkBMB'
+version = '7u31aMgO'

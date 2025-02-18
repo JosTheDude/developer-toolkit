@@ -1,0 +1,16 @@
+filename = 'modmenu-13.0.2.jar'
+name = 'Mod Menu'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7be7ea40934865ae71c2805ac228b2cd808d1f0dd1ec361e10ab5e84d881a3abd3f427d840153f89a501a7f08198781c88f17811c2b6373a3d30b5696c3d073d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mOgUt4GM/versions/qPUMDJX6/modmenu-13.0.2.jar'
+
+[update.modrinth]
+mod-id = 'mOgUt4GM'
+version = 'qPUMDJX6'

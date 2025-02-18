@@ -1,0 +1,16 @@
+filename = 'NoRefreshScroll-1.21.4-1.0.11.jar'
+name = 'NoRefreshScroll'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '77f3eccb72200c2f200a261b32a479a00b3a60b12fa6de3af0e1c0f40246581c5212441dd7d62f9c29c4e762b68add222c6ea560cf1515121e9387b3ef795a88'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bWkJ7ejc/versions/lNjphtEs/NoRefreshScroll-1.21.4-1.0.11.jar'
+
+[update.modrinth]
+mod-id = 'bWkJ7ejc'
+version = 'lNjphtEs'

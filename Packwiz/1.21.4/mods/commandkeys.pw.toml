@@ -1,0 +1,16 @@
+filename = 'commandkeys-fabric-2.3.7+1.21.4.jar'
+name = 'Command Keys'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '921ee31932c27c01c31d8f5b3f79cf8b7e8a964c48546b5d2cd43da4fb45883a7a067284e36207a7bcad3bbe086aad402058edd29efc705c753c890cfd20e2d7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/65UyswbY/versions/yVBtlRI6/commandkeys-fabric-2.3.7%2B1.21.4.jar'
+
+[update.modrinth]
+mod-id = '65UyswbY'
+version = 'yVBtlRI6'

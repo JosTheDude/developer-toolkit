@@ -1,0 +1,66 @@
+{
+  "general": {
+    "multiplayer_screen_button_orientation": "right_bottom",
+    "add_server_screen_button_orientation": "right_bottom",
+    "direct_connect_screen_button_orientation": "right_bottom",
+    "filter_creative_tabs": "vanilla_and_modded",
+    "save_selected_protocol_version": true,
+    "extra_information_in_debug_hud": true,
+    "show_classic_loading_progress": true,
+    "show_advertised_server_version": true,
+    "ignore_packet_translation_errors": "kick",
+    "load_skins_and_skulls_in_legacy_versions": true,
+    "emulate_inventory_actions_in_alpha_versions": true,
+    "save_scroll_position_in_slot_screens": true
+  },
+  "bedrock": {
+    "replace_default_port": true
+  },
+  "authentication": {
+    "use_beta_craft_authentication": true,
+    "verify_session_for_online_mode": true,
+    "automatically_select_cpe_when_using_classicube": true,
+    "set_session_name_to_classicube_name": true
+  },
+  "debug": {
+    "queue_config_packets": true,
+    "print_networking_errors_to_logs": true,
+    "ignore_fabric_sync_errors": false,
+    "hide_modern_jigsaw_screen_features": true,
+    "filter_non_existing_glyphs": true,
+    "dont_create_packet_error_crash_reports": "auto",
+    "disable_sequencing": "auto",
+    "always_tick_client_player": "auto",
+    "execute_inputs_synchronously": "auto",
+    "legacy_tab_completions": "auto",
+    "emulate_armor_hud": "auto",
+    "hide_modern_command_block_screen_features": "auto",
+    "disable_server_pinging": "auto"
+  },
+  "visual": {
+    "change_game_menu_screen_layout": "adjusted",
+    "remove_bubble_pop_sound": false,
+    "hide_empty_bubble_icons": false,
+    "hide_villager_profession": false,
+    "hide_download_terrain_screen_transition_effects": "disabled",
+    "lock_blocking_arm_rotation": "auto",
+    "change_body_rotation_interpolation": "auto",
+    "disable_secure_chat_warning": "auto",
+    "hide_signature_indicator": "auto",
+    "replace_petrified_oak_slab": "auto",
+    "hide_furnace_recipe_book": "auto",
+    "force_unicode_font_for_non_ascii_languages": "disabled",
+    "sneak_instantly": "auto",
+    "sideways_backwards_walking": "auto",
+    "hide_crafting_recipe_book": "auto",
+    "always_render_crosshair": "auto",
+    "swing_hand_on_item_use": "auto",
+    "tilt_item_positions": "auto",
+    "enable_legacy_tablist": "auto",
+    "replace_hurt_sound_with_oof_sound": "auto",
+    "hide_modern_hud_elements": "auto",
+    "replace_creative_inventory_with_classic_inventory": "auto",
+    "old_walking_animation": "auto"
+  },
+  "selected-protocol-version": "1.21-1.21.1"
+}

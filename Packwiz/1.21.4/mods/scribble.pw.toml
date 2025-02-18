@@ -1,0 +1,16 @@
+filename = 'Scribble-1.5.0+mc1.21.4-fabric.jar'
+name = 'Scribble'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cbba1f2bcf367dbb6d22bc81ae8eae592ec7746749c1e73e99a6d55ceb99ed2998deaab91396963baafd5fb9dc11d89ff4854e04616557062560d450f9e5efac'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yXAvIk0x/versions/i6VI20QP/Scribble-1.5.0%2Bmc1.21.4-fabric.jar'
+
+[update.modrinth]
+mod-id = 'yXAvIk0x'
+version = 'i6VI20QP'
