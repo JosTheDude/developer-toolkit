@@ -1454,7 +1454,7 @@ hash = "25f03911cf4f939df5e165faba2c7b705cd006630505c902e99e3de193090cb3"
 
 [[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
-hash = "50ea5c75f60a24719af673eb717969be4ee9c5e38cff7bce7bb9bbba35651e27"
+hash = "b61de6fd0b639f7bdff10d3f10e2d0a678d462dc94e30c1f3d521fb844ef9a7c"
 
 [[files]]
 file = "config/yosbr/config/entity_model_features.json"
@@ -2856,11 +2856,6 @@ metafile = true
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "8cb90d332117e4850ffaab7b785fc7f23066c1917dfcbdcb24fca1d1a61854b5"
-metafile = true
-
-[[files]]
-file = "mods/particle-rain.pw.toml"
-hash = "1b9810382197f1ce0fb6bd8dad45edb0201edce16c8bca019d51b20fbb2993c2"
 metafile = true
 
 [[files]]
