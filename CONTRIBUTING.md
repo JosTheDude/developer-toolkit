@@ -115,18 +115,11 @@ include Setup of env, IDE and typical getting started instructions?
 Todo.
 
 ### Improving The Documentation
-<!-- TODO
-Updating, improving and correcting the documentation
-
--->
-Todo.
+Feel free to modify https://github.com/JosTheDude/developer-toolkit/wiki to imrpove documentation. You must follow the Code of Conduct for all wiki contributions and if someone is disrupting the wiki, contact the lead maintainer below.
 
 ## Styleguides
 ### Commit Messages
-<!-- TODO
-
--->
-Todo.
+Commite messages generally follow https://www.conventionalcommits.org/ as a source style. Commit messages such as "wkqhqwjl" require further explanation and will likely not be accepted.
 
 ## Join The Project Team
 <!-- TODO -->
