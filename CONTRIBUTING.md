@@ -119,7 +119,12 @@ Feel free to modify https://github.com/JosTheDude/developer-toolkit/wiki to impr
 
 ## Styleguides
 ### Commit Messages
-Commite messages generally follow https://www.conventionalcommits.org/ as a source style. Commit messages such as "wkqhqwjl" require further explanation and will likely not be accepted.
+Commit messages generally follow https://www.conventionalcommits.org/ as a source style. Commit messages such as "wkqhqwjl" will likely not be accepted in pull requests.
+
+Example: `feat: adding sodium mod`
+Example: `feat: modifying config to enable features`
+Example: `chore: modifying wiki`
+Example: `feat!: bumping version to 1.21.4` (the `!` indicates a breaking/full modpack version change)
 
 ## Join The Project Team
 <!-- TODO -->
