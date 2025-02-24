@@ -2446,7 +2446,7 @@ hash = "16d3dc9674337fc0e95cae3651596e7bba82f3047076af57ee9cce022686d5e9"
 
 [[files]]
 file = "icon.png"
-hash = "0e041932e5e53cbe02f8295f71ea7292d5548356e478d924274520e2b0d7ee38"
+hash = "5b410abd04429a10365cc2ac7fdc5d41d5dc3a7df2f43f051926bd89e06c05bd"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -2521,6 +2521,11 @@ metafile = true
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "875f8fce4c93c4933e2e3acde6d69dfba49cc58fe34cc34f47c70c2e8d78b955"
+metafile = true
+
+[[files]]
+file = "mods/chat-plus.pw.toml"
+hash = "701756eba357fad11f2fba5797b01fe446d6a0008e9371b52c8b245cc601d5d3"
 metafile = true
 
 [[files]]

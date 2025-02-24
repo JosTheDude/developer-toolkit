@@ -1,0 +1,13 @@
+name = "Chat Plus"
+filename = "chatplus-fabric-2.4.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cJlZ132G/versions/jQSAIYUp/chatplus-fabric-2.4.0.jar"
+hash-format = "sha512"
+hash = "a154edd48b84c4d3b165bc6dba499a8f983b8c7d9845fac95f2e32cbfde946549c9129cb3e2a9101c9def21ee01a44b30e02dcff46a47c7093d602b25d19bd44"
+
+[update]
+[update.modrinth]
+mod-id = "cJlZ132G"
+version = "jQSAIYUp"
