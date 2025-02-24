@@ -115,7 +115,7 @@ include Setup of env, IDE and typical getting started instructions?
 Todo.
 
 ### Improving The Documentation
-Feel free to modify https://github.com/JosTheDude/developer-toolkit/wiki to imrpove documentation. You must follow the Code of Conduct for all wiki contributions and if someone is disrupting the wiki, contact the lead maintainer below.
+Feel free to modify https://github.com/JosTheDude/developer-toolkit/wiki to improve documentation with project info, tutorials, and more! You must follow the Code of Conduct for all wiki contributions and if someone is disrupting the wiki, contact the lead maintainer below.
 
 ## Styleguides
 ### Commit Messages
