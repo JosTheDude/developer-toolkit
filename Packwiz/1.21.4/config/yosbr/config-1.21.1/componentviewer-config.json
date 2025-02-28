@@ -1,9 +1,0 @@
-{
-  "mode": "SNBT",
-  "display": "HOLD",
-  "indent_size": 4,
-  "colored_snbt": true,
-  "component_changes": false,
-  "component_values": true,
-  "advanced_tooltips": false
-}

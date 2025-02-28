@@ -21,7 +21,7 @@
 	},
 	"maxSuggestionsShown": 12,
 	"highlightCoordinates": true,
-	"rememberCommandOnEscape": false,
+	"rememberCommandOnEscape": true,
 	"prioritizedSuggestions": [
 		"minecraft:barrier",
 		"data",

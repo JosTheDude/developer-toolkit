@@ -1,6 +1,6 @@
 {
 	"removeNametags": false,
-	"showOwnNametags": false,
+	"showOwnNametags": true,
 	"hideEntityNametagsInHiddenHud": true,
 	"hidePlayerNametagsInHiddenHud": false,
 	"hideArmorStandNametagsInHiddenHud": false,

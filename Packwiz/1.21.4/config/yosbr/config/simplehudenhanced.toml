@@ -7,11 +7,11 @@ toggleEquipmentStatus = true
 toggleSimpleHUDEnhanced = true
 textColor = 16777215
 textBackground = false
-textScale = 100
-textAlignment = "Right"
+textScale = 80
+textAlignment = "Left"
 
 [statusElements]
-Xcords = 100
+Xcords = 0
 Ycords = 0
 toggleLightLevel = false
 togglePlayerName = false
@@ -47,7 +47,7 @@ toggleGameDayCounter = false
 
 [statusElements.systemTime]
 toggleSystemTime = false
-textScale = 100
+textScale = 80
 textBackground = false
 toggleSystemTime24Hour = false
 
@@ -67,10 +67,10 @@ harmfulForegroundColor = -2130706433
 neutralForegroundColor = -2130706433
 
 [movementStatus]
-toggleMovementStatus = false
-textScale = 100
+toggleMovementStatus = true
+textScale = 80
 movementStatusLocationX = 0
-movementStatusLocationY = 90
+movementStatusLocationY = 10
 
 [movementStatus.movementTypes]
 toggleSprintStatus = true
@@ -80,14 +80,16 @@ toggleSwimmingStatus = true
 
 [paperDoll]
 togglePaperDoll = false
-textScale = 100
+togglePaperDollTimer = true
+paperDollTimeOut = 3000
+textScale = 80
 paperDollLocationX = 100
 paperDollLocationY = 0
 
 [equipmentStatus]
 showCount = true
 showNonTools = true
-textScale = 100
+textScale = 80
 equipmentOrientation = "Vertical"
 equipmentAlignment = "Auto"
 equipmentStatusLocationX = 100
