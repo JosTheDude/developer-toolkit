@@ -3,7 +3,7 @@ name: Feature Request
 about: Suggest an idea, mod, or config option for the modpack!
 title: "[Feature Request] "
 labels: enhancement
-assignees: ''
+assignees: 'JosTheDude'
 
 ---
 
