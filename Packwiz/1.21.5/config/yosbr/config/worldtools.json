@@ -1,0 +1,87 @@
+{
+  "general": {
+    "autoDownload": false,
+    "compressLevel": true,
+    "reloadBlockEntities": true,
+    "capture": {
+      "chunks": true,
+      "entities": true,
+      "players": true,
+      "statistics": true,
+      "levelData": true,
+      "advancements": true,
+      "metadata": true,
+      "maps": true
+    }
+  },
+  "world": {
+    "worldGenerator": {
+      "type": "VOID",
+      "bonusChest": false,
+      "generateFeatures": false,
+      "seed": 0
+    },
+    "gameRules": {
+      "modifyGameRules": true,
+      "doWardenSpawning": false,
+      "doFireTick": false,
+      "doVinesSpread": false,
+      "doMobSpawning": false,
+      "doDaylightCycle": false,
+      "doWeatherCycle": false,
+      "keepInventory": true,
+      "doMobGriefing": false,
+      "doTraderSpawning": false,
+      "doPatrolSpawning": false
+    },
+    "metadata": {
+      "captureTimestamp": true
+    },
+    "censor": {}
+  },
+  "entity": {
+    "behavior": {
+      "modifyEntityBehavior": false,
+      "noAI": true,
+      "noGravity": true,
+      "invulnerable": true,
+      "silent": true
+    },
+    "metadata": {
+      "captureTimestamp": true
+    },
+    "censor": {
+      "names": false,
+      "owner": false,
+      "lastDeathLocation": true
+    }
+  },
+  "render": {
+    "renderNotYetCachedContainers": true,
+    "unscannedContainerColor": 14548992,
+    "fromCacheLoadedContainerColor": 16753920,
+    "unscannedEntityColor": 14548992,
+    "fromCacheLoadedEntityColor": 16753920,
+    "accentColor": 10682188,
+    "captureBarColor": "PINK",
+    "captureBarStyle": "NOTCHED_10",
+    "progressBarColor": "GREEN",
+    "progressBarStyle": "PROGRESS",
+    "progressBarTimeout": 3000
+  },
+  "advanced": {
+    "anonymousMode": false,
+    "hideExperimentalWorldGui": true,
+    "showToasts": true,
+    "showChatMessages": true,
+    "keepEnderChestContents": false
+  },
+  "debug": {
+    "logSettings": false,
+    "logSavedChunks": false,
+    "logSavedEntities": false,
+    "logSavedContainers": false,
+    "logSavedMaps": false,
+    "logZippingProgress": false
+  }
+}

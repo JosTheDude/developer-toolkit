@@ -1,0 +1,34 @@
+{
+  "Generic": {
+    "ignoredKeys": {
+      "keys": ""
+    },
+    "openGuiConfigs": {
+      "keys": "A,C"
+    },
+    "enableActionbarMessages": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "actionbarHudTicks": 60,
+    "inGameMessageTimeout": 5.0,
+    "enableConfigSwitcher": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "realmsCommonConfig": true
+  },
+  "Debug": {
+    "debugMessages": false,
+    "configElementDebug": false,
+    "inputCancellationDebugging": false,
+    "keybindDebugging": false,
+    "keybindDebuggingIngame": false,
+    "mouseScrollDebug": false,
+    "printTranslationKeys": false
+  }
+}

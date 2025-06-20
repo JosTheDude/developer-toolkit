@@ -1,0 +1,6 @@
+{
+  "signingModes": {
+    "play.soulrealms.net:25565": "NEVER",
+    "play.tubbo.live:25570": "PROMPT"
+  }
+}

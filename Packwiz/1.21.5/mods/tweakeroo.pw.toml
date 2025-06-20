@@ -1,0 +1,16 @@
+filename = 'tweakeroo-fabric-1.21.5-0.24.1.jar'
+name = 'Tweakeroo'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '25e52efb0be46d5fc10fa9cba527bbe2c89a0b5a3fe9a2b1fe3472d84cf08ed19c5c5b669b8df0f964a2ed0ffda3f2710c0d4451045fb844f1669af648d536af'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/t5wuYk45/versions/BcuU3lPm/tweakeroo-fabric-1.21.5-0.24.1.jar'
+
+[update.modrinth]
+mod-id = 't5wuYk45'
+version = 'BcuU3lPm'

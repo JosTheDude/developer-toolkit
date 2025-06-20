@@ -1,0 +1,16 @@
+filename = 'eg_f3_t_everywhere-2.2.0-fabric-mc1.21.5.jar'
+name = 'Debug Keys (F3+T) Everywhere'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '76844513b5b852ad6ad42029e9a7c5a1870bb5be36720f81121951dfb4fd80ef9aa7d6d6c7b929295dc047e8747a0ca1e20ae27f9d5457963d52a1899dda5c5c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lr5YSsF9/versions/zIBQ4S6I/eg_f3_t_everywhere-2.2.0-fabric-mc1.21.5.jar'
+
+[update.modrinth]
+mod-id = 'lr5YSsF9'
+version = 'zIBQ4S6I'

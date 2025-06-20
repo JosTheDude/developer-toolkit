@@ -1,0 +1,16 @@
+filename = 'peek-fabric-1.21.5-1.4.3.jar'
+name = 'Peek'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = 'a69e789714579bcc488ea909e0516d155214ac1421fbf09a3327166b3a8c91cfcf6b2f8b083e148fbcfd048b40d6653c70dfdb6ae0e46a8ddd4833ff03e816a8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/TnOXNf5e/versions/J73ObVur/peek-fabric-1.21.5-1.4.3.jar'
+
+[update.modrinth]
+mod-id = 'TnOXNf5e'
+version = 'J73ObVur'

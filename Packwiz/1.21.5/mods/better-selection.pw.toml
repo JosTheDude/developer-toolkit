@@ -1,0 +1,16 @@
+filename = 'better-selection-1.6.6.jar'
+name = 'Better Selection'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.5', '1.20.6', '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e43e04bfb2b732d986ce9e3ad632f6871ff0ddf0ac20ac6e2f658ba488f29362f9e444494fcfc37e7e74557ffe06d866a56a6e854f7187e6e7405d00b2d7ca6a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xIpcAYJL/versions/kpFh4evX/better-selection-1.6.6.jar'
+
+[update.modrinth]
+mod-id = 'xIpcAYJL'
+version = 'kpFh4evX'

@@ -1,0 +1,16 @@
+filename = 'clientcommands-2.10.3.jar'
+name = 'clientcommands'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '361baf55f0908d2a0de9c9ff4a68022bd7ade7fc638a76e6726e3cd838b7218564db7ea628233bba72bb7412a495f80b811a0ed3e81abeebb0d42a791376928f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/7Coz83fv/versions/Y3pK5AwM/clientcommands-2.10.3.jar'
+
+[update.modrinth]
+mod-id = '7Coz83fv'
+version = 'Y3pK5AwM'

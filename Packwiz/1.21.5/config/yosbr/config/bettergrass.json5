@@ -1,0 +1,55 @@
+{
+	/* -> General
+	   OFF/FAST/FANCY (default: FANCY)
+	*/
+	"betterGrassMode": "FANCY",
+	// (default: true)
+	"resourcePackCompatibilityMode": true,
+	/* Blocks
+	   (default: true)
+	*/
+	"grassBlocks": true,
+	// (default: true)
+	"snowy": true,
+	// (default: true)
+	"dirtPaths": true,
+	// (default: true)
+	"farmLands": true,
+	// (default: true)
+	"podzol": true,
+	// (default: true)
+	"mycelium": true,
+	// (default: true)
+	"crimsonNylium": true,
+	// (default: true)
+	"warpedNylium": true,
+	"moreBlocks": [
+		"minecraft:sculk_catalyst"
+	],
+	/* -> Better Snow
+	   OFF/OPTIFINE/LAMBDA (default: OPTIFINE)
+	*/
+	"betterSnowMode": "OPTIFINE",
+	"snowLayers": [
+		"snow",
+		"moss_carpet",
+		"pale_moss_carpet"
+	],
+	"excludedTags": [
+		"buttons",
+		"doors",
+		"fire",
+		"leaves",
+		"pressure_plates",
+		"rails"
+	],
+	"excludedBlocks": [
+		"lantern[hanging]",
+		"redstone_wall_torch",
+		"soul_lantern[hanging]",
+		"soul_wall_torch",
+		"wall_torch"
+	],
+	"whitelistedTags": [],
+	"whitelistedBlocks": []
+}

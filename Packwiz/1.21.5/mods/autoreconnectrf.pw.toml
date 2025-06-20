@@ -1,0 +1,16 @@
+filename = 'autoreconnectrf-fabric-1.0.4+1.21.jar'
+name = 'Auto Reconnect Reforged'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '33650624266dd67fdc0fa9d29058350ea04c1431dbe04dfa30e7f11609543d6571b3b8326e34d98295a5cb103d214b0aa337164d1a4e54d0f1fa18267826b51f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PRy8Khga/versions/sSYX1iX0/autoreconnectrf-fabric-1.0.4%2B1.21.jar'
+
+[update.modrinth]
+mod-id = 'PRy8Khga'
+version = 'sSYX1iX0'

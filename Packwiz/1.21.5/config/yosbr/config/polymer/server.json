@@ -1,0 +1,20 @@
+{
+  "_c7": "Displays vanilla/modded creatives tabs in /polymer creative",
+  "displayNonPolymerCreativeTabs": true,
+  "_c9": "Makes server send additional block updates around clicked area",
+  "sendBlocksAroundClicked": true,
+  "_c11": "Makes polymer report time it's handshake took",
+  "logHandshakeTime": false,
+  "_c12": "Enables logging of BlockState ids rebuilds",
+  "logBlockStateRebuilds": true,
+  "_c1": "Enables syncing of non-polymer entries as polymer ones, when PolyMc is present",
+  "polyMcSyncModdedEntries": true,
+  "_c2": "Delay from last light updates to syncing it to clients, in ticks",
+  "lightUpdateTickDelay": 1,
+  "_c14": "Amount of recipes that get split into seperate packets instead of being sent all at once. Should help avoiding packet size limit. -1 disables it",
+  "split_recipe_book_packet_amount": -1,
+  "_c15": "Changes stonecutter a bit to fix custom recipes not working with it.",
+  "force_enable_stonecutter_fix": false,
+  "_c13": "Replaces PolyMc's block and item interaction handling with Polymer ones",
+  "override_polymc_mining_check": false
+}

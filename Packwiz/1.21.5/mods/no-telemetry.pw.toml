@@ -1,0 +1,58 @@
+filename = 'no-telemetry-1.9.0.jar'
+name = 'No Telemetry'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.18',
+    '1.18 Pre-Release 1',
+    '1.18 Pre-Release 2',
+    '1.18 Pre-Release 3',
+    '1.18 Pre-Release 4',
+    '1.18 Pre-Release 5',
+    '1.18 Pre-Release 6',
+    '1.18 Pre-Release 7',
+    '1.18 Pre-Release 8',
+    '1.18 rc1',
+    '1.18 rc2',
+    '1.18 rc3',
+    '1.18 rc4',
+    '1.18.1',
+    '1.18.2',
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '21w38a',
+    '21w39a',
+    '21w40a',
+    '21w41a',
+    '21w42a',
+    '21w43a',
+    '21w44a'
+]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4527236781611cc40a77e222e4dd2a1d6a5c0c9a9394eed4063c20c91ba62568c2d4323bc84a9372d69d10703e26b7569ef75ea55c52ad36ec55107f19bcaae8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hg77g4Pw/versions/OwTaGd6A/no-telemetry-1.9.0.jar'
+
+[update.modrinth]
+mod-id = 'hg77g4Pw'
+version = 'OwTaGd6A'

@@ -1,0 +1,16 @@
+filename = 'resourcepackchecker-fabric-1.21.5-1.2.2.jar'
+name = 'Server Resourcepack Checker'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '3fff809baea22e783ea70d297f31152325f6b63ce3e85fb7c80e0659e07d3e64f5d8451c3734818546f9f245a29602290c26e54f05e7396c43b74c3be923568f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fCpuZIcM/versions/N2bvtR7u/resourcepackchecker-fabric-1.21.5-1.2.2.jar'
+
+[update.modrinth]
+mod-id = 'fCpuZIcM'
+version = 'N2bvtR7u'

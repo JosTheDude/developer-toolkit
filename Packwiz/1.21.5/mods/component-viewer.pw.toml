@@ -1,0 +1,16 @@
+filename = 'componentviewer-fabric-1.2.1+1.21.5.jar'
+name = 'Component Viewer'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e83c1ebb23318d0650b81e564192f963104c270d435d7e8804a0f340a5c9b9067101366b0a11ff938177b67a3fb91f667c1b77720b1215fdc88a0e8dcc38261c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/P9vIqP8R/versions/jz75E51O/componentviewer-fabric-1.2.1%2B1.21.5.jar'
+
+[update.modrinth]
+mod-id = 'P9vIqP8R'
+version = 'jz75E51O'

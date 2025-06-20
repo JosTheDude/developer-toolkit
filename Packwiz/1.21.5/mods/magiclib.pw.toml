@@ -1,0 +1,13 @@
+name = "MagicLib"
+filename = "MagicLib-mc1.21.5-fabric-0.8.710-stable.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mv1zH6ln/versions/ErNABdb4/MagicLib-mc1.21.5-fabric-0.8.710-stable.jar"
+hash-format = "sha512"
+hash = "3ca8381131c233e4f978223ac8e4bda143b093e4c6c3b8e7753edcfb24c32b616a89de860a5236656f2a23581e4a97fb9b118913e3e47c276d3628da399e5219"
+
+[update]
+[update.modrinth]
+mod-id = "mv1zH6ln"
+version = "ErNABdb4"

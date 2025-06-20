@@ -1,0 +1,16 @@
+filename = 'dynamicappicon-1.21.3-0.2.4.jar'
+name = 'Dynamic App Icon'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.3', '1.21.4', '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'fbcbf33e83ef955460f83390ebab170dc988516ec9c7cc192179e38753867b59b7111ff3732c7affe943400348a9c28bf7cf179fb6ca9f2d688d6cda46541780'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PCgMJzJ6/versions/W2IWK7Vr/dynamicappicon-1.21.3-0.2.4.jar'
+
+[update.modrinth]
+mod-id = 'PCgMJzJ6'
+version = 'W2IWK7Vr'

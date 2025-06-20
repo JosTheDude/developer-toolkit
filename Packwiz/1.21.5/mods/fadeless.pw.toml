@@ -1,0 +1,16 @@
+filename = 'fadeless-2.0.3.jar'
+name = 'Fadeless'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4', '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dcb66dd157b59e2288f9bf439d5ddb143e0229dd5ec3eb11e96de0b542079d288641fb05cffee2d4e1acc4da64b3883bffb4cb9d90372d2beab5edd4b9bb1956'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ncKjyGm3/versions/PUSsXtz5/fadeless-2.0.3.jar'
+
+[update.modrinth]
+mod-id = 'ncKjyGm3'
+version = 'PUSsXtz5'

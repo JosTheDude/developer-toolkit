@@ -1,0 +1,16 @@
+filename = 'spark-1.10.138-fabric.jar'
+name = 'spark'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c2bdb171c7ec1783f9efb0ff9a995433fd5838bd8571896be4f498c857ae9f2242d3f24c0541cd96049ea29d742a0e3f8077a3bd1af5d79654f19d34a3adc79c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/l6YH9Als/versions/65SnrRgF/spark-1.10.138-fabric.jar'
+
+[update.modrinth]
+mod-id = 'l6YH9Als'
+version = '65SnrRgF'

@@ -1,0 +1,16 @@
+filename = 'held-item-info-1.7.2.jar'
+name = 'Held Item Info'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'fa0727a563a0e6f61e2d81075282502ce3ae3a20195b998a66c94f25bdbcd122705b9459821a4c04cdd6daafae9ff64b8d735e6adbb03bff54fec3b09dd83231'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tEcWzCZz/versions/JzhBYzHy/held-item-info-1.7.2.jar'
+
+[update.modrinth]
+mod-id = 'tEcWzCZz'
+version = 'JzhBYzHy'

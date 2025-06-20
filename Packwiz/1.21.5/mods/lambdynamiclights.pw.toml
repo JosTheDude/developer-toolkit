@@ -1,0 +1,16 @@
+filename = 'lambdynamiclights-4.2.7+1.21.5.jar'
+name = 'LambDynamicLights'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '97c5cf30eea77b0ad257ee625c12951ef0a982838b2053d4e73ff9a78f82023efebae760bbec231c7c07e9de5c661a0a34c82865ac996492b9bb7f51ad1aec24'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yBW8D80W/versions/STvJaSpP/lambdynamiclights-4.2.7%2B1.21.5.jar'
+
+[update.modrinth]
+mod-id = 'yBW8D80W'
+version = 'STvJaSpP'

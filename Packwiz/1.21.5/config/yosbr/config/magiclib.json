@@ -1,0 +1,157 @@
+{
+  "generic": {
+    "openConfigGui": {
+      "keys": "M,A,G"
+    }
+  },
+  "debug": {
+    "debug": false,
+    "hideUnavailableConfigs": true,
+    "resetAllConfigStatistic": {
+      "keys": ""
+    },
+    "resetMagicLibConfigStatistic": {
+      "keys": ""
+    }
+  },
+  "test": {
+    "testConfigBoolean": false,
+    "testConfigBooleanHotkeyed": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "testConfigColor": "#00000000",
+    "testConfigDouble": 1.0,
+    "testConfigHotkey": {
+      "keys": ""
+    },
+    "testConfigHotkeyWithSwitch": {
+      "keys": "",
+      "enabled": false
+    },
+    "testConfigInteger": 1,
+    "testConfigOptionList": "test_b",
+    "testConfigOptionListHotkeyed": {
+      "value": "test_b",
+      "keybind": ""
+    },
+    "testConfigString": "test",
+    "testConfigStringList": [
+      "test1",
+      "test2"
+    ],
+    "testConfigVec3i": {
+      "x": 1,
+      "y": 0,
+      "z": -1
+    },
+    "testConfigVec3iList": [
+      {
+        "x": 1,
+        "y": 2,
+        "z": 3
+      },
+      {
+        "x": -1,
+        "y": -2,
+        "z": -3
+      }
+    ],
+    "testDependencies": false,
+    "testDependenciesComposite": false
+  },
+  "internal": {
+    "configStatistic": {
+      "openConfigGui": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "debug": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "hideUnavailableConfigs": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "resetAllConfigStatistic": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "resetMagicLibConfigStatistic": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "testConfigBoolean": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "testConfigBooleanHotkeyed": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "testConfigColor": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "testConfigDouble": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "testConfigHotkey": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "testConfigHotkeyWithSwitch": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "testConfigInteger": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "testConfigOptionList": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "testConfigOptionListHotkeyed": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "testConfigString": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "testConfigStringList": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "testConfigVec3i": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "testConfigVec3iList": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "testDependencies": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "testDependenciesComposite": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      }
+    },
+    "global": {
+      "config_version": 0
+    },
+    "config_gui": {
+      "category": "all",
+      "sortingStrategy": "ALPHABET"
+    }
+  },
+  "external": {}
+}

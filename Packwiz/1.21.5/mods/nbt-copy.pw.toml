@@ -1,0 +1,16 @@
+filename = 'NBTcopy-FABRIC-1.21.5-1.0.4.jar'
+name = 'NBT Copy'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5', '1.21.6' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a734e37fdb0015007ccbef14b01a186858f08219a94fc271b2623f30f55973a5d63e8147866b265792b2f0033dd8c4c93589942d4ae223f2009f5402008f5be1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XIIGRXeq/versions/LYnSp0fN/NBTcopy-FABRIC-1.21.5-1.0.4.jar'
+
+[update.modrinth]
+mod-id = 'XIIGRXeq'
+version = 'LYnSp0fN'

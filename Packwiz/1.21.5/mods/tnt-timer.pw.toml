@@ -1,0 +1,13 @@
+name = "TNT Timer"
+filename = "tnt-timer-3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AihRqJiY/versions/7siVZRjL/tnt-timer-3.0.jar"
+hash-format = "sha512"
+hash = "4786e7f8fcf7c4b4ea43b2be323fe9089b744d565bfcffc129ef7808f09920d95ee378e0e371d1f8088649264746fdbbfeb58c3247cbe13afba5cc6a88814227"
+
+[update]
+[update.modrinth]
+mod-id = "AihRqJiY"
+version = "7siVZRjL"

@@ -1,0 +1,38 @@
+{
+	gui: {
+		autofocus_search_bar: false,
+		show_autocomplete: true,
+		autocomplete_shows_regular_names: true,
+		show_resize_widget: true,
+		grid_width: 9,
+		grid_height: 6,
+		hide_memory_ids: true,
+		item_list_text_scale: 0,
+		use_custom_name_in_g_u_is: true,
+		inventory_button: {
+			enabled: true,
+			show_extra: true,
+			show_export: false
+		}
+	},
+	rendering: {
+		name_range: 12
+	},
+	debug: {
+		show_dev_hud: false,
+		disable_container_names: false
+	},
+	storage: {
+		readable_json_memories: false,
+		storage_backend: "NBT"
+	},
+	compatibility: {
+		shulker_box_tooltip_integration: true,
+		wthit_integration: true,
+		litematica: {
+			material_list_search_buttons: true,
+			count_ender_chest_materials: true,
+			count_nearby_materials: false
+		}
+	}
+}

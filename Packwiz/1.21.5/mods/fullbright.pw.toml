@@ -1,0 +1,16 @@
+filename = 'fullbright-2.0.1.jar'
+name = 'Fullbright'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ff8eedb313f5731bd4b1d13e3e997b38fd0a1f42567f2a5d61abf54bed1db755ddba9c93e71d180cd1e40fcab8b9ca9a880c3371f6dc1135e75646d03b0c5641'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/VyxkIxCd/versions/IxqhyaDR/fullbright-2.0.1.jar'
+
+[update.modrinth]
+mod-id = 'VyxkIxCd'
+version = 'IxqhyaDR'

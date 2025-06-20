@@ -1,0 +1,1112 @@
+{
+  "Fixes": {
+    "macHorizontalScroll": false,
+    "ravagerClientBlockBreakFix": false
+  },
+  "Generic": {
+    "accuratePlacementProtocolMode": "auto",
+    "accuratePlacementProtocol": true,
+    "bundleDisplayBgColor": true,
+    "bundleDisplayRequireShift": true,
+    "bundleDisplayRowWidth": 9,
+    "clientPlacementRotation": true,
+    "debugLogging": false,
+    "fastLeftClickAllowTools": false,
+    "fastPlacementRememberOrientation": true,
+    "freeCameraPlayerInputs": false,
+    "freeCameraPlayerMovement": false,
+    "handRestockPre": true,
+    "hangableEntityBypassInverse": false,
+    "inventoryPreviewVillagerBGColor": false,
+    "itemUsePacketCheckBypass": true,
+    "mapPreviewRequireShift": true,
+    "permanentSneakAllowInGUIs": false,
+    "placementRestrictionTiedToFast": true,
+    "potionWarningBeneficialOnly": true,
+    "rememberFlexibleFromClick": true,
+    "shulkerDisplayBgColor": true,
+    "shulkerDisplayEnderChest": false,
+    "shulkerDisplayRequireShift": true,
+    "slotSyncWorkaround": true,
+    "slotSyncWorkaroundAlways": false,
+    "snapAimIndicator": true,
+    "snapAimOnlyCloseToAngle": true,
+    "snapAimPitchOvershoot": false,
+    "zoomAdjustMouseSensitivity": true,
+    "areaSelectionUseAll": false,
+    "restrictionLayerHeight": 1,
+    "blockTypeBreakRestrictionWarn": "message",
+    "breakingRestrictionMode": "line",
+    "elytraCameraIndicator": "with_key",
+    "entityTypeAttackRestrictionWarn": "message",
+    "placementRestrictionMode": "face",
+    "hotbarSwapOverlayAlignment": "bottom_right",
+    "selectiveBlocksTrackPistons": false,
+    "selectiveBlocksHideParticles": true,
+    "selectiveBlocksHideEntities": false,
+    "selectiveBlocksNoHit": true,
+    "snapAimMode": "yaw",
+    "chatTimeFormat": "[HH:mm:ss]",
+    "chatBackgroundColor": "#80000000",
+    "flexibleBlockPlacementOverlayColor": "#C03030F0",
+    "snapAimIndicatorColor": "#603030FF",
+    "afterClickerClickCount": 1,
+    "blockReachDistance": 4.5,
+    "angelBlockPlacementDistance": 3.0,
+    "breakingGridSize": 3,
+    "customInventoryGuiScale": 2,
+    "entityReachDistance": 3.0,
+    "fastBlockPlacementCount": 2,
+    "fastLeftClickCount": 10,
+    "fastRightClickCount": 10,
+    "fillCloneLimit": 10000000,
+    "flyDecelerationFactor": 0.4,
+    "flySpeedPreset1": 0.01,
+    "flySpeedPreset2": 0.064,
+    "flySpeedPreset3": 0.128,
+    "flySpeedPreset4": 0.32,
+    "flySpeedIncrement1": 0.128,
+    "flySpeedIncrement2": -0.128,
+    "gammaOverrideValue": 16.0,
+    "handRestockPreThreshold": 6,
+    "hotbarSlotCycleMax": 2,
+    "hotbarSlotRandomizerMax": 5,
+    "hotbarSwapOverlayOffsetX": 4,
+    "hotbarSwapOverlayOffsetY": 4,
+    "itemSwapDurabilityThreshold": 20,
+    "mapPreviewSize": 160,
+    "periodicAttackInterval": 20,
+    "periodicAttackResetIntervalOnActivate": true,
+    "periodicUseInterval": 20,
+    "periodicUseResetIntervalOnActivate": true,
+    "periodicHoldAttackDuration": 20,
+    "periodicHoldAttackInterval": 20,
+    "periodicHoldAttackResetIntervalOnActivate": true,
+    "periodicHoldUseDuration": 20,
+    "periodicHoldUseInterval": 20,
+    "periodicHoldUseResetIntervalOnActivate": true,
+    "placementGridSize": 3,
+    "placementLimit": 3,
+    "potionWarningThreshold": 600,
+    "renderLimitItem": -1,
+    "renderLimitXPOrb": -1,
+    "sculkSensorPulseLength": 40,
+    "serverDataSyncCacheRefresh": 0.25,
+    "serverDataSyncCacheTimeout": 1.0,
+    "serverNbtRequestRate": 2,
+    "snapAimPitchStep": 12.5,
+    "snapAimThresholdPitch": 1.5,
+    "snapAimThresholdYaw": 5.0,
+    "snapAimYawStep": 45.0,
+    "structureBlockMaxSize": 128,
+    "toolSwitchableSlots": "1-9",
+    "toolSwitchIgnoredSlots": "",
+    "toolSwapBetterEnchants": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "toolSwapSilkTouchFirst": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "toolSwapSilkTouchOres": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "weaponSwapBetterEnchants": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "zoomFov": 30.0,
+    "zoomResetFovOnActivate": true
+  },
+  "GenericHotkeys": {
+    "accurateBlockPlacementInto": {
+      "keys": ""
+    },
+    "accurateBlockPlacementReverse": {
+      "keys": ""
+    },
+    "breakingRestrictionModeColumn": {
+      "keys": ""
+    },
+    "breakingRestrictionModeDiagonal": {
+      "keys": ""
+    },
+    "breakingRestrictionModeFace": {
+      "keys": ""
+    },
+    "breakingRestrictionModeLayer": {
+      "keys": ""
+    },
+    "breakingRestrictionModeLine": {
+      "keys": ""
+    },
+    "breakingRestrictionModePlane": {
+      "keys": ""
+    },
+    "copySignText": {
+      "keys": ""
+    },
+    "elytraCamera": {
+      "keys": ""
+    },
+    "flexibleBlockPlacementAdjacent": {
+      "keys": ""
+    },
+    "flexibleBlockPlacementOffset": {
+      "keys": "LEFT_CONTROL"
+    },
+    "flexibleBlockPlacementRotation": {
+      "keys": "LEFT_ALT"
+    },
+    "flyPreset1": {
+      "keys": ""
+    },
+    "flyPreset2": {
+      "keys": ""
+    },
+    "flyPreset3": {
+      "keys": ""
+    },
+    "flyPreset4": {
+      "keys": ""
+    },
+    "flyIncrement1": {
+      "keys": ""
+    },
+    "flyIncrement2": {
+      "keys": ""
+    },
+    "freeCameraPlayerInputs": {
+      "keys": ""
+    },
+    "freeCameraPlayerMovement": {
+      "keys": ""
+    },
+    "hotbarScroll": {
+      "keys": ""
+    },
+    "hotbarSwapBase": {
+      "keys": ""
+    },
+    "hotbarSwap1": {
+      "keys": ""
+    },
+    "hotbarSwap2": {
+      "keys": ""
+    },
+    "hotbarSwap3": {
+      "keys": ""
+    },
+    "inventoryPreview": {
+      "keys": "LEFT_ALT"
+    },
+    "inventoryPreviewToggleScreen": {
+      "keys": ""
+    },
+    "openConfigGui": {
+      "keys": "Z,X,C"
+    },
+    "placementYMirror": {
+      "keys": ""
+    },
+    "playerInventoryPeek": {
+      "keys": ""
+    },
+    "placementRestrictionModeColumn": {
+      "keys": "Z,3"
+    },
+    "placementRestrictionModeDiagonal": {
+      "keys": "Z,5"
+    },
+    "placementRestrictionModeFace": {
+      "keys": "Z,2"
+    },
+    "placementRestrictionModeLayer": {
+      "keys": "Z,6"
+    },
+    "placementRestrictionModeLine": {
+      "keys": "Z,4"
+    },
+    "placementRestrictionModePlane": {
+      "keys": "Z,1"
+    },
+    "sitDownNearbyPets": {
+      "keys": ""
+    },
+    "skipAllRendering": {
+      "keys": ""
+    },
+    "skipWorldRendering": {
+      "keys": ""
+    },
+    "standUpNearbyPets": {
+      "keys": ""
+    },
+    "swapElytraChestplate": {
+      "keys": ""
+    },
+    "toggleAccuratePlacementProtocol": {
+      "keys": ""
+    },
+    "toggleGrabCursor": {
+      "keys": ""
+    },
+    "toolPick": {
+      "keys": ""
+    },
+    "areaSelectionOffset": {
+      "keys": "LEFT_SHIFT"
+    },
+    "areaSelectionAddToList": {
+      "keys": ""
+    },
+    "areaSelectionRemoveFromList": {
+      "keys": ""
+    },
+    "writeMapsAsImages": {
+      "keys": ""
+    },
+    "zoomActivate": {
+      "keys": ""
+    }
+  },
+  "Internal": {
+    "flySpeedPreset": 0,
+    "gammaValueOriginal": 0.5,
+    "hotbarScrollCurrentRow": 3,
+    "slimeBlockSlipperinessOriginal": 0.800000011920929,
+    "snapAimLastYaw": 0.0
+  },
+  "Lists": {
+    "blockTypeBreakRestrictionListType": "blacklist",
+    "blockTypeBreakRestrictionBlackList": [
+      "minecraft:budding_amethyst"
+    ],
+    "blockTypeBreakRestrictionWhiteList": [],
+    "entityTypeAttackRestrictionListType": "blacklist",
+    "entityTypeAttackRestrictionBlackList": [
+      "minecraft:villager"
+    ],
+    "entityTypeAttackRestrictionWhiteList": [],
+    "entityWeaponMapping": [
+      "\u003cdefault\u003e \u003d\u003e minecraft:mace, minecraft:netherite_sword, minecraft:diamond_sword, minecraft:iron_sword, minecraft:golden_sword, minecraft:stone_sword, minecraft:wooden_sword",
+      "minecraft:end_crystal, minecraft:item_frame, minecraft:glow_item_frame, minecraft:leash_knot \u003d\u003e \u003cignore\u003e",
+      "minecraft:minecart, minecraft:chest_minecart, minecraft:furnace_minecart, minecraft:hopper_minecart, minecraft:hopper_minecart, minecraft:spawner_minecart, minecraft:tnt_minecart, minecraft:boat\u003d\u003e minecraft:mace, minecraft:netherite_axe, minecraft:diamond_axe, minecraft:iron_axe, minecraft:golden_axe, minecraft:stone_axe, minecraft:wooden_axe"
+    ],
+    "fastPlacementItemListType": "blacklist",
+    "fastRightClickBlockListType": "blacklist",
+    "fastRightClickListType": "none",
+    "potionWarningListType": "none",
+    "fastPlacementItemBlackList": [
+      "minecraft:ender_chest",
+      "minecraft:white_shulker_box"
+    ],
+    "fastPlacementItemWhiteList": [],
+    "fastRightClickBlockBlackList": [
+      "minecraft:chest",
+      "minecraft:ender_chest",
+      "minecraft:trapped_chest",
+      "minecraft:white_shulker_box"
+    ],
+    "fastRightClickBlockWhiteList": [],
+    "fastRightClickBlackList": [
+      "minecraft:firework_rocket"
+    ],
+    "fastRightClickWhiteList": [
+      "minecraft:bucket",
+      "minecraft:water_bucket",
+      "minecraft:lava_bucket",
+      "minecraft:glass_bottle"
+    ],
+    "handRestockListType": "none",
+    "handRestockBlackList": [
+      "minecraft:bucket",
+      "minecraft:lava_bucket",
+      "minecraft:water_bucket"
+    ],
+    "handRestockWhiteList": [],
+    "potionWarningBlackList": [
+      "minecraft:hunger",
+      "minecraft:mining_fatigue",
+      "minecraft:nausea",
+      "minecraft:poison",
+      "minecraft:slowness",
+      "minecraft:weakness"
+    ],
+    "potionWarningWhiteList": [
+      "minecraft:fire_resistance",
+      "minecraft:invisibility",
+      "minecraft:water_breathing"
+    ],
+    "repairModeSlots": [
+      "mainhand",
+      "offhand"
+    ],
+    "unstackingItems": [
+      "minecraft:bucket",
+      "minecraft:glass_bottle"
+    ],
+    "selectiveBlocksListType": "none",
+    "selectiveBlocksWhitelist": "",
+    "selectiveBlocksBlacklist": ""
+  },
+  "DisableToggles": {
+    "disableArmorStandRendering": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableAxeStripping": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableBatSpawning": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableBeaconBeamRendering": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableBlockBreakingParticles": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableBlockBreakCooldown": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableDoubleTapSprint": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableBossBar": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableBossFog": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableChunkRendering": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableClientEntityUpdates": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableClientLightUpdates": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableConstantChunkSaving": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableCreativeMenuInfestedBlocks": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableDeadMobRendering": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableDeadMobTargeting": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableEntityRendering": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableEntityTicking": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableFallingBlockEntityRendering": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableFirstPersonEffectParticles": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableInventoryEffectRendering": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableItemSwitchRenderCooldown": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableMobSpawnerMobRendering": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableNauseaEffect": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableNetherFog": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableNetherPortalSound": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableObserver": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableOffhandRendering": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableParticles": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disablePortalGuiClosing": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableRainEffects": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableRenderingScaffolding": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableRenderDistanceFog": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableScoreboardRendering": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableShulkerBoxTooltip": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableShovelPathing": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableSignGui": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableSkyDarkness": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableSlimeBlockSlowdown": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableStatusEffectHud": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableTileEntityRendering": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableTileEntityTicking": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableVillagerTradeLocking": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableWallUnsprint": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableWorldViewBob": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    }
+  },
+  "DisableHotkeys": {
+    "disableArmorStandRendering": {
+      "keys": ""
+    },
+    "disableAxeStripping": {
+      "keys": ""
+    },
+    "disableBatSpawning": {
+      "keys": ""
+    },
+    "disableBeaconBeamRendering": {
+      "keys": ""
+    },
+    "disableBlockBreakingParticles": {
+      "keys": ""
+    },
+    "disableBlockBreakCooldown": {
+      "keys": ""
+    },
+    "disableDoubleTapSprint": {
+      "keys": ""
+    },
+    "disableBossBar": {
+      "keys": ""
+    },
+    "disableBossFog": {
+      "keys": ""
+    },
+    "disableChunkRendering": {
+      "keys": ""
+    },
+    "disableClientEntityUpdates": {
+      "keys": ""
+    },
+    "disableClientLightUpdates": {
+      "keys": ""
+    },
+    "disableConstantChunkSaving": {
+      "keys": ""
+    },
+    "disableCreativeMenuInfestedBlocks": {
+      "keys": ""
+    },
+    "disableDeadMobRendering": {
+      "keys": ""
+    },
+    "disableDeadMobTargeting": {
+      "keys": ""
+    },
+    "disableEntityRendering": {
+      "keys": ""
+    },
+    "disableEntityTicking": {
+      "keys": ""
+    },
+    "disableFallingBlockEntityRendering": {
+      "keys": ""
+    },
+    "disableFirstPersonEffectParticles": {
+      "keys": ""
+    },
+    "disableInventoryEffectRendering": {
+      "keys": ""
+    },
+    "disableItemSwitchRenderCooldown": {
+      "keys": ""
+    },
+    "disableMobSpawnerMobRendering": {
+      "keys": ""
+    },
+    "disableNauseaEffect": {
+      "keys": ""
+    },
+    "disableNetherFog": {
+      "keys": ""
+    },
+    "disableNetherPortalSound": {
+      "keys": ""
+    },
+    "disableObserver": {
+      "keys": ""
+    },
+    "disableOffhandRendering": {
+      "keys": ""
+    },
+    "disableParticles": {
+      "keys": ""
+    },
+    "disablePortalGuiClosing": {
+      "keys": ""
+    },
+    "disableRainEffects": {
+      "keys": ""
+    },
+    "disableRenderingScaffolding": {
+      "keys": ""
+    },
+    "disableRenderDistanceFog": {
+      "keys": ""
+    },
+    "disableScoreboardRendering": {
+      "keys": ""
+    },
+    "disableShulkerBoxTooltip": {
+      "keys": ""
+    },
+    "disableShovelPathing": {
+      "keys": ""
+    },
+    "disableSignGui": {
+      "keys": ""
+    },
+    "disableSkyDarkness": {
+      "keys": ""
+    },
+    "disableSlimeBlockSlowdown": {
+      "keys": ""
+    },
+    "disableStatusEffectHud": {
+      "keys": ""
+    },
+    "disableTileEntityRendering": {
+      "keys": ""
+    },
+    "disableTileEntityTicking": {
+      "keys": ""
+    },
+    "disableVillagerTradeLocking": {
+      "keys": ""
+    },
+    "disableWallUnsprint": {
+      "keys": ""
+    },
+    "disableWorldViewBob": {
+      "keys": ""
+    }
+  },
+  "TweakToggles": {
+    "tweakAccurateBlockPlacement": false,
+    "tweakAfterClicker": false,
+    "tweakAimLock": false,
+    "tweakAngelBlock": false,
+    "tweakAreaSelector": false,
+    "tweakAutoSwitchElytra": false,
+    "§6tweakBlockReachOverride§r": false,
+    "tweakBlockTypeBreakRestriction": false,
+    "tweakBreakingGrid": false,
+    "tweakBreakingRestriction": false,
+    "tweakBundleDisplay": false,
+    "tweakChatBackgroundColor": false,
+    "tweakChatPersistentText": false,
+    "tweakChatTimestamp": false,
+    "tweakCommandBlockExtraFields": false,
+    "tweakCustomFlyDeceleration": false,
+    "tweakCustomInventoryScreenScale": false,
+    "tweakElytraCamera": false,
+    "§6tweakEntityReachOverride§r": false,
+    "tweakEntityTypeAttackRestriction": false,
+    "§6tweakEmptyShulkerBoxesStack§r": false,
+    "tweakExplosionReducedParticles": false,
+    "tweakF3Cursor": false,
+    "tweakFakeSneaking": false,
+    "tweakFakeSneakPlacement": false,
+    "tweakFastBlockPlacement": false,
+    "tweakFastLeftClick": false,
+    "tweakFastRightClick": false,
+    "§6tweakFillCloneLimit§r": false,
+    "tweakFlySpeed": false,
+    "tweakFlexibleBlockPlacement": false,
+    "tweakFreeCamera": false,
+    "tweakGammaOverride": false,
+    "tweakHandRestock": false,
+    "tweakHangableEntityBypass": false,
+    "tweakHoldAttack": false,
+    "tweakHoldUse": false,
+    "tweakHotbarScroll": false,
+    "tweakHotbarSlotCycle": false,
+    "tweakHotbarSlotRandomizer": false,
+    "tweakHotbarSwap": false,
+    "§6tweakInventoryPreview§r": false,
+    "tweakItemUnstackingProtection": false,
+    "tweakLavaVisibility": false,
+    "tweakMapPreview": false,
+    "tweakMovementKeysLast": false,
+    "tweakPeriodicAttack": false,
+    "tweakPeriodicUse": false,
+    "tweakPeriodicHoldAttack": false,
+    "tweakPeriodicHoldUse": false,
+    "tweakPermanentSneak": false,
+    "tweakPermanentSprint": false,
+    "tweakPlacementGrid": false,
+    "tweakPlacementLimit": false,
+    "tweakPlacementRestriction": false,
+    "tweakPlacementRestrictionFirst": false,
+    "tweakPlacementRestrictionHand": false,
+    "tweakPlayerInventoryPeek": false,
+    "tweakPotionWarning": false,
+    "tweakPrintDeathCoordinates": false,
+    "tweakPickBeforePlace": false,
+    "tweakPlayerListAlwaysVisible": false,
+    "tweakRenderEdgeChunks": false,
+    "tweakRenderInvisibleEntities": false,
+    "tweakRenderLimitEntities": false,
+    "tweakRepairMode": false,
+    "§6tweakSculkPulseLength§r": false,
+    "tweakSelectiveBlocksRendering": false,
+    "tweakSelectiveBlocksRenderOutline": false,
+    "tweakServerDataSync": false,
+    "tweakServerDataSyncBackup": false,
+    "tweakShulkerBoxDisplay": false,
+    "tweakSignCopy": false,
+    "tweakSnapAim": false,
+    "tweakSnapAimLock": false,
+    "tweakSneak_1.15.2": false,
+    "tweakSpectatorTeleport": false,
+    "§6tweakStructureBlockLimit§r": false,
+    "tweakSwapAlmostBrokenTools": false,
+    "tweakTabCompleteCoordinate": false,
+    "tweakToolSwitch": false,
+    "tweakWeaponSwitch": false,
+    "tweakYMirror": false,
+    "tweakZoom": false
+  },
+  "TweakHotkeys": {
+    "tweakAccurateBlockPlacement": {
+      "keys": ""
+    },
+    "tweakAfterClicker": {
+      "keys": ""
+    },
+    "tweakAimLock": {
+      "keys": ""
+    },
+    "tweakAngelBlock": {
+      "keys": ""
+    },
+    "tweakAreaSelector": {
+      "keys": ""
+    },
+    "tweakAutoSwitchElytra": {
+      "keys": ""
+    },
+    "§6tweakBlockReachOverride§r": {
+      "keys": ""
+    },
+    "tweakBlockTypeBreakRestriction": {
+      "keys": ""
+    },
+    "tweakBreakingGrid": {
+      "keys": ""
+    },
+    "tweakBreakingRestriction": {
+      "keys": ""
+    },
+    "tweakBundleDisplay": {
+      "keys": ""
+    },
+    "tweakChatBackgroundColor": {
+      "keys": ""
+    },
+    "tweakChatPersistentText": {
+      "keys": ""
+    },
+    "tweakChatTimestamp": {
+      "keys": ""
+    },
+    "tweakCommandBlockExtraFields": {
+      "keys": ""
+    },
+    "tweakCustomFlyDeceleration": {
+      "keys": ""
+    },
+    "tweakCustomInventoryScreenScale": {
+      "keys": ""
+    },
+    "tweakElytraCamera": {
+      "keys": ""
+    },
+    "§6tweakEntityReachOverride§r": {
+      "keys": ""
+    },
+    "tweakEntityTypeAttackRestriction": {
+      "keys": ""
+    },
+    "§6tweakEmptyShulkerBoxesStack§r": {
+      "keys": ""
+    },
+    "tweakExplosionReducedParticles": {
+      "keys": ""
+    },
+    "tweakF3Cursor": {
+      "keys": ""
+    },
+    "tweakFakeSneaking": {
+      "keys": ""
+    },
+    "tweakFakeSneakPlacement": {
+      "keys": ""
+    },
+    "tweakFastBlockPlacement": {
+      "keys": ""
+    },
+    "tweakFastLeftClick": {
+      "keys": ""
+    },
+    "tweakFastRightClick": {
+      "keys": ""
+    },
+    "§6tweakFillCloneLimit§r": {
+      "keys": ""
+    },
+    "tweakFlySpeed": {
+      "keys": ""
+    },
+    "tweakFlexibleBlockPlacement": {
+      "keys": ""
+    },
+    "tweakFreeCamera": {
+      "keys": ""
+    },
+    "tweakGammaOverride": {
+      "keys": ""
+    },
+    "tweakHandRestock": {
+      "keys": ""
+    },
+    "tweakHangableEntityBypass": {
+      "keys": ""
+    },
+    "tweakHoldAttack": {
+      "keys": ""
+    },
+    "tweakHoldUse": {
+      "keys": ""
+    },
+    "tweakHotbarScroll": {
+      "keys": ""
+    },
+    "tweakHotbarSlotCycle": {
+      "keys": ""
+    },
+    "tweakHotbarSlotRandomizer": {
+      "keys": ""
+    },
+    "tweakHotbarSwap": {
+      "keys": ""
+    },
+    "§6tweakInventoryPreview§r": {
+      "keys": ""
+    },
+    "tweakItemUnstackingProtection": {
+      "keys": ""
+    },
+    "tweakLavaVisibility": {
+      "keys": ""
+    },
+    "tweakMapPreview": {
+      "keys": ""
+    },
+    "tweakMovementKeysLast": {
+      "keys": ""
+    },
+    "tweakPeriodicAttack": {
+      "keys": ""
+    },
+    "tweakPeriodicUse": {
+      "keys": ""
+    },
+    "tweakPeriodicHoldAttack": {
+      "keys": ""
+    },
+    "tweakPeriodicHoldUse": {
+      "keys": ""
+    },
+    "tweakPermanentSneak": {
+      "keys": ""
+    },
+    "tweakPermanentSprint": {
+      "keys": ""
+    },
+    "tweakPlacementGrid": {
+      "keys": ""
+    },
+    "tweakPlacementLimit": {
+      "keys": ""
+    },
+    "tweakPlacementRestriction": {
+      "keys": ""
+    },
+    "tweakPlacementRestrictionFirst": {
+      "keys": ""
+    },
+    "tweakPlacementRestrictionHand": {
+      "keys": ""
+    },
+    "tweakPlayerInventoryPeek": {
+      "keys": ""
+    },
+    "tweakPotionWarning": {
+      "keys": ""
+    },
+    "tweakPrintDeathCoordinates": {
+      "keys": ""
+    },
+    "tweakPickBeforePlace": {
+      "keys": ""
+    },
+    "tweakPlayerListAlwaysVisible": {
+      "keys": ""
+    },
+    "tweakRenderEdgeChunks": {
+      "keys": ""
+    },
+    "tweakRenderInvisibleEntities": {
+      "keys": ""
+    },
+    "tweakRenderLimitEntities": {
+      "keys": ""
+    },
+    "tweakRepairMode": {
+      "keys": ""
+    },
+    "§6tweakSculkPulseLength§r": {
+      "keys": ""
+    },
+    "tweakSelectiveBlocksRendering": {
+      "keys": ""
+    },
+    "tweakSelectiveBlocksRenderOutline": {
+      "keys": ""
+    },
+    "tweakServerDataSync": {
+      "keys": ""
+    },
+    "tweakServerDataSyncBackup": {
+      "keys": ""
+    },
+    "tweakShulkerBoxDisplay": {
+      "keys": ""
+    },
+    "tweakSignCopy": {
+      "keys": ""
+    },
+    "tweakSnapAim": {
+      "keys": ""
+    },
+    "tweakSnapAimLock": {
+      "keys": ""
+    },
+    "tweakSneak_1.15.2": {
+      "keys": ""
+    },
+    "tweakSpectatorTeleport": {
+      "keys": ""
+    },
+    "§6tweakStructureBlockLimit§r": {
+      "keys": ""
+    },
+    "tweakSwapAlmostBrokenTools": {
+      "keys": ""
+    },
+    "tweakTabCompleteCoordinate": {
+      "keys": ""
+    },
+    "tweakToolSwitch": {
+      "keys": ""
+    },
+    "tweakWeaponSwitch": {
+      "keys": ""
+    },
+    "tweakYMirror": {
+      "keys": ""
+    },
+    "tweakZoom": {
+      "keys": ""
+    }
+  }
+}

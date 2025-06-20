@@ -1,0 +1,16 @@
+filename = 'simple-hud-enhanced+1.21.5-4.7.5.jar'
+name = 'Simple HUD Enhanced'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '352f0dcaacd6b48e46d89ec9ed01f713048e1fc7191dd5b6386a96db20f16a1222cf1f81e108d3925ea8f93fc2a86daeaa85173b5c45df63ee60d2c72c9e43f4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PE656UHx/versions/nQ0h3Ymc/simple-hud-enhanced%2B1.21.5-4.7.5.jar'
+
+[update.modrinth]
+mod-id = 'PE656UHx'
+version = 'nQ0h3Ymc'

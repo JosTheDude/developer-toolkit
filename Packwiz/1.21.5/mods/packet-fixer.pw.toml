@@ -1,0 +1,16 @@
+filename = 'packetfixer-fabric-1.21.5-2.1.2.jar'
+name = 'Packet Fixer'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b66042f85072e037bb43c6cfa59e889204ffc06768ba6c393f3cfdb735b11192b5390ac79b022713739ac836b9662f5e476690b3d6b9dd350cbe2de5449eddbe'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/c7m1mi73/versions/nBmGzZcV/packetfixer-fabric-1.21.5-2.1.2.jar'
+
+[update.modrinth]
+mod-id = 'c7m1mi73'
+version = 'nBmGzZcV'

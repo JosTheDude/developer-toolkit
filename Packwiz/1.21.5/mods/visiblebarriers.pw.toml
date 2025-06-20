@@ -1,0 +1,16 @@
+filename = 'visiblebarriers-1.21.5-2.0.23.jar'
+name = 'Visible Barriers'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '52d3a55e629b30d7a548b23ab333b8cdb22342fdce0df4e1d43edf669a0e134f04f84061dfda1d9af88d260aacc5bbde364b79e06ebb1b0753d49b041c16e7ac'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ajdfGxGU/versions/bIhyPiL5/visiblebarriers-1.21.5-2.0.23.jar'
+
+[update.modrinth]
+mod-id = 'ajdfGxGU'
+version = 'bIhyPiL5'

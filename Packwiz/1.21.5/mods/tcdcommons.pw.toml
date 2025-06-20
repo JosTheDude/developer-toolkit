@@ -1,0 +1,16 @@
+filename = 'tcdcommons-3.12.7+fabric-1.21.5.jar'
+name = 'TCDCommons API'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '340f5c0514c600e3a168b76d0a4aacb12e629476c10998148ec18a7cb2f5996b98337b279d6c96d15da5f8aea648360d4f3120a28812542ff5dfa1c78c9ef42e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Eldc1g37/versions/HraP4Op2/tcdcommons-3.12.7%2Bfabric-1.21.5.jar'
+
+[update.modrinth]
+mod-id = 'Eldc1g37'
+version = 'HraP4Op2'

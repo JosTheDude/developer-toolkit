@@ -1,0 +1,16 @@
+filename = 'dynamic-fps-3.9.4+minecraft-1.21.5-fabric.jar'
+name = 'Dynamic FPS'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5', '25w14craftmine', '25w15a', '25w16a', '25w17a', '25w18a', '25w19a', '25w20a' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'fa59f35bfdd3509c49362cbcdda35a08f706ff053594afd44c37176d75c536120cb66fa2b129782e707a6aa7fe2ecb7d3bd477d0e22d4b6ef4c937f687626b8b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LQ3K71Q1/versions/wrSjf4ld/dynamic-fps-3.9.4%2Bminecraft-1.21.5-fabric.jar'
+
+[update.modrinth]
+mod-id = 'LQ3K71Q1'
+version = 'wrSjf4ld'

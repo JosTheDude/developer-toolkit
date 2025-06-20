@@ -1,0 +1,19 @@
+mode = "fastest"
+
+[light_sources]
+	water_sensitive_check = false
+	beam = true
+	block_entities = false
+	entities = false
+	self = true
+	tnt = "simple"
+	creeper = "simple"
+	guardian_laser = true
+
+[debug]
+	active_dynamic_lighting_cells = false
+	display_dynamic_lighting_chunk_rebuild = false
+	display_behavior_bounding_box = false
+
+	[entity.minecraft]
+		player = true

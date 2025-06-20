@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"entitySuggestions": {
+		"suggestEntitySelector": true,
+		"entitySuggestionRadius": 10,
+		"showEntityId": true,
+		"showEntityUuid": true,
+		"showEntityPos": true,
+		"showEntityTags": true,
+		"showEntityVehicle": true,
+		"showEntityPassengers": true,
+		"showEntityTeam": true,
+		"showEntityHealth": true,
+		"showEntityScores": true
+	},
+	"functionSuggestions": {
+		"hideUnderscoreFunctions": false
+	},
+	"server": {
+		"requireOpToRequestData": true
+	},
+	"maxSuggestionsShown": 12,
+	"highlightCoordinates": true,
+	"rememberCommandOnEscape": true,
+	"prioritizedSuggestions": []
+}

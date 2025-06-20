@@ -1,0 +1,16 @@
+filename = 'useful-saved-hotbars-0.2.0+mc1.21.5.jar'
+name = 'Useful Saved Hotbars'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2e1686124a2b7365103bd53c8b0827d39e2a123155250ff6df1402fbbb5113d6da334292a0c361f794aa64eab5755242ae8168db29c98eee2d591dce0b62e685'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aI9dPE6g/versions/j90jOp4V/useful-saved-hotbars-0.2.0%2Bmc1.21.5.jar'
+
+[update.modrinth]
+mod-id = 'aI9dPE6g'
+version = 'j90jOp4V'

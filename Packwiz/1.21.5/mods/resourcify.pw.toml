@@ -1,0 +1,16 @@
+filename = 'Resourcify (1.21.5-fabric)-1.7.2.jar'
+name = 'Resourcify'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b89fdfa24da0e2866b071adaeafcb1dbc6470c32c2ec9b6c638018663491d219fa0ae7634e849889d84a6e575b9e7c1fc25443fbf2e64df706d450ad09fffd36'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/RLzHAoZe/versions/Ih9gi9cM/Resourcify %281.21.5-fabric%29-1.7.2.jar'
+
+[update.modrinth]
+mod-id = 'RLzHAoZe'
+version = 'Ih9gi9cM'

@@ -1,0 +1,13 @@
+name = "TP Utils"
+filename = "TP-Utils-1.9.17-mc1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vCk0Q3ZG/versions/GVr0LDWv/TP-Utils-1.9.17-mc1.21.jar"
+hash-format = "sha512"
+hash = "6a3d998fd5bc0a4a0ef0ede2b195a0f20ce34d330ebd882db639c74a65c40c62d838a2c3478abd5454fc225c192e34dd55e28c06e607c89ed8d2ecf334df525c"
+
+[update]
+[update.modrinth]
+mod-id = "vCk0Q3ZG"
+version = "GVr0LDWv"

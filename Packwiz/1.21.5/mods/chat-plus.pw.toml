@@ -1,0 +1,16 @@
+filename = 'chatplus-fabric-2.6.0.jar'
+name = 'Chat Plus'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'ccf623cc48bc757989df1d04fdaa90620d9593aee2f4cceb5207d8ce141976e8db3b167aaf6e32330c947c101e82d3ff62bb6dbcc4913e0181b0686dff93193b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/cJlZ132G/versions/MOKxXZJP/chatplus-fabric-2.6.0.jar'
+
+[update.modrinth]
+mod-id = 'cJlZ132G'
+version = 'MOKxXZJP'

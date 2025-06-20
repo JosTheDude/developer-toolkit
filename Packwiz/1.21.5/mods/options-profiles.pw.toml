@@ -1,0 +1,16 @@
+filename = 'optionsprofiles-1.21.4-fabric-v1.4.1.jar'
+name = 'Options Profiles'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4', '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ca78540c6e3359a0314449eac514e19455ef9f4491519fa500be1a8ba9059e479f77fd91b2cc65c7d3170b67a3a913e8de9379d995bd1bfadadb9477b55c5256'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DnyS3EEW/versions/wVU81YHe/optionsprofiles-1.21.4-fabric-v1.4.1.jar'
+
+[update.modrinth]
+mod-id = 'DnyS3EEW'
+version = 'wVU81YHe'
