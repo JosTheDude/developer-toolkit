@@ -41,6 +41,10 @@ file = "config/yosbr/config/appleskin.json5"
 hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
 
 [[files]]
+file = "config/yosbr/config/authme.jsonc"
+hash = "96322a7244be9dddbf22b277b50c2565fb017f43574cc6747bcb6e66dd4f597c"
+
+[[files]]
 file = "config/yosbr/config/autoreconnectrf.json"
 hash = "30916b9bf147f4c70078276a71cb4136b1ec2a913beffb982f44c965102b32c2"
 
@@ -1651,11 +1655,6 @@ hash = "1eff32c41d2f139d58e7bbd497afbdc078901e50d8c6cf12515566074836f1f3"
 metafile = true
 
 [[files]]
-file = "mods/rrls.pw.toml"
-hash = "93525c67c1cebce9e8d1ae035442007477f5e6db06731cd7927631d6ea9d7703"
-metafile = true
-
-[[files]]
 file = "mods/scribble.pw.toml"
 hash = "ab8fcf5c2b50fac928a3e3ab0d8f6dea9f6c241bb7791d26150c84e239ff5cce"
 metafile = true
@@ -1666,18 +1665,8 @@ hash = "cc551fce1f1e74d2bab564130f304a484a5c1e73866b756e8a87a112577c1d0d"
 metafile = true
 
 [[files]]
-file = "mods/server-pack-unlocker.pw.toml"
-hash = "3e5a6050a891f0459eb640b47c750de89647a3b82c5152d6a902217fb62da03d"
-metafile = true
-
-[[files]]
 file = "mods/server-resource-pack-checker.pw.toml"
 hash = "9f003ee9915aab0271baf6ddd4b2e3548c891825eb25cb0c7087af502b0a18d1"
-metafile = true
-
-[[files]]
-file = "mods/server-unpacker.pw.toml"
-hash = "eadd1cd47754a8ccdaf4b838a32e5bd20dfaa98648d71c87e72d91bc9755f01e"
 metafile = true
 
 [[files]]

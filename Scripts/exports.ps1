@@ -38,7 +38,7 @@ Get-ChildItem -Directory | Where-Object { $_.Name -ne "exports" } | ForEach-Obje
 
         Write-Host "Exported $dirName successfully.`n"
     } catch {
-	Write-Warning "Failed to process ${dirName}: $_"
+        Write-Warning "Failed to process ${dirName}: $_"
         if ($null -ne (Get-Location -ErrorAction SilentlyContinue)) {
             Pop-Location
         }
@@ -46,4 +46,3 @@ Get-ChildItem -Directory | Where-Object { $_.Name -ne "exports" } | ForEach-Obje
 }
 
 Write-Host "All exports completed successfully."
-
