@@ -21,7 +21,7 @@ This modpack is based off of [Fabulously Optimized](https://download.fo), an ext
 - Item, Entity, etc. NBT & Component Viewers (Component Viewers, NBT Viewers, etc.)
 - NBT Autocomplete for Relevant Commands
 - Improved Middle Clicking (copy entity data, block data, everything you need via middle clicking!)
-- Improved Inventory Searching (Persistent Inventory Searching, Enable Operator Tab, Better Saved Hotbars to store items, and more!)\
+- Improved Inventory Searching (Persistent Inventory Searching, Enable Operator Tab, Better Saved Hotbars to store items, and more!)
 - Improved Command Selections (UUID entity filtering, easy near checks)
 - Teleport Utilities (through commands, top commands, centering, all client-side)
 - **Extremely** customizable chat, with tabs, filters, highlights, mentions, and more
@@ -48,7 +48,7 @@ This modpack is based off of [Fabulously Optimized](https://download.fo), an ext
 Developer's Toolkit is built with performance in mind, however, it does contain a lot of mods and changes. The modpack is based off of Fabulously Optimized, one of the most popular modpacks for performance tuning. However, due to the sheer library of additional components and features presented in the pack it is recommended to follow the following performance recommendations.
 - Recommended Allocation
 > * 8GB of RAM (Client)
-> * [Aikar's Flags Java Arguments (Client)](https://github.com/JosTheDude/developer-toolkit/edit/main/README.md#aikars-flags-arguments)
+> * [Aikar's Flags Java Arguments (Client)](https://github.com/JosTheDude/developer-toolkit?tab=readme-ov-file#aikars-flags-arguments)
 - Minimum Allocation
 > * 4GB OF RAM (Client)
 
