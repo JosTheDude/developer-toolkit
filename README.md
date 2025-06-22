@@ -21,7 +21,9 @@ This modpack is based off of [Fabulously Optimized](https://download.fo), an ext
 - Item, Entity, etc. NBT & Component Viewers (Component Viewers, NBT Viewers, etc.)
 - NBT Autocomplete for Relevant Commands
 - Improved Middle Clicking (copy entity data, block data, everything you need via middle clicking!)
-- Improved Inventory Searching (Persistent Inventory Searching, Enable Operator Tab, Better Saved Hotbars to store items, and more!)
+- Improved Inventory Searching (Persistent Inventory Searching, Enable Operator Tab, Better Saved Hotbars to store items, and more!)\
+- Improved Command Selections (UUID entity filtering, easy near checks)
+- Teleport Utilities (through commands, top commands, centering, all client-side)
 - **Extremely** customizable chat, with tabs, filters, highlights, mentions, and more
 - Shulker, Chest, and Block Peek within Inventories
 - Resource & Shader Pack Store In-Game (via Resourcify)
@@ -41,6 +43,19 @@ This modpack is based off of [Fabulously Optimized](https://download.fo), an ext
 - Searchable Controls Menu
 - Improved Sounds (Fully Redone in-game sounds)
 - And so much more... view the mod menu in-game for a full list
+
+## Performance Recommendations
+Developer's Toolkit is built with performance in mind, however, it does contain a lot of mods and changes. The modpack is based off of Fabulously Optimized, one of the most popular modpacks for performance tuning. However, due to the sheer library of additional components and features presented in the pack it is recommended to follow the following performance recommendations.
+- Recommended Allocation
+> * 8GB of RAM (Client)
+> * [Aikar's Flags Java Arguments (Client)](https://github.com/JosTheDude/developer-toolkit/edit/main/README.md#aikars-flags-arguments)
+- Minimum Allocation
+> * 4GB OF RAM (Client)
+
+### Aikar's Flags Arguments
+```java
+-XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true
+```
 
 ## Contribution & Mod Suggestions
 Thank you for considering suggesting mods or contributing! Take a look at the [Contribution Guidelines](https://github.com/JosTheDude/developer-toolkit/blob/main/CONTRIBUTING.md) for additional information.
