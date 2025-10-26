@@ -32,13 +32,9 @@ This modpack is based off of [Fabulously Optimized](https://download.fo), an ext
 - Command Block IDE (for easy command block editing)
 - Dynamic App Icon (easily view which open client is connected to what!)
 - Toggleable Fullbright
-- See Through Lava
 - Extremely Increased Chat History
-- Server Unblocker (bypass Mojang-blocked servers)
 - Basic Info Display
 - Better Nametags (Customize and make nametags however you want them!)
-- Better Statistics (Advanced Statistics Menu)
-- Enhanced Mount HUD
 - Rebind _everything_, from narrator to the F3 menu
 - Searchable Controls Menu
 - Improved Sounds (Fully Redone in-game sounds)
@@ -65,7 +61,7 @@ Thank you for considering suggesting mods or contributing! Take a look at the [C
 > * [**Tweakaroo**](https://modrinth.com/mod/tweakeroo), extremely punishable & considered a cheat with certain settings
 > * [**ViaFabricPlus**](https://modrinth.com/mod/viafabricplus), can cause packet issues on some networks
 > * **Freecam**, considered a cheat, client-side only
-> * **Freelook**, considered a cheat on certain networks
+> * **Freelook**, considered a cheat, client-side only
 - Only the **latest version** of this modpack is supported. If a modpack version for 1.12.2 is out, previous versions for 1.8, 1.10, and 1.11 are all unsupported.
 - Community Involvement within this Pack's Communities is bound by the project's [Code of Conduct](https://github.com/JosTheDude/developer-toolkit/blob/main/CODE_OF_CONDUCT.md)
 - All [Fabulously Optimized Disclaimers](https://wiki.download.fo/disclaimers) apply to this modpack
