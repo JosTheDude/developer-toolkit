@@ -1202,7 +1202,7 @@ hash = "6d32e4c241e2c7ff7ab29dc8cbc190ffc0ac6ac9e590ce567d3b65e6c35e11b9"
 
 [[files]]
 file = "icon.png"
-hash = "5b410abd04429a10365cc2ac7fdc5d41d5dc3a7df2f43f051926bd89e06c05bd"
+hash = "56816ccab666d456818506d02e1c0f4acdb748c1a49030aecd9800543e4a2eab"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -1347,11 +1347,6 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "1b399900d61a079ddd2d1ee707f8202eafa4450fdc127a9690062e4f63e37718"
-metafile = true
-
-[[files]]
-file = "mods/draggable-lists.pw.toml"
-hash = "63c80eeba72a17f5bba0e68f02eb2602a42cd83854eaa6d956070baf039a9c86"
 metafile = true
 
 [[files]]
