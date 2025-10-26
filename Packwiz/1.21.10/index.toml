@@ -688,6 +688,11 @@ hash = "5bcf69595fb47bfb99e66410b2ec1e6c2c9fa8eacb54218bb86b4da9c776b5d2"
 metafile = true
 
 [[files]]
+file = "mods/yosbr.pw.toml"
+hash = "649c259a4777ba1b544b69d04a79f2b1b0e1a3c520033cc86a3c14d5fa53564a"
+metafile = true
+
+[[files]]
 file = "mods/zoomify.pw.toml"
 hash = "4ba5977844e2bab2d535dea6a2ff498db6631bc17dd1dd1a76471d8371aad7a8"
 metafile = true
