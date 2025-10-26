@@ -46,9 +46,9 @@ This modpack is based off of [Simply Optimized](https://modrinth.com/modpack/sop
 All with 61 mods in a highly performanced-optimized modpack. Built to work __out of the box!__
 
 ## Performance Recommendations
-Developer's Toolkit is built with performance in mind, however, it does contain a lot of mods and changes. The modpack is based off of Fabulously Optimized, one of the most popular modpacks for performance tuning. However, due to the sheer library of additional components and features presented in the pack it is recommended to follow the following performance recommendations.
+Developer's Toolkit is built with performance in mind, however, it does contain a lot of mods and changes. The modpack is based off of Simply Optimized for maximum performance, however, there is additional performance overhead depending on computer specs. We recommend the following allocations to your client:
 - Recommended Allocation
-> * 8GB of RAM (Client)
+> * 5GB of RAM (Client)
 > * [Aikar's Flags Java Arguments (Client)](https://github.com/JosTheDude/developer-toolkit?tab=readme-ov-file#aikars-flags-arguments)
 - Minimum Allocation
 > * 4GB OF RAM (Client)
