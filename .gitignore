@@ -1,5 +1,7 @@
 # Exclude Exports
 Packwiz/exports
 
+*.DS_Store
+
 # Exclude exported Modrinth modpacks
 *.mrpack
