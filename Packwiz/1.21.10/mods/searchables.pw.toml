@@ -1,0 +1,16 @@
+filename = 'Searchables-fabric-1.21.10-1.0.2.jar'
+name = 'Searchables'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5ad4af36b93b4e2c65b4a4fffc934d6d2b288948d496b204d14f566e63684f3b416b45f9883f0e93087298992b1b07421847925ac4aef121e92c3674e1b02353'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fuuu3xnx/versions/tV7Ai2Tq/Searchables-fabric-1.21.10-1.0.2.jar'
+
+[update.modrinth]
+mod-id = 'fuuu3xnx'
+version = 'tV7Ai2Tq'

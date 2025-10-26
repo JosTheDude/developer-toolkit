@@ -1,0 +1,16 @@
+filename = 'cookiejar-0.2.1+1.21.9.jar'
+name = 'CookieJar'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2b0f5bd8573f3a24099e0c2ad69f58352da4fc7247c5b9524feda8901050c61892042457329781fd5bf77933efa7e24f58084a8da87faa8d38dd10eb283671c0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BR5k61jo/versions/doZItnZh/cookiejar-0.2.1%2B1.21.9.jar'
+
+[update.modrinth]
+mod-id = 'BR5k61jo'
+version = 'doZItnZh'

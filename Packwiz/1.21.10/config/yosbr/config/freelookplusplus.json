@@ -1,0 +1,7 @@
+{
+  "sensitivity": 1.0,
+  "invertY": false,
+  "smoothTransition": true,
+  "autoThirdPerson": true,
+  "perspectiveToggleBehavior": "DO_NOTHING"
+}

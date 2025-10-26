@@ -1,0 +1,16 @@
+filename = 'freelookplusplus-1.0.1+1.21.10.jar'
+name = 'Freelook++'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2ea865e1eab75999bbe6da36cdb0466fd41e034bc7360b0aad9e5766b56469a31117f28e5a3615af14cc9bade1b45797fae7e006558256b05e8baa32654fcccc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Th66fn2y/versions/RwJMzaUe/freelookplusplus-1.0.1%2B1.21.10.jar'
+
+[update.modrinth]
+mod-id = 'Th66fn2y'
+version = 'RwJMzaUe'

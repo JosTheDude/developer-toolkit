@@ -1,0 +1,16 @@
+filename = 'ChatShot (1.21.10-fabric)-1.0.7.jar'
+name = 'ChatShot'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '38639e36693062fb8eae3ab8d1550e4df3036374f76a62b0636c520986f1f137d5dea906b92206ad5ba5a25a357ce106f2b4b1ac9e3ea0cabbdc2f37b16d9845'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/X2Zy7Oi6/versions/IBuxrF0R/ChatShot %281.21.10-fabric%29-1.0.7.jar'
+
+[update.modrinth]
+mod-id = 'X2Zy7Oi6'
+version = 'IBuxrF0R'

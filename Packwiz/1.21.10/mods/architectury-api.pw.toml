@@ -1,0 +1,16 @@
+filename = 'architectury-18.0.6-fabric.jar'
+name = 'Architectury API'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '79a170c0df504197bc7b0e5735fe858f1b6ab6cd2b0f29b8328e7e870edbd08c00f8c202168df47cdb28e4bc05fcd45ee003f1434e217f46110fd6304e7d0921'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lhGA9TYQ/versions/8Ing3Dbx/architectury-18.0.6-fabric.jar'
+
+[update.modrinth]
+mod-id = 'lhGA9TYQ'
+version = '8Ing3Dbx'

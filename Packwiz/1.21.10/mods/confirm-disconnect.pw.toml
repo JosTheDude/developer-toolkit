@@ -1,0 +1,16 @@
+filename = 'confirmdisconnect-1.1.6+1.21.10-fabric.jar'
+name = 'Confirm Disconnect'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7bb91f6642b35b6b965610d3f44cd8bfd1b83d3f2d9b9284f86d8f139883bab9301ac64e7cc61b0ed013939d3b59fb37aa82d667272976df14c5c989a031345b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qyu2y7wG/versions/G4eNkM0o/confirmdisconnect-1.1.6%2B1.21.10-fabric.jar'
+
+[update.modrinth]
+mod-id = 'qyu2y7wG'
+version = 'G4eNkM0o'

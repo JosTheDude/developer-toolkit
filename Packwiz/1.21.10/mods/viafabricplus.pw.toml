@@ -1,0 +1,16 @@
+filename = 'ViaFabricPlus-4.3.1.jar'
+name = 'ViaFabricPlus'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '022e5a4f512cbb2fab118f593edf4b32fb5db54e4c71d1ecbe3fa928d5e03baf47fd4d6a3ed7837bbed54e2d7c5711d1b3f68116504171b1b82a0665337674fe'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rIC2XJV4/versions/JnuEfPqO/ViaFabricPlus-4.3.1.jar'
+
+[update.modrinth]
+mod-id = 'rIC2XJV4'
+version = 'JnuEfPqO'

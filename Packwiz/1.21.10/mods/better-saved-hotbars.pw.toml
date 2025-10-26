@@ -1,0 +1,16 @@
+filename = 'BetterSavedHotbars-1.3.9.jar'
+name = 'Better Saved Hotbars'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '614d2a9c0c0890b0700e5ffb09f53c04e720d2adf920f1c6fb82e8dfd245e1b50a10d21274391cedc9791d71f1188ee1ae9b941ab851ad87a0f7814039734e31'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Y5DGNK4o/versions/RMlq9ATt/BetterSavedHotbars-1.3.9.jar'
+
+[update.modrinth]
+mod-id = 'Y5DGNK4o'
+version = 'RMlq9ATt'

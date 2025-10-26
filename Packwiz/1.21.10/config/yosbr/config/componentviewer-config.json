@@ -1,0 +1,30 @@
+{
+  "clipboard": {
+    "copy": "component_value",
+    "formatting": "sync",
+    "include_count": false,
+    "indentation": -1,
+    "prepend_slash": true,
+    "selector": "self",
+    "success_notification": true
+  },
+  "controls": {
+    "allow_cycling_options_while_in_screen": true,
+    "allow_scrolling": true,
+    "alternative_copy_modifier_key": false
+  },
+  "disable_mod": "never",
+  "tooltip": {
+    "advanced_tooltips": false,
+    "colored_formatting": true,
+    "component_values": true,
+    "components": "all",
+    "display": "hold",
+    "formatting": "snbt",
+    "indentation": 4,
+    "inject_method": "replace",
+    "keep_selection": "type",
+    "purpose": "components",
+    "show_amount": true
+  }
+}

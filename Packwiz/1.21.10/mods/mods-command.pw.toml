@@ -1,0 +1,16 @@
+filename = 'mods-command-mc1.21.10-1.1.13.jar'
+name = 'Mods Command'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '17002efecc9dc7571c3c0f5b361e255ebbb30f39663500605b31ea90b84ba30dc8a061b4adfbd2258dfdaa2add88a3086d34c09f09d69f35b6530e3f3f61bace'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PExmWQV8/versions/O9SbPsB2/mods-command-mc1.21.10-1.1.13.jar'
+
+[update.modrinth]
+mod-id = 'PExmWQV8'
+version = 'O9SbPsB2'

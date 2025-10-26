@@ -1,0 +1,16 @@
+filename = 'tooltip-scroll-1.4.1+1.21.10.jar'
+name = 'Tooltip Scroll'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '24497b57a310f928f281457f26af5885f591229e0c01ecf9f7ca833c1b51cd88e190c6f4108eb0e22bfcad4cf32e2bb49cfcd25da835d7746674ad772ead79b0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/wySVd6d8/versions/QR031v2k/tooltip-scroll-1.4.1%2B1.21.10.jar'
+
+[update.modrinth]
+mod-id = 'wySVd6d8'
+version = 'QR031v2k'

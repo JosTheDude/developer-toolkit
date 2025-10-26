@@ -5,37 +5,46 @@
 # Usage: Run this script inside the Packwiz folder to export all versions in the folder
 
 EXPORTS_DIR="$(pwd)/exports"
-VERSION="1.2.1"
+VERSION="1.3.0"
 
 # In case directory does not exist
-mkdir -p "$EXPORTS_DIR" || { echo "Failed to create $EXPORTS_DIR"; exit 1; }
+mkdir -p "$EXPORTS_DIR" || {
+  echo "Failed to create $EXPORTS_DIR"
+  exit 1
+}
 
 # Directory Iteration
-for dir in */ ; do
-    if [ -d "$dir" ] && [ "${dir%/}" != "exports" ]; then
-        # Remove the trailing slash from the directory name for clean export names
-        dir_name="${dir%/}"
-	version="${VERSION}"
-        
-        echo "Processing directory: $dir_name"
+for dir in */; do
+  if [ -d "$dir" ] && [ "${dir%/}" != "exports" ]; then
+    # Remove the trailing slash from the directory name for clean export names
+    dir_name="${dir%/}"
+    version="${VERSION}"
 
-	mkdir -p "$EXPORTS_DIR/$dir_name" || { echo "Failed to create $EXPORTS_DIR/$dir_name"; exit 1; }
+    echo "Processing directory: $dir_name"
 
-        cd "$dir_name" || { echo "Failed to enter directory $dir_name"; continue; }
+    mkdir -p "$EXPORTS_DIR/$dir_name" || {
+      echo "Failed to create $EXPORTS_DIR/$dir_name"
+      exit 1
+    }
 
-        # CurseForge Export
-	# Disabled as No Curseforge Version Present
-        #packwiz curseforge export -o "$EXPORTS_DIR/${dir_name}/Dev-Toolkit-${dir_name}-${version}.zip"
-        
-        # Modrinth Export
-        packwiz modrinth export -o "$EXPORTS_DIR/${dir_name}/Dev-Toolkit-${dir_name}-${version}.mrpack"
+    cd "$dir_name" || {
+      echo "Failed to enter directory $dir_name"
+      continue
+    }
 
-        cd ..
+    # CurseForge Export
+    # Disabled as No Curseforge Version Present
+    #packwiz curseforge export -o "$EXPORTS_DIR/${dir_name}/Dev-Toolkit-${dir_name}-${version}.zip"
 
-        echo "Exported $dir_name successfully."
-    else
-        echo "Skipping $dir as it is not a directory or is the exports directory."
-    fi
+    # Modrinth Export
+    packwiz modrinth export -o "$EXPORTS_DIR/${dir_name}/Dev-Toolkit-${dir_name}-${version}.mrpack"
+
+    cd ..
+
+    echo "Exported $dir_name successfully."
+  else
+    echo "Skipping $dir as it is not a directory or is the exports directory."
+  fi
 done
 
 echo "All exports completed successfully."

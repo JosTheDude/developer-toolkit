@@ -1,0 +1,15 @@
+{
+  "singleplayerTpMethod": "/tp",
+  "serverTpMethod": "/minecraft:tp @s",
+  "tpThroughRange": 256,
+  "tpOnTopRange": 256,
+  "tpForwardRange": 100,
+  "allowCrawling": false,
+  "allowLava": false,
+  "setBedrockLimit": true,
+  "previousLocation": {
+    "field_1352": 69416.87968833272,
+    "field_1351": 100.12118154349893,
+    "field_1350": 69459.69999998808
+  }
+}

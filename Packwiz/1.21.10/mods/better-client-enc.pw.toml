@@ -1,0 +1,16 @@
+filename = 'better_client-fabric-7.2.3.jar'
+name = 'Better Client'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2a788ab5a7dcd957c4447d5d8f4d8bec588512b59093cd73949c02686ef613bf876675ec5311bbc651f5e51029f3aad9fcba322f91db717f6d7091cea4a6e86b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uWsLN21d/versions/fDD5LFni/better_client-fabric-7.2.3.jar'
+
+[update.modrinth]
+mod-id = 'uWsLN21d'
+version = 'fDD5LFni'
