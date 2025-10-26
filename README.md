@@ -12,7 +12,7 @@ This modpack is primarily built for **plugin** and **server** developers in mind
 
 Built to work **out of the box** with most settings pre-configured. Feel free to modify as needed. See the mod list for full list of functionality, alongside feature list below.
 
-This modpack is based off of [Fabulously Optimized](https://download.fo), an extremely popular modpack for base gameplay optimization.
+This modpack is based off of [Simply Optimized](https://modrinth.com/modpack/sop) to maximize performance.
 
 ## List of Features
 - Connect to Servers Regardless of Version (1.7 to latest, bedrock, and more!) via ViaFabricPlus. No more switching versions!
@@ -69,4 +69,3 @@ Thank you for considering suggesting mods or contributing! Take a look at the [C
 > * **Freelook**, considered a cheat, client-side only
 - Only the **latest version** of this modpack is supported. If a modpack version for 1.12.2 is out, previous versions for 1.8, 1.10, and 1.11 are all unsupported.
 - Community Involvement within this Pack's Communities is bound by the project's [Code of Conduct](https://github.com/JosTheDude/developer-toolkit/blob/main/CODE_OF_CONDUCT.md)
-- All [Fabulously Optimized Disclaimers](https://wiki.download.fo/disclaimers) apply to this modpack
