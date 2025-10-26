@@ -16,29 +16,34 @@ This modpack is based off of [Fabulously Optimized](https://download.fo), an ext
 
 ## List of Features
 - Connect to Servers Regardless of Version (1.7 to latest, bedrock, and more!) via ViaFabricPlus. No more switching versions!
-- Better Command Suggestions (Commands Suggestions are more loose, easier to access commands)
 - Easy to access to Minecraft-compatible fonts and symbols (Small Caps, Unicode symbols, etc.)
 - Item, Entity, etc. NBT & Component Viewers (Component Viewers, NBT Viewers, etc.)
 - NBT Autocomplete for Relevant Commands
-- Improved Middle Clicking (copy entity data, block data, everything you need via middle clicking!)
 - Improved Inventory Searching (Persistent Inventory Searching, Enable Operator Tab, Better Saved Hotbars to store items, and more!)
 - Improved Command Selections (UUID entity filtering, easy near checks)
 - Teleport Utilities (through commands, top commands, centering, all client-side)
 - **Extremely** customizable chat, with tabs, filters, highlights, mentions, and more
+- Copy chat messages raw and as screenshots easily
 - Shulker, Chest, and Block Peek within Inventories
 - Resource & Shader Pack Store In-Game (via Resourcify)
 - Freelook & Freecam (OP / Creative Only)
 - Scrollable Tooltips
 - Command Block IDE (for easy command block editing)
 - Dynamic App Icon (easily view which open client is connected to what!)
+- See through water and lava
 - Toggleable Fullbright
 - Extremely Increased Chat History
+- Disconnect Confirmations
+- Pre-installed Voice Chat
 - Basic Info Display
 - Better Nametags (Customize and make nametags however you want them!)
+- One-click server joining from the main menu
 - Rebind _everything_, from narrator to the F3 menu
 - Searchable Controls Menu
 - Improved Sounds (Fully Redone in-game sounds)
 - And so much more... view the mod menu in-game for a full list
+
+All with 61 mods in a highly performanced-optimized modpack. Built to work __out of the box!__
 
 ## Performance Recommendations
 Developer's Toolkit is built with performance in mind, however, it does contain a lot of mods and changes. The modpack is based off of Fabulously Optimized, one of the most popular modpacks for performance tuning. However, due to the sheer library of additional components and features presented in the pack it is recommended to follow the following performance recommendations.
