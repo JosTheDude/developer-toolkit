@@ -64,5 +64,5 @@
     "replace_creative_inventory_with_classic_inventory": "auto",
     "old_walking_animation": "auto"
   },
-  "selected-protocol-version": "1.21.9-1.21.10"
+  "selected-protocol-version": "Auto Detect (1.7+ servers)"
 }
