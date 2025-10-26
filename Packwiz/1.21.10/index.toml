@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/customclientbrand 11.09.18 AM.json"
-hash = "7d5af1d67202334c763113a705ddd7cb0a8f7b36cf87832d607e42d4321d6960"
+file = "config/customclientbrand.json"
+hash = "27701347271d9416c23ac6cc00c8b2fe431658053f77b0bbf18edbac4eb5f6c2"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -286,7 +286,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/yosbr/config/viafabricplus/settings.json"
-hash = "4edef83968ea45a0939af9fadfeddb3e4776ab7ace0467786ed60f6d44f12f7c"
+hash = "6108aa15f6c4e63a0b0877ae4605b123a71af37976c01b8deb33d2cf06e1d019"
 
 [[files]]
 file = "config/yosbr/config/viafabricplus/viaaprilfools.yml"
