@@ -678,6 +678,11 @@ hash = "7810606fd133f260b0bfad1fc213e4ce59eedfec017d846d414b78b0cb7fc5f8"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "dba564c761870715c46e527e182ece9d0c50ae96c8c4e3af3f2b567e2816565d"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "5bcf69595fb47bfb99e66410b2ec1e6c2c9fa8eacb54218bb86b4da9c776b5d2"
 metafile = true
