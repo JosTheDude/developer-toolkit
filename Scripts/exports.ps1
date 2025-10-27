@@ -2,7 +2,7 @@
 # Description: Exports each directory using packwiz and saves the exports to ./exports/
 
 $exportsDir = Join-Path (Get-Location) "exports"
-$version = "1.3.0"
+$version = "1.3.1"
 
 # Create the exports directory if it doesn't exist
 if (-not (Test-Path -Path $exportsDir)) {
