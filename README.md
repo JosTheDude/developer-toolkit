@@ -48,10 +48,8 @@ All with 61 mods in a highly performanced-optimized modpack. Built to work __out
 ## Performance Recommendations
 Developer's Toolkit is built with performance in mind, however, it does contain a lot of mods and changes. The modpack is based off of Simply Optimized for maximum performance, however, there is additional performance overhead depending on computer specs. We recommend the following allocations to your client:
 - Recommended Allocation
-> * 5GB of RAM (Client)
+> * 2GB of RAM (Client)
 > * [Aikar's Flags Java Arguments (Client)](https://github.com/JosTheDude/developer-toolkit?tab=readme-ov-file#aikars-flags-arguments)
-- Minimum Allocation
-> * 4GB OF RAM (Client)
 
 ### Aikar's Flags Arguments
 ```java
