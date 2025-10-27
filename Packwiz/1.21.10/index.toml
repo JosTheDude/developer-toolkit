@@ -573,11 +573,6 @@ hash = "e12f7346fb0f1771affeb99af651118c32aa0392b54e4933774f5211f2348b18"
 metafile = true
 
 [[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "3dd8208f62fbf0f0edf28ec4fe35d391b5a0fb91ebe58fb5ff948988b4cab2c5"
-metafile = true
-
-[[files]]
 file = "mods/nocc.pw.toml"
 hash = "cc1b7a5d3cb9775a93e2621704acf4a1b8c3b2cb454d7f70f4beaf866c0ad057"
 metafile = true
