@@ -1,0 +1,13 @@
+{
+  "serverSettings": [
+    {
+      "ip": "play.soulrealms.net",
+      "overrideTextures": true,
+      "packOrder": {
+        "ea68e7cc-d550-3fe4-a059-bb9b45ffa2dd": 114
+      },
+      "overrideRules": [],
+      "additionRules": []
+    }
+  ]
+}

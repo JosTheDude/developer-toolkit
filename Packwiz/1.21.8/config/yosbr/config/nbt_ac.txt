@@ -1,0 +1,150 @@
+# Suggests 1b/0b instead of true/false for boolean value. Note that it doesn't apply to raw JSON format, as it requires true/false form.
+# Default value: false
+short_boolean = false
+
+# Puts tag names in quotation marks.
+# true - Always
+# false - When necessary
+# Default value: false
+tag_quotation_marks = false
+
+# Puts values of string type in quotation marks.
+# true - Always
+# false - When necessary
+# Default value: false
+string_quotation_marks = false
+
+# Defines what kind of quotation mark will be used by default.
+# 1 - Single (')
+# 2 - Double (")
+# Other values will be treated as 2.
+# If you're using version 1.19.4 or older, note that setting it to single (especially with "Put Tags In Quotation Marks" set to "Always") may cause some issues with NBT paths due to MC-175504 bug. It also doesn't apply to JSON text components.
+# Default value: 2
+default_quotation_mark_type = 2
+
+# Defines simple string opening suggestion for JSON text components.
+# 0 - None
+# 1 - Recommended - same as 2 on 1.20.4 and newer, same as 3 on older.
+# 2 - Default For Strings - uses quote type from "Default Quotation Mark Type" setting.
+# 3 - Legacy, Separated (' ")
+# 4 - Legacy, Merged ('") - similar to 3, but without space.
+# 5 - Legacy, Backslash ("\")
+# Other values will be treated as 1.
+# Default value: 1
+json_string_suggestion = 1
+
+# Hides "minecraft:" namespace from tag suggestions.
+# Default value: true
+hide_mc_namespace_in_tags = true
+
+# Hides "minecraft:" namespace from string suggestions.
+# Default value: false
+hide_mc_namespace_in_strings = false
+
+# Ignores letter case when providing tag name suggestions.
+# Default value: true
+ignore_letter_case = true
+
+# Shows tag hints (like its type or source) next to its name in a suggestion list.
+# Default value: true
+show_tag_hints = true
+
+# Hides Forge specific tags. Requires removing "./minecraft/cache/nbt_ac" and game restart to take effect.
+# Default value: true
+hide_forge_tags = true
+
+# Allows the mod to use non-alphabetical suggestion sorting.
+# Default value: true
+custom_sorting = true
+
+# Marks recommended suggestions with "<*>" in a hint.
+# Default value: true
+mark_recommended = true
+
+# Places recommended suggestions at the top of the list. Requires custom sorting.
+# Default value: true
+recommended_at_the_top = true
+
+# Marks irrelevant suggestions with "<I>" in a hint.
+# Default value: true
+mark_irrelevant = true
+
+# Grays out irrelevant suggestions.
+# Default value: true
+gray_out_irrelevant = true
+
+# Specifies the placing of irrelevant suggestions.
+# 0 - Normal
+# 1 - At The Bottom
+# 2 - Hidden
+# Other values will be treated as 1.
+# Values other than "Normal" require custom sorting.
+# Default value: 1
+placing_of_irrelevant = 1
+
+# Hides "minecraft:" namespace from item component suggestions.
+# Default value: true
+hide_mc_namespace_in_components = true
+
+# When enabled it will always show "minecraft:custom_data" item component as relevant suggestion. When disabled it will always be shown as irrelevant.
+# Default value: false
+show_custom_data_as_relevant = false
+
+# When enabled it will always show "minecraft:custom_model_data" item component as relevant suggestion. When disabled it will always be shown as irrelevant.
+# Default value: false
+show_custom_model_data_as_relevant = false
+
+# Ignores the "minecraft:" as command prefix. Useful when using with plugins which put Minecraft commands under this namespace.
+# Default value: true
+support_command_namespace = true
+
+# Uses new thread to load suggestions during Minecraft loading.
+# Default value: true
+use_new_thread = true
+
+# Loads suggestions by using disassembler on "load" methods of entities and block entities.
+# Default value: true
+use_disassembler = true
+
+# Loads suggestions from resource files (required to load item tags and tag predictions).
+# Default value: true
+load_from_resources = true
+
+# Allows for usage of block entity extraction method (similar to one used by disassembler) after suggestions are loaded.
+# Default value: true
+allow_block_entity_extraction = true
+
+# Enables suggestion caching.
+# Default value: true
+use_cache = true
+
+# Maximum number of cached Minecraft instances. Use -1 to disable the limit.
+# Default value: 32
+max_cached_instances = 32
+
+# Limit of printed stack traces for exceptions.
+# -1 - Unlimited
+#  0 - Stack traces disabled
+# Default value: 6
+max_stack_traces = 6
+
+# Enables additional messages and checks useful for debugging.
+# Default value: false
+debug_mode = false
+
+# Delays suggestion loading to better measure time it takes (value in milliseconds, recommended to set to a few thousand).
+# Default value: 0
+debug_sleep = 0
+
+# Saves suggestions to file - ".minecraft/nbt_ac_output.txt".
+# 0 - Disabled
+# 1 - Enabled
+# 2 - Enabled and sorted (easier for comparing)
+# Other values will be treated as 0.
+# Default value: 0
+save_suggestions = 0
+
+# Shows settings GUI after exiting realms screen. It isn't reset to default value by GUI reset button!
+# Default value: false
+debug_config_screen = false
+

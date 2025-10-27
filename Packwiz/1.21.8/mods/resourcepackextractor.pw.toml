@@ -1,0 +1,13 @@
+name = "ResourcePackExtractor"
+filename = "resourcepackextractor-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zDAQfXw4/versions/16JJbGPd/resourcepackextractor-1.0.1.jar"
+hash-format = "sha512"
+hash = "ad583d3867995844e1ada079cef5ffd5a133a5c4af0dbc152919d0e0c186dbc64528a4d34469ed102ab3329f9f82ceded4c4a04e79f10b5a773b24fed82bfd83"
+
+[update]
+[update.modrinth]
+mod-id = "zDAQfXw4"
+version = "16JJbGPd"

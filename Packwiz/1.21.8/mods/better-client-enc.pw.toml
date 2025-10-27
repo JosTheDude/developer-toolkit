@@ -1,0 +1,13 @@
+name = "Better Client"
+filename = "better_client-fabric-6.3.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uWsLN21d/versions/4c38pOla/better_client-fabric-6.3.2.jar"
+hash-format = "sha512"
+hash = "45f70766b5241c2a5b5e598a7084450d9208b1d60fc57a92f2dade3fea66791880530ae389365c6c9946cf70b6c4a37e2e144438c0ecec7062634267457dc227"
+
+[update]
+[update.modrinth]
+mod-id = "uWsLN21d"
+version = "4c38pOla"

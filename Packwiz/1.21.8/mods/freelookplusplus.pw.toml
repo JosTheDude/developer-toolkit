@@ -1,0 +1,13 @@
+name = "Freelook++"
+filename = "freelookplusplus-1.0.0+1.21.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Th66fn2y/versions/lWV5p1cQ/freelookplusplus-1.0.0%2B1.21.8.jar"
+hash-format = "sha512"
+hash = "a8440f428552c189c341f6aed8cef3e32f6556e2f06705ed60a21edc4a1fa287d97612c0a1f120ce02bc6c4578aae06a8e8741ab51ba512c52fb33c3458f7b8c"
+
+[update]
+[update.modrinth]
+mod-id = "Th66fn2y"
+version = "lWV5p1cQ"

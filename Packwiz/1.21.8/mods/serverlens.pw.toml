@@ -1,0 +1,16 @@
+filename = 'ServerLens_fabric_1.21.6-1.21.8-1.0.0.jar'
+name = 'ServerLens'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.6', '1.21.7', '1.21.8', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4d68464953ea61d5453f61818eb2f974aeff1ed38b963757b5f233bbfdf6f8433ae22cef3cdd9a9b5da6f7961ad4e8e2aa30b252fd696eede816adbf3355903c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QeuqDVjP/versions/NgqdUsVE/ServerLens_fabric_1.21.6-1.21.8-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'QeuqDVjP'
+version = 'NgqdUsVE'
