@@ -4,7 +4,7 @@ A developer focused modpack with a collection of useful utilities and game optim
 [<img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">](https://modrinth.com/modpack/developer-toolkit)
 [<img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg">](https://github.com/JosTheDude/developer-toolkit/)
 
-This modpack is primarily built for **plugin** and **server** developers in mind. It contains a large variety of server-development utilities that are combined to become a cause the following reactions:
+This modpack is primarily built for developers, admins, and configurators in mind. It contains a large variety of server utilities that are combined to become a cause of the following reactions:
 - "Oh, was that not just vanilla? My modpack does that for me!"
 - "This is so annoyi- oh wait my modpack has a tool for that!"
 - "I literally cannot live without this"
@@ -12,13 +12,13 @@ This modpack is primarily built for **plugin** and **server** developers in mind
 
 Built to work **out of the box** with most settings pre-configured. Feel free to modify as needed. See the mod list for full list of functionality, alongside feature list below.
 
-This modpack is based off of [Simply Optimized](https://modrinth.com/modpack/sop) to maximize performance.
+This modpack is based off of [Simply Optimized](https://modrinth.com/modpack/sop) to maximize performance. It has a lightweight performance imprint.
 
 ## List of Features
-- Connect to Servers Regardless of Version (1.7 to latest, bedrock, and more!) via ViaFabricPlus. No more switching versions!
-- Easy to access to Minecraft-compatible fonts and symbols (Small Caps, Unicode symbols, etc.)
+- Connect to Servers Regardless of Version (1.7 to latest, bedrock, and more!) No more switching versions!
+- Easy to access to Minecraft-compatible fonts and symbols (Small Caps, Unicode symbols, etc.) No more hunting for working symbols!
 - Item, Entity, etc. NBT & Component Viewers (Component Viewers, NBT Viewers, etc.)
-- NBT Autocomplete for Relevant Commands
+- NBT Autocomplete for Commands
 - Improved Inventory Searching (Persistent Inventory Searching, Enable Operator Tab, Better Saved Hotbars to store items, and more!)
 - Improved Command Selections (UUID entity filtering, easy near checks)
 - Teleport Utilities (through commands, top commands, centering, all client-side)
@@ -30,20 +30,20 @@ This modpack is based off of [Simply Optimized](https://modrinth.com/modpack/sop
 - Scrollable Tooltips
 - Command Block IDE (for easy command block editing)
 - Dynamic App Icon (easily view which open client is connected to what!)
+- Lang Keys Resource Pack for Easy MiniMessage Translations
 - See through water and lava
 - Toggleable Fullbright
 - Extremely Increased Chat History
 - Disconnect Confirmations
 - Pre-installed Voice Chat
 - Basic Info Display
-- Better Nametags (Customize and make nametags however you want them!)
 - One-click server joining from the main menu
 - Rebind _everything_, from narrator to the F3 menu
 - Searchable Controls Menu
-- Improved Sounds (Fully Redone in-game sounds)
+- Bundled Worldedit
 - And so much more... view the mod menu in-game for a full list
 
-All with 61 mods in a highly performanced-optimized modpack. Built to work __out of the box!__
+All with 63 mods in a highly performanced-optimized modpack. Built to work __out of the box!__
 
 ## Performance Recommendations
 Developer's Toolkit is built with performance in mind, however, it does contain a lot of mods and changes. The modpack is based off of Simply Optimized for maximum performance, however, there is additional performance overhead depending on computer specs. We recommend the following allocations to your client:
