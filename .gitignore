@@ -3,5 +3,6 @@ Packwiz/exports
 
 *.DS_Store
 
-# Exclude exported Modrinth modpacks
+# Exclude exported modpacks
+*.zip
 *.mrpack
