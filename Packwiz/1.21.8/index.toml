@@ -613,6 +613,11 @@ hash = "0bdb14d12c298ab3a115ba719c6a6ee294bcfb97ed12efe53dd1ef753efc82d4"
 metafile = true
 
 [[files]]
+file = "mods/scribble.pw.toml"
+hash = "d4e18dbf6a81848514504da893f956b947f398a29cca0b90a869f8decd7f77d4"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "1a563f0c589aced8101bb8a283af3725eedd1caaaaed4eb1987edfe3ff31c948"
 metafile = true
