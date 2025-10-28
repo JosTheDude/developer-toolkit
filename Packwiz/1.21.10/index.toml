@@ -703,5 +703,9 @@ hash = "4ba5977844e2bab2d535dea6a2ff498db6631bc17dd1dd1a76471d8371aad7a8"
 metafile = true
 
 [[files]]
+file = "resourcepacks/lang-keys.zip"
+hash = "a96c8c033604293a3c556abc2d98d4adeb2adbd547f320b8ff716b284117517e"
+
+[[files]]
 file = "shaderpacks/Toolkit_Bundled_BSL_v10.0.zip"
 hash = "b6e79a4f5746bd0b2bd8d54bb4c430539e7e747e8679ac985bc07368422e4e09"
