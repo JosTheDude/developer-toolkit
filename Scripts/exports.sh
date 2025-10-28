@@ -34,7 +34,7 @@ for dir in */; do
 
     # CurseForge Export
     # Disabled as No Curseforge Version Present
-    #packwiz curseforge export -o "$EXPORTS_DIR/${dir_name}/Dev-Toolkit-${dir_name}-${version}.zip"
+    packwiz curseforge export -o "$EXPORTS_DIR/${dir_name}/Dev-Toolkit-${dir_name}-${version}.zip"
 
     # Modrinth Export
     packwiz modrinth export -o "$EXPORTS_DIR/${dir_name}/Dev-Toolkit-${dir_name}-${version}.mrpack"

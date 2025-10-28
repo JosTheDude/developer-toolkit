@@ -1,6 +1,9 @@
 # Script: exports.ps1
 # Description: Exports each directory using packwiz and saves the exports to ./exports/
 
+# This script does not currently do CurseForge imports. This is a to-do.
+# CONTRIBUTIONS APPRECIATED FOR CURSEFORGE IMPORTS HERE
+
 $exportsDir = Join-Path (Get-Location) "exports"
 $version = "1.3.1"
 
