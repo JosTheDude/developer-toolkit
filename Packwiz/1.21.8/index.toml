@@ -408,6 +408,11 @@ hash = "a1aee1a390e64a3c5cd7ba20fad7c451f00daba64b8bda0060635eca4b00f5d5"
 metafile = true
 
 [[files]]
+file = "mods/auto-reauth.pw.toml"
+hash = "21612b692d9a345237b30623d9d6147ecaf41b15f2ff044052f81dfb1d23e008"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "220695895a8fd68ca82b7b3c34d8499b4f6ea73f6588e3dfbccd2307af0b924d"
 metafile = true

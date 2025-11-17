@@ -1,0 +1,13 @@
+name = "Auto Reauth"
+filename = "auto-reauth-0.2.3-1.21.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lab8OplF/versions/ujC8KVln/auto-reauth-0.2.3-1.21.8.jar"
+hash-format = "sha512"
+hash = "f12c2f9a9d8e92559eae9d70f9d72bb92611e1c7bcf7dc3b9bfde2c9f6970c4094379ec7d4acc59d5d0e6257bb370d53ce8ec892e4c42ed94248ef242f75495e"
+
+[update]
+[update.modrinth]
+mod-id = "lab8OplF"
+version = "ujC8KVln"
