@@ -428,6 +428,11 @@ hash = "ff260b35492778bdce59ffa064a59c6a9953ffd409eb40782af14b78a29a2cb8"
 metafile = true
 
 [[files]]
+file = "mods/camera-enhancements.pw.toml"
+hash = "56558a78b9e9018b9c3e86d9f1ad35accc040affab5711693c5e880b42876475"
+metafile = true
+
+[[files]]
 file = "mods/clear-waterlavapowdersnow.pw.toml"
 hash = "6720e88a3a17055c954b3bcce09d8decabdd02203fdb3aee42b2a13d9e81e8f7"
 metafile = true

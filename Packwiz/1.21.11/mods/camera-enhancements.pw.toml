@@ -1,0 +1,13 @@
+name = "Camera Enhancements"
+filename = "CameraEnhancements-0.2.13.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iPcmjKj7/versions/1OQUWrjj/CameraEnhancements-0.2.13.jar"
+hash-format = "sha512"
+hash = "0073a065aebc3864fc80afa81aa78ba94dbb8b45f6256157e1849b421be151254d11cab6b9ff4ff9682ec9906bb75bab032a993a538e2fba2c59d5806a521914"
+
+[update]
+[update.modrinth]
+mod-id = "iPcmjKj7"
+version = "1OQUWrjj"
