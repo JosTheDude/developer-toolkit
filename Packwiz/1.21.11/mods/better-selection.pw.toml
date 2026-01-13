@@ -1,0 +1,13 @@
+name = "Better Selection"
+filename = "better-selection-1.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xIpcAYJL/versions/OO0yafe4/better-selection-1.8.jar"
+hash-format = "sha512"
+hash = "8edda032ea0002ffcd76123eab30e0a47e8afb9df1bdff8123db1bec691b96cc239c98971adcfd177f065f751c3a09b5a611fa762cd3f9450f0781659219f3c7"
+
+[update]
+[update.modrinth]
+mod-id = "xIpcAYJL"
+version = "OO0yafe4"

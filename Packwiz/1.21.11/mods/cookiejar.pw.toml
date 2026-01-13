@@ -1,0 +1,13 @@
+name = "CookieJar"
+filename = "cookiejar-0.2.3+1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BR5k61jo/versions/aRkGDGio/cookiejar-0.2.3%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "58ee5224a9220fd8195415649b127fa2c3c34b95e9d56c6cf759a22848b3db6b72b0d1296a169c418090df1cb718a72a8023466984a0736bb542b0c7aec619da"
+
+[update]
+[update.modrinth]
+mod-id = "BR5k61jo"
+version = "aRkGDGio"

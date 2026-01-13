@@ -1,0 +1,12 @@
+{
+  "mode": "OFF",
+  "confirmPatterns": [
+    "^/(op|deop|ban|kick|pardon|whitelist)\\b",
+    "^/(stop|reload)\\b",
+    "^/(data|nbt|setblock|fill|clone|summon|give)\\b",
+    "^/tp\\b.*@a\\b"
+  ],
+  "bypassPatterns": [
+    "^/(spawn|home|warp|msg|r|tpa|tpaccept)\\b"
+  ]
+}

@@ -1,0 +1,13 @@
+name = "Resourcify"
+filename = "Resourcify (1.21.11-fabric)-1.7.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RLzHAoZe/versions/nTbSWZ0E/Resourcify%20%281.21.11-fabric%29-1.7.6.jar"
+hash-format = "sha512"
+hash = "084c9d7cb341b792b05a31b70f147f00c86e45644e99dc2e2187b357333eb89355e5fce3afa469d9f3747cb68c54ed8e9b7939f03d2540e52fec3cef7cc2dc22"
+
+[update]
+[update.modrinth]
+mod-id = "RLzHAoZe"
+version = "nTbSWZ0E"

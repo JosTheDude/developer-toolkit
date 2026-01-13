@@ -1,0 +1,13 @@
+name = "Clear Water/Lava/PowderSnow"
+filename = "ClearWaterLava-Fabric-1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UFRJve4V/versions/6WjDpmpO/ClearWaterLava-Fabric-1.21.11.jar"
+hash-format = "sha512"
+hash = "89aa5679026c00df4acf6dcbece51b7f9ddc209f9ec7f43f4860b8fcedac052396b233acbff75ccdc9f6f18470a3250bda159bdec315ffcc45c4cb07c35131ea"
+
+[update]
+[update.modrinth]
+mod-id = "UFRJve4V"
+version = "6WjDpmpO"

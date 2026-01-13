@@ -1,0 +1,13 @@
+name = "Dynamic App Icon"
+filename = "dynamicappicon-1.21.11-0.2.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PCgMJzJ6/versions/V4nGCHeK/dynamicappicon-1.21.11-0.2.7.jar"
+hash-format = "sha512"
+hash = "706102e771f1498bebd8fd0b0e247ed12c6011d6377285968a68f4be90aadbaaeecee3d09570a53955ac79def2c228f2886269041cf2bdfa419ac66ba769b72b"
+
+[update]
+[update.modrinth]
+mod-id = "PCgMJzJ6"
+version = "V4nGCHeK"

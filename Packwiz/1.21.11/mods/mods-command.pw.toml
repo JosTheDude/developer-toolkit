@@ -1,0 +1,13 @@
+name = "Mods Command"
+filename = "mods-command-mc1.21.11-1.1.14.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PExmWQV8/versions/kr5sf0TO/mods-command-mc1.21.11-1.1.14.jar"
+hash-format = "sha512"
+hash = "f76caf4f99409af1407d6874069691c145c1f5c2369d763a74d606400e867c68bd708ea0deaaa9867ee47750cecd61394997f0b3efd0ce08afff137d700ad22d"
+
+[update]
+[update.modrinth]
+mod-id = "PExmWQV8"
+version = "kr5sf0TO"

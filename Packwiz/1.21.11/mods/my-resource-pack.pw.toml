@@ -1,0 +1,13 @@
+name = "My Resource Pack, My Choice"
+filename = "myresourcepack-1.2.7+1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PTj85Anz/versions/YFs08Jvy/myresourcepack-1.2.7%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "b0fa86e66efd17b85f06b275caf8a12a491a66af3a95c0b33a36907111c3e409935cd1bacd0366927f35f127b5ea618005de709800ec35264ef55bd00d466598"
+
+[update]
+[update.modrinth]
+mod-id = "PTj85Anz"
+version = "YFs08Jvy"
