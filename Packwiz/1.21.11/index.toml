@@ -403,11 +403,6 @@ hash = "ff1763afa21669a76a9ca65735944986ec4ef7a0d440b98ee2154aafa46356c8"
 metafile = true
 
 [[files]]
-file = "mods/asyncparticles.pw.toml"
-hash = "5e5fd3d45df61c1c966661759ab6b6ddaaf2cebefdff12300f89df327156b644"
-metafile = true
-
-[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "b72d00d529ec694ae354b73f6b36d4ec2b830c60c05cc31f46d00ac7ddf8a26b"
 metafile = true
@@ -430,11 +425,6 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "ff260b35492778bdce59ffa064a59c6a9953ffd409eb40782af14b78a29a2cb8"
-metafile = true
-
-[[files]]
-file = "mods/chatshot.pw.toml"
-hash = "959b96aa8ea7a06fd04efb4aab049dce83485d8102568d127194f418d365a1bd"
 metafile = true
 
 [[files]]
@@ -518,11 +508,6 @@ hash = "11c608b6ef3ca111e9bccd9c4aeb8c47cf0b1f5db48054abc89d6a5f1a978aac"
 metafile = true
 
 [[files]]
-file = "mods/freelookplusplus.pw.toml"
-hash = "a831dcd8a1f3dfb186689c9f2272eed55afc2dff80516d658849abd8e074c3ca"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "402069ebe33a1f19e6e5c0c0235267b832ba44617f15ddbdc677faf2a2607e38"
 metafile = true
@@ -578,8 +563,8 @@ hash = "af6a6617ffeec6f29ac709fafed3000b609a781bf2fa932fafe833f243b4f125"
 metafile = true
 
 [[files]]
-file = "mods/one-click-join.pw.toml"
-hash = "0275de5d2421d57088bb9480a500a2b1ef900fbfd706b3d1a6b54f2e44d812c6"
+file = "mods/ok-zoomer.pw.toml"
+hash = "ee0b54d23f802ea714ecfe71c62421ca00d3b49699324bb01defab4868d529f0"
 metafile = true
 
 [[files]]
@@ -595,11 +580,6 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
-metafile = true
-
-[[files]]
-file = "mods/resourcepackextractor.pw.toml"
-hash = "da8f10cdfda2b5b37548ad0e3dba336ff10a80855fd00ae2a824b7eed4eee23e"
 metafile = true
 
 [[files]]
@@ -695,11 +675,6 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "649c259a4777ba1b544b69d04a79f2b1b0e1a3c520033cc86a3c14d5fa53564a"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.pw.toml"
-hash = "d74d244b3524bea2326becd2ceaa27b8e231156aba33448533cd29b12ed48318"
 metafile = true
 
 [[files]]
