@@ -1,0 +1,13 @@
+name = "Your Options Shall Be Saved (YOSBS)"
+filename = "yosbs-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1Gw7bnTq/versions/S8HfufFV/yosbs-1.0.0.jar"
+hash-format = "sha512"
+hash = "7afce4282b98a0437adb6cb1236edea83e61c4cfefa60303157d4ca0bde83336952925f631a669af5831464fbc366e28ef019c1baeb0f25b02554a072a684963"
+
+[update]
+[update.modrinth]
+mod-id = "1Gw7bnTq"
+version = "S8HfufFV"

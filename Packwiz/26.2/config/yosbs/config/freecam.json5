@@ -1,0 +1,43 @@
+{
+	"controls": {
+		"keys": null
+	},
+	"movement": {
+		"flightMode": "DEFAULT",
+		"horizontalSpeed": 1.0,
+		"verticalSpeed": 1.0
+	},
+	"collision": {
+		"ignoreTransparent": false,
+		"ignoreOpenable": false,
+		"ignoreCustom": false,
+		"whitelist": {
+			"ids": [],
+			"patterns": []
+		},
+		"ignoreAll": true,
+		"alwaysCheck": false
+	},
+	"visual": {
+		"perspective": "INSIDE",
+		"showPlayer": true,
+		"showHand": false,
+		"fullBright": false,
+		"showSubmersion": false
+	},
+	"utility": {
+		"disableOnDamage": true,
+		"freezePlayer": false,
+		"allowInteract": false,
+		"interactionMode": "CAMERA"
+	},
+	"servers": {
+		"mode": "NONE",
+		"whitelist": [],
+		"blacklist": []
+	},
+	"notification": {
+		"notifyFreecam": true,
+		"notifyTripod": true
+	}
+}

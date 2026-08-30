@@ -1,0 +1,13 @@
+name = "ServerLens"
+filename = "ServerLens_fabric_26.2.x_2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QeuqDVjP/versions/LJyhXDqS/ServerLens_fabric_26.2.x_2.0.0.jar"
+hash-format = "sha512"
+hash = "5387a3d9c584b8e33c18be3f7487e5b40992e869e01e60bd3e65a4702343b9db3218902081065ef30186e3bd244c89bbcc22722a8e65ac8bf32ccbc83db81599"
+
+[update]
+[update.modrinth]
+mod-id = "QeuqDVjP"
+version = "LJyhXDqS"

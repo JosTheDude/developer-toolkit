@@ -1,0 +1,13 @@
+name = "Better Client"
+filename = "better_client-10.6.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uWsLN21d/versions/SEvCKJ2i/better_client-10.6.0.jar"
+hash-format = "sha512"
+hash = "5e983b9843f569fd097f0a6c99c2d0213e375f2ed6e4abdb9090562fee2202708ae6b8d11f931300b808b913a79606bd261d06744d0dc4940cbec2657c148a31"
+
+[update]
+[update.modrinth]
+mod-id = "uWsLN21d"
+version = "SEvCKJ2i"

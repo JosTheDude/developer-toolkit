@@ -1,0 +1,6 @@
+{
+  "ignoreCookieStores": "NEVER",
+  "ignoreCookieRequests": false,
+  "ignoreTransfers": false,
+  "enableSingleplayerFix": true
+}

@@ -1,0 +1,13 @@
+name = "Custom Client Brand"
+filename = "custom-client-brand-1.0.1+26.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/g8SrZYee/versions/ZDZUjaFr/custom-client-brand-1.0.1%2B26.1.jar"
+hash-format = "sha512"
+hash = "4f8574969cd20369a9645210bb1a1445c4d8a3b23be7565bc1fe48d44ef7bf56a7db8007c916b5062d3b73de7439da44dd623c1e369feb0af793a60258eb24eb"
+
+[update]
+[update.modrinth]
+mod-id = "g8SrZYee"
+version = "ZDZUjaFr"

@@ -1,0 +1,8 @@
+{
+	"confirmEnabled": true,
+	"useDiscreteConfirmation": false,
+	"enableInSingleplayer": true,
+	"enableInMultiplayer": true,
+	"confirmDelay": 0.0,
+	"confirmOnLeft": false
+}

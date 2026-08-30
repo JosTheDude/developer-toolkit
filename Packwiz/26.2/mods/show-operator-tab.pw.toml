@@ -1,0 +1,13 @@
+name = "Show Operator Tab"
+filename = "show-operator-tab-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XBMKDD5C/versions/DsKD2zRJ/show-operator-tab-1.1.0.jar"
+hash-format = "sha512"
+hash = "af400aee6909fb81380dabf58fb6e3a9e5306ab765cb89df2e67bb6ce3bccd191f3965ac455f3274d9ff30b4993e218b7b9ec90c063d9c0277bbe269c1d5533a"
+
+[update]
+[update.modrinth]
+mod-id = "XBMKDD5C"
+version = "DsKD2zRJ"

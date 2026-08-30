@@ -1,0 +1,13 @@
+name = "No Command Confirm"
+filename = "NoCC-1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cygPPnN1/versions/hAtoGuKE/NoCC-1.3.1.jar"
+hash-format = "sha512"
+hash = "28214f2d175be4d82839e9129efc68567752c8cb3e261161a122fdd06ab92cb4fa1787feb43860f545f7da1e6672c0074f343dd5025a269f1cd3aef56c388dee"
+
+[update]
+[update.modrinth]
+mod-id = "cygPPnN1"
+version = "hAtoGuKE"

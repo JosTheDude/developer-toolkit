@@ -1,0 +1,13 @@
+name = "Mods Command"
+filename = "mods-command-mc26.2-1.1.16.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PExmWQV8/versions/KW1YTIeq/mods-command-mc26.2-1.1.16.jar"
+hash-format = "sha512"
+hash = "f8b96bf2b85248f850cf49977df3084f6aff037cc7eba934115fa32bea4865efab07f4ffbe7025fcf72afe17b380285e65e0afeebaf053c065d85e11a387584c"
+
+[update]
+[update.modrinth]
+mod-id = "PExmWQV8"
+version = "KW1YTIeq"
