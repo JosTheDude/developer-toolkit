@@ -58,7 +58,7 @@ hash = "d5313ce971eda67ecda615767ffda9564f6c4c6c5433d7d219b29566f4e34171"
 
 [[files]]
 file = "config/yosbs/config/better_client/client.json"
-hash = "465ce2aaf2a761711951c8734aa86e364c99cab821bfe2831a28bf69f371af7f"
+hash = "7cd54be0dba838aa726232639f669862d6804b01fa8ec58346655accfb5e9d9f"
 
 [[files]]
 file = "config/yosbs/config/betterblockentities.json"
@@ -286,7 +286,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/yosbs/config/viafabricplus/settings.json"
-hash = "6108aa15f6c4e63a0b0877ae4605b123a71af37976c01b8deb33d2cf06e1d019"
+hash = "f536fefde166510972a10e2ccde9636a4ebd725813f2be89ed04c7f7fdc032f6"
 
 [[files]]
 file = "config/yosbs/config/viafabricplus/viaaprilfools.yml"
@@ -294,11 +294,11 @@ hash = "44c3afa2f8138aae145e5ab9554cc75be3a7cbf19afee31ce233fc9eb4e08993"
 
 [[files]]
 file = "config/yosbs/config/viafabricplus/viabackwards.yml"
-hash = "563e7f563fa41986c4bd213510878cfdaaccacb4a1b73b28681789ed50771746"
+hash = "be5d82bfa2c3c67b03a794f7318d2dd28f4c22522c8425ab8e4ea30e8206ba28"
 
 [[files]]
 file = "config/yosbs/config/viafabricplus/viabedrock.yml"
-hash = "7c113df67faa235d83ddcbb69d0e62beef6d7b110cb2f3d55f6494d54df70222"
+hash = "faa2318294e9ae0ded2d836be486c2ffb184f7831d6c2594c501a6b5779369d4"
 
 [[files]]
 file = "config/yosbs/config/viafabricplus/viabedrock/blob_cache/data.bdbd"
@@ -314,7 +314,7 @@ hash = "3c8e3c8cc81284f56e9e7e1209dc6a4eabdedcb15beffcf0830fbf4f5946acd3"
 
 [[files]]
 file = "config/yosbs/config/viafabricplus/viaversion.yml"
-hash = "115ab3bc83bf7492b661baa7efd13e5b4e2366c7d378c08fff42a9c7b09afbe7"
+hash = "498fe4b17350ef50c5921fc25f51901d6dd361f9988f553bf9c5403849832428"
 
 [[files]]
 file = "config/yosbs/config/vmp 11.08.54 AM.properties"
@@ -645,11 +645,6 @@ metafile = true
 [[files]]
 file = "mods/tooltip-scroll.pw.toml"
 hash = "18918ea68ef6cc6c3f9a753547ebf8222a7ce0080843ee19ec485afc24f2f1fa"
-metafile = true
-
-[[files]]
-file = "mods/tp-utils.pw.toml"
-hash = "2ec22553383167594633a241e6d3d512d71a31de268322dcaabf99f8aa7defe3"
 metafile = true
 
 [[files]]
